@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .TV one-word domains still available to buy.
 
-This dataset contains 3,496 .TV one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,498 .TV one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.TV one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=tv-oneword-domains&utm_content=description.top) (3,503) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.TV one word domains](
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.tv      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.tv      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.tv  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.tv      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.tv  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.TV one word domains](
 | abhorrent.tv  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.tv    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.tv     | available | 54       | 1%     | 6      |           |         |         |
-| ability.tv    | available | 92       | 18%    | 7      |           |         |         |
+| ability.tv    | premium   | 92       | 18%    | 7      |           |         |         |
 | abject.tv     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.tv     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.tv  | available | 78       | 1%     | 9      |           |         |         |
