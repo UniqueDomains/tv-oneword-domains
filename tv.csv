@@ -20,7 +20,7 @@ cc51d13f-0cd7-472a-b59b-84d42b493a0f,aberdonian.tv,available,68,1,10,,,
 7d157803-8dc9-4133-b9c6-1783ffc826cc,aberrant.tv,available,74,7,8,,,
 3dbd4ed7-3362-4bcd-8519-9ee6ed7304f0,abeyant.tv,available,56,2,7,,,
 4842e730-e8b7-4b67-8f61-37580c055de4,abhorrent.tv,available,54,3,9,,,
-82426665-8359-4781-9717-95af36523a8d,abide.tv,available,94,15,5,,,
+82426665-8359-4781-9717-95af36523a8d,abide.tv,premium,94,15,5,,,
 4bb39f2b-a1fd-40c9-a554-dd418fef64b0,abiding.tv,premium,106,5,7,,,
 40679c16-2cc8-4723-9b20-788412a9439c,abient.tv,available,54,1,6,,,
 c652e2fe-e983-4fa2-a97b-804b4cac9d45,ability.tv,premium,92,16,7,,,
@@ -92,6 +92,7 @@ e146a4e9-7666-471b-b844-12b0ba74000b,acappella.tv,available,66,6,10,,,
 31e1b7ec-bf41-4094-a91e-08631dd10f12,acaudate.tv,available,46,1,8,,,
 50d1c8ab-e639-4acb-99b2-79b3b32b1cc8,accented.tv,available,58,2,8,,,
 21c3b483-f8be-4b8e-882c-6e5daee793b7,accentual.tv,available,54,2,9,,,
+db043c38-f0da-4b2d-9036-bc473389f7fe,accept.tv,available,103,15,6,,,
 3702b2de-1359-49f7-ba97-0513e5503d49,acceptant.tv,available,78,1,9,,,
 f567d779-25bf-4ff6-be5e-aabc2b7e60b1,accepted.tv,available,78,5,8,,,
 0d769b81-30c0-4923-85ab-b43f8b6b9615,accepting.tv,available,74,3,9,,,
@@ -695,6 +696,8 @@ fab65303-7db5-4bcc-b70f-7b07092cd3d4,annalistic.tv,available,47,1,10,,,
 8d6aa46f-6381-462f-907a-495c15821746,annelidan.tv,available,59,1,9,,,
 1d74bcdb-0e4c-4cce-b560-0b6b24aaf2bf,annex.tv,resell,60,11,5,1API GmbH,29/12/2015 09:18,29/12/2026 09:18
 e0847d1c-602e-42b2-9837-b05e03cb6002,annexal.tv,available,60,2,7,,,
+c452dbc5-2723-49c3-b04d-a3764e974cd9,announce.tv,available,76,8,8,,,
+91a970b8-6b27-43d0-b5f7-683abef8d4c8,annoy.tv,available,82,4,5,,,
 948cdfa5-20c4-4cc3-883e-8bdf030c9279,annoyance.tv,available,54,2,9,,,
 5f7bfe80-d817-4468-b097-a602712be68a,annoyed.tv,available,58,4,7,,,
 4ae3be05-6259-4fa7-ae40-c3925f2e47f3,annoying.tv,available,72,7,8,,,
@@ -975,6 +978,7 @@ b1e9bbd1-1534-4d7e-b98a-fcefa031d74b,ashen.tv,resell,68,8,5,"NameCheap, Inc.",13
 ab47d634-0d22-4ff0-a097-1be30543ae17,ashy.tv,available,60,10,4,,,
 c336e117-c302-4c34-9842-9c16e1713193,asiatic.tv,available,66,4,7,,,
 0c8e24ba-adc8-4f8f-8fa0-ec64d4b0fad8,aside.tv,available,102,9,5,,,
+db895036-87f5-46c9-a7ec-1682ff3bc60d,ask.tv,resell,80,42,3,"eNom, LLC",11/10/2000 19:57,11/10/2026 19:57
 9b99495a-b58d-4b0b-94fa-7c89cdf4636f,askance.tv,available,76,3,7,,,
 2d6fae5c-4735-40e4-a7eb-b5d3d75ca84d,askant.tv,available,76,3,6,,,
 2a47b221-8806-4ed0-be48-01e1110f1f9b,askew.tv,available,44,8,5,,,
@@ -1014,6 +1018,7 @@ c37ce1f7-d081-43f5-b141-f69322a53490,assuasive.tv,available,68,1,9,,,
 3036c644-df10-438c-b2d0-0696bf094a01,assumed.tv,available,48,3,7,,,
 70845871-1aac-423f-b707-1ace6e9291cd,assuming.tv,available,62,1,8,,,
 8216cd33-db70-4f06-9319-080780de70e6,assumptive.tv,available,44,1,10,,,
+a1a81183-b274-4221-9c1d-a09b75dae3f8,assure.tv,available,80,15,6,,,
 5db48a45-65c5-4d20-afa1-9fbe9c5229d7,assurgent.tv,available,44,2,9,,,
 56fdf0da-e86c-47d3-9538-a6b9a0c0abfb,assuring.tv,available,44,2,8,,,
 1d5ae90a-509e-449c-85fd-503fa75c8247,astatic.tv,available,48,2,7,,,
@@ -1287,7 +1292,7 @@ b1d9b8e8-0dbf-47b3-b464-d7afb56c9c0b,balzacian.tv,available,70,1,9,,,
 17cb5801-aa01-49d9-a66e-1644a95f0993,bangup.tv,available,58,2,7,,,
 9cf1f31d-f75b-41d0-a0c6-5c128008722d,bank.tv,resell,70,35,4,"GoDaddy.com, LLC",18/06/2007 16:49,18/06/2026 16:49
 c10853bc-8832-4574-bf7d-31784f17bffa,bankable.tv,available,64,8,8,,,
-52deb166-5d6a-44f1-8704-2ede2c2b07e6,banking.tv,available,76,20,7,,,
+52deb166-5d6a-44f1-8704-2ede2c2b07e6,banking.tv,premium,76,20,7,,,
 0206d0ed-9641-49f1-8c46-7cec3fc9cece,bantam.tv,available,68,8,6,,,
 b8565185-201e-4e06-a5a0-aff62f8a3631,bantering.tv,available,72,1,9,,,
 b0a54353-9d97-4efd-b744-f160b2d55267,bantoid.tv,available,48,1,7,,,
@@ -1531,7 +1536,7 @@ de37d5a6-c345-42c5-af8b-840220dada9f,branch.tv,available,62,24,6,,,
 48444908-8a65-480f-9495-75a9535a15df,branded.tv,resell,72,20,7,"GoDaddy.com, LLC",29/06/2012 19:26,29/06/2026 19:26
 bfde0407-da8e-40bc-8f3c-44c634d9f3ab,brandnew.tv,available,72,12,9,,,
 0a84f2f4-a028-478b-964d-919efac2b78c,bravery.tv,available,80,10,7,,,
-860b581a-7500-434b-a162-6b14ca6fc346,bread.tv,available,102,31,5,,,
+860b581a-7500-434b-a162-6b14ca6fc346,bread.tv,premium,102,31,5,,,
 fce67434-35d8-461f-9e49-53be279fe7f5,break.tv,resell,82,16,5,Dynadot Inc,19/03/2010 05:31,19/03/2026 05:31
 6a992fbf-866d-46d1-bc4a-5b2910821449,breezy.tv,available,76,17,6,,,
 be4e1e8b-689f-449f-ab81-28e15c3a1edb,briary.tv,available,48,2,6,,,
@@ -1607,6 +1612,7 @@ d87b5be0-8858-455d-b5e9-1a50eb8b4688,cabbage.tv,resell,94,16,7,Dynadot Inc,25/03
 8878d924-de4a-4375-901b-203b18cfae33,calf.tv,available,74,7,4,,,
 052ee005-3ee5-4436-9e28-de19d71ff322,cali.tv,resell,72,25,4,Dynadot Inc,18/03/2010 20:41,18/03/2026 20:41
 5d51b2ee-a3e8-42fa-9b0f-5bff1713d346,california.tv,resell,72,30,10,Dynadot Inc,18/03/2010 04:12,18/03/2027 04:12
+e7deda5d-93b5-4a45-8c9e-891ff81367a6,callfor.tv,available,72,2,8,,,
 51d52002-eb34-487a-8cbd-5f5ea374cb87,calloff.tv,available,67,2,8,,,
 5099a70b-94ca-4323-b408-069e627ee40c,cameroon.tv,available,81,3,8,,,
 e94024a2-802e-45d3-9f1e-ad23c360780a,camo.tv,available,91,17,4,,,
@@ -1633,6 +1639,7 @@ b63cbe2e-bdd6-43b6-a44c-455900739e25,carousing.tv,available,50,1,9,,,
 3fd1a737-73f3-4cad-978a-4c807b237728,carriage.tv,available,68,6,8,,,
 bc72c3ae-1587-4bb1-bfa8-8611cc3b4059,carrier.tv,available,64,16,7,,,
 3b361c66-3886-404d-bed9-7725255a34a1,carry.tv,resell,58,15,5,"Name.com, Inc.",01/08/2007 20:09,01/08/2026 20:09
+79a3fd5f-0023-4961-a562-63f37b1f67aa,carryon.tv,available,93,9,8,,,
 3774982a-f267-455a-af96-9d137672a89e,carsick.tv,available,52,3,7,,,
 b98d2a1a-cc50-4013-b44d-645e3d3fc29e,casket.tv,available,84,7,6,,,
 062d1c14-8d99-46b2-9a7f-954307322722,cassette.tv,available,66,11,8,,,
@@ -1677,19 +1684,39 @@ a822039e-9ff1-436f-81db-11c05a8cac53,chicken.tv,resell,68,30,7,Dynadot Inc,08/05
 f7cf0341-b3b9-41ee-bd0e-4dfdccaa8412,chiefly.tv,available,80,3,7,,,
 d7c77589-7817-47b3-897a-5e0dfb42db17,childhood.tv,available,78,8,9,,,
 b2c1570f-74ec-49a9-8467-8e729b86549b,chiliad.tv,available,62,2,7,,,
+d5832b4a-8969-4edd-a7a6-fd331a15fb4a,chimney.tv,available,90,12,7,,,
+cc506df7-9f77-439e-8372-ab353e315408,chin.tv,available,64,15,4,,,
 c2e76238-babf-45a6-bce9-429e51f90cc2,chip.tv,available,76,25,4,,,
+4bdf1d65-9952-494f-8b9d-0cc78b13b61f,chips.tv,resell,84,22,5,1API GmbH,11/06/2014 21:44,11/06/2026 21:44
 2b8a2784-f4fb-4801-b24d-924f6869ca84,choppy.tv,available,62,5,6,,,
+4d2cc4f7-9b82-4cf3-b5bb-7b83ecf3a7e2,chore.tv,available,88,10,5,,,
+2bfe0bb4-b85e-4755-b78b-2ebc4d9babd0,christ.tv,resell,86,24,6,"GoDaddy.com, LLC",06/06/2010 08:00,06/06/2026 08:00
+5faa1519-be4b-442e-ac62-b1475101aa3b,christmas.tv,resell,146,26,9,InternetX GmbH,21/01/2009 09:08,09/04/2026 03:59
+eb9bd6b8-9328-4ec1-95d6-2b9f020f9396,church.tv,resell,72,36,6,Dynadot Inc,16/10/2019 08:02,16/10/2026 08:02
 a7107676-c128-4cee-a3e6-c819d87ffacc,cinnamon.tv,available,68,15,8,,,
 c4f49ccf-2730-459b-809a-1cdcc0093fef,circinate.tv,available,56,1,9,,,
 ffb4032e-601b-4e49-b35d-6169f4b3532c,circle.tv,resell,68,35,6,Dynadot Inc,21/09/2012 22:25,21/09/2026 22:25
 247a7521-0c94-4999-ac32-f548063a9aa4,circular.tv,available,106,24,8,,,
+cbefbb67-456a-4d06-8d0c-93272012f5aa,citizen.tv,resell,74,27,7,"GoDaddy.com, LLC",16/02/2018 09:00,16/02/2026 09:00
+61dd878b-1fb1-4bf4-ae3b-f1ba3a5e7c08,city.tv,resell,74,32,4,InternetX GmbH,01/05/2000 07:00,09/04/2026 03:59
+c18a3826-f87a-4616-b38a-9834a6e6b391,civiltime.tv,available,64,1,10,,,
+6dc3db53-bf2e-4e14-b4f7-4b11cef3ce2e,claimform.tv,available,66,3,10,,,
+9fbfd11d-6a9b-4cfa-b0a4-701d0562bd8c,clarity.tv,available,76,44,7,,,
+2bbf7bcf-1096-4011-8a2f-ee81dc80ff79,classroom.tv,available,70,19,9,,,
 727780ee-3985-4309-a6e2-058701623e72,clayey.tv,available,50,1,6,,,
+0b92e2bc-163e-4e64-8683-e524ee8d4800,cleaner.tv,available,70,16,7,,,
 0920e89e-7395-4589-94f3-030b5989367f,cleansing.tv,available,82,4,9,,,
 41783eac-78da-4a5f-9172-ff3d524e886a,clear.tv,resell,90,42,5,"eNom, LLC",11/10/2000 20:07,11/10/2026 20:07
 c706a1b8-c8cb-41c2-9b02-8ef109d16639,clearly.tv,resell,77,14,7,"GoDaddy.com, LLC",17/08/2000 04:41,17/08/2026 04:41
+f909d9de-2fd9-4d67-8866-61d780810c1d,cleaver.tv,available,56,9,7,,,
+00fba668-9630-48ed-be02-82fb70b51c72,clerk.tv,resell,60,12,5,Dynadot Inc,08/04/2008 20:40,08/04/2026 20:40
+269fe816-a567-42a9-8197-b675d87913d1,cleveland.tv,resell,56,19,9,Dynadot Inc,09/02/2015 09:08,09/02/2029 09:08
 dd4c834c-56b8-421b-99ca-a4f0ff609b82,cleverly.tv,available,69,7,8,,,
+7589b0e4-4d7a-490b-895a-8270d06568c6,client.tv,available,70,25,6,,,
 5f36ceed-4e6c-448c-8df2-835387fa674e,climbable.tv,available,54,1,9,,,
+823ad292-d2b5-4f59-8c3a-d7f927bb9e02,clinic.tv,resell,70,19,6,"NameCheap, Inc.",05/04/2010 12:02,05/04/2026 12:02
 ce52771f-4bfa-4ec3-a192-9e9d3ee4b98f,clinically.tv,available,56,8,10,,,
+46ebab47-a440-4a7e-8ad2-05998537fac6,clock.tv,resell,62,21,5,Dynadot Inc,18/03/2010 12:56,18/03/2026 12:56
 b194861f-f96e-49ab-92dd-1dea8b6baf07,closely.tv,available,68,4,7,,,
 5dd13e45-faa9-4dd3-98fa-48fc9bef13ac,closer.tv,resell,78,17,6,DropCatch.com 912 LLC,15/07/2022 08:00,15/07/2026 08:00
 fce1cb07-47c9-4e00-86c1-990574d1f427,closest.tv,available,68,3,7,,,
@@ -1698,6 +1725,7 @@ c98d872e-e5e2-453f-b9f1-d15eecca6d82,closeto.tv,available,58,3,8,,,
 291234a7-6fc1-4928-b7a5-e70eeadf3aea,clothes.tv,resell,82,15,7,Dynadot Inc,06/06/2021 08:01,06/06/2026 08:01
 d9030c15-8e26-448e-9928-4258c4d21c74,cloud.tv,resell,70,54,5,Dynadot Inc,10/04/2019 08:02,10/04/2026 08:02
 6ed4a521-d96d-4fb5-a647-7366f695da72,clowning.tv,available,68,2,8,,,
+98052c36-446a-48e3-8524-c090a555b361,clue.tv,resell,74,21,4,"NameSilo, LLC",17/09/2004 18:12,17/09/2026 18:12
 ac54cabb-7410-47f8-b79d-caa02fbe8442,clumsy.tv,available,74,7,6,,,
 53609c8d-36dd-424b-b27f-0d122e50b23e,clustered.tv,available,58,4,9,,,
 3edc290b-ff5b-42bf-b3f4-cc1c6f172be4,clv.tv,available,66,10,3,,,
@@ -1708,18 +1736,24 @@ b4eeadba-5873-4105-8c4d-63658ed3f90b,clxx.tv,available,60,2,4,,,
 7267b488-230c-42b6-bbaf-3d9a44663f3a,clxxx.tv,available,60,1,5,,,
 2fcbf7d6-704a-4d36-a2d4-0cf16114abb3,coach.tv,available,108,35,5,,,
 b4633a8b-755e-4f5e-97b6-f1ad2b810c49,coalesced.tv,available,54,2,9,,,
+d73baad6-712f-4d4a-8d19-9b83827b218b,coast.tv,available,94,22,5,,,
 0ebbe461-7055-4cb8-828b-3524b121e33a,cock.tv,resell,58,18,4,"Spaceship, Inc.",18/03/2010 17:04,18/03/2026 17:04
 b6b6fccf-feeb-4182-9d58-4ee2c65154a3,cockeyed.tv,available,44,1,8,,,
 9a66d9af-3687-477b-ba13-8226ceee4fd1,cocksucker.tv,available,44,4,10,,,
+40990cc2-67d3-4505-83ec-a689b9d6a936,cocoa.tv,resell,78,18,5,Dynadot Inc,18/12/2009 06:16,18/12/2026 06:16
+999cca37-03ae-4b93-9843-24ac33617d28,coffee.tv,resell,76,39,6,Dynadot Inc,18/03/2010 12:56,18/03/2026 12:56
 8cf7607c-9262-493d-8208-f23450f1fdcf,coffin.tv,available,50,9,6,,,
 f9aeb1ae-3a37-4808-a376-1f0aa2208528,cognisant.tv,available,60,3,9,,,
 e9043954-56dc-4a1d-8649-1dfd1f2995fc,cognizant.tv,available,62,11,9,,,
 4d7ad3c2-958b-4c28-9c7a-d16175d9980e,coherently.tv,available,62,2,10,,,
 2d627737-4794-4152-b55a-c34a4d48cf1a,cold.tv,available,78,21,4,,,
 92f9e7b5-3908-4a68-861d-3b4330008f4c,coldly.tv,available,52,2,6,,,
+be3423fd-7762-4feb-91ba-89b258ceba02,college.tv,resell,76,25,7,Dynadot Inc,13/08/2021 08:02,13/08/2026 08:02
 f72b8575-9be6-4fb3-a1ba-4abc68e1faa3,colligate.tv,available,50,1,9,,,
+8caabe16-5cc6-4cf5-a510-11b2a8f298fa,collision.tv,available,60,13,9,,,
 3a4c1ab5-af8a-4d80-a98e-fce42593b3d5,colombo.tv,available,74,13,7,,,
 a1163340-b09a-44dd-8e61-fef4506c078d,colored.tv,available,72,5,7,,,
+3cda0bab-d9f2-4019-9f54-0ce61e5f589e,colors.tv,resell,82,22,6,Dynadot Inc,07/06/2017 09:06,07/06/2026 09:06
 8a282214-32b6-4cc9-9d9a-6a7bd280f225,coloured.tv,available,68,3,8,,,
 55312a60-dd4d-4c3e-947d-95a2b5a1194c,columbia.tv,available,66,14,8,,,
 9a61a864-7e27-4f79-8a0a-7ea0167562d8,column.tv,resell,74,11,6,Dynadot Inc,30/01/2021 10:15,30/01/2026 10:15
@@ -1733,7 +1767,10 @@ e78f18d3-d7fb-40f3-8228-b7e7bd291a5b,comeclose.tv,available,52,2,10,,,
 9cf719a2-66a0-40a3-9ea4-8a69c53da143,comical.tv,resell,75,4,7,1API GmbH,21/02/2010 16:50,21/02/2026 16:50
 fe65149e-b272-4fbf-b1c9-af24a50b8ed4,coming.tv,available,102,10,6,,,
 ea6e636e-bbdc-428d-9071-173807d28e47,commanding.tv,available,87,2,10,,,
+0b11bec4-cbac-4b21-bc74-5c4cee0a64b4,commission.tv,available,84,13,10,,,
+09db8706-877e-498c-a2bc-0aeb9184aa72,committee.tv,available,64,7,9,,,
 e9482978-0fe1-4fa9-980f-331038da25fc,commix.tv,available,64,4,6,,,
+d27b4277-1cab-41c3-a70e-f387e727134e,commodity.tv,resell,70,14,9,Dynadot Inc,24/11/2010 09:04,24/11/2026 09:04
 cc46c337-b466-47a6-8c7c-bb6cda77c183,commonera.tv,available,66,3,10,,,
 9d173faa-e81b-434b-b850-41a0b97aa021,commonly.tv,available,64,4,8,,,
 ae9023a8-e9f4-42f8-9a1f-45fa58909265,commons.tv,available,63,21,7,,,
@@ -1743,6 +1780,7 @@ ae9023a8-e9f4-42f8-9a1f-45fa58909265,commons.tv,available,63,21,7,,,
 ef5361e9-f208-429e-9150-e1de076536e1,compatible.tv,available,91,7,10,,,
 9d9b0eb7-8dba-4e4e-95a3-6f81bdb79784,compensate.tv,available,77,4,10,,,
 459ce06d-40d7-48a2-ad98-240ffaff4a08,competent.tv,available,73,6,9,,,
+cf8ca94f-2d13-473a-8c8e-a900f84e7a89,complement.tv,available,96,8,10,,,
 4ecfd939-1be1-4a20-9243-b3365062f49c,completed.tv,available,74,5,9,,,
 962056c5-8d30-4188-90e2-1acd0f1b4f47,completely.tv,available,66,5,10,,,
 45f9e16c-66cc-4ffd-9c8d-ff0075fbfb8f,completing.tv,available,68,2,10,,,
@@ -1750,22 +1788,42 @@ d7e906ba-c61d-4b7c-8c9f-78c1e5eb2111,completion.tv,available,78,6,10,,,
 196369e4-8456-46a6-a50d-e4c81b16ed16,compliant.tv,available,69,10,9,,,
 da341d18-f13d-4608-8a0a-8383cc7dfdd7,composite.tv,available,107,18,9,,,
 74579a74-c6ea-4bf4-a154-d264056d5143,compound.tv,available,105,20,8,,,
+34487903-89d8-4f14-9a38-6c1f9c7237cc,comprehend.tv,available,76,5,10,,,
 04fbc27f-5d29-47bd-8b36-95decda5f7c5,compressed.tv,available,65,3,10,,,
 e9cc2fd5-56f2-45b0-b3c8-366902aa419a,compulsory.tv,available,82,3,10,,,
 5544f4f6-8370-4dea-b7ef-8827a3f9ef01,computing.tv,available,74,15,9,,,
 3f250df1-d26b-4ade-bd68-9913c65714da,con.tv,resell,72,20,3,Dynadot Inc,26/07/2015 08:08,26/07/2026 08:08
+0632dfd8-5c94-4102-a1d2-f5a6de383565,conceal.tv,available,68,6,7,,,
 24ae5fe2-0dd9-4236-8e7e-a5409cbdcbde,concealed.tv,available,59,6,9,,,
 71647b0b-94c8-4656-b219-4444a8978a9d,concern.tv,available,86,7,7,,,
 c686f576-85c3-42e6-a396-9a1e756731e5,concerned.tv,resell,66,4,9,1API GmbH,09/07/2010 08:00,09/07/2026 08:00
+193dd5f7-bf84-4ef9-a9c9-764d0affc9df,concert.tv,available,106,19,7,,,
 9c536666-949b-4b58-94b8-a4dbf6ae51bd,concise.tv,available,93,11,7,,,
 ee8188c4-de34-4c10-bf24-5dd0c9b6ede1,concluded.tv,available,62,2,9,,,
 9b88521e-2b6a-43f2-8beb-6066bec240ae,conclusion.tv,available,78,6,10,,,
 d3bc58e0-a879-4d4a-be98-e95c82cbaf70,conclusive.tv,available,69,5,10,,,
+63d786a6-50e3-4463-bc07-47f5945e9346,concussion.tv,available,60,10,10,,,
+37c4aa18-ca29-420f-947f-6fbc64c8b0ef,condemn.tv,available,66,3,7,,,
+9e4b5fc2-9b19-4403-b9c1-821cc349bdef,condiment.tv,available,95,4,9,,,
+47d0c7c2-4881-433f-adf9-794e6801628f,condition.tv,available,92,9,9,,,
 e481609c-c2e0-4652-805c-a798db3367b7,conditions.tv,available,68,4,10,,,
+8a2f853a-e1c5-4ac2-829b-00c6a64e7902,condo.tv,resell,70,24,5,Dynadot Inc,22/07/2003 21:46,22/07/2026 21:46
+0996c048-8e14-4635-81a2-12422db45a8b,condolence.tv,available,64,2,10,,,
+a6b4b3b4-fd8a-4ede-8f4e-33feff8698b3,condom.tv,available,74,11,6,,,
+94c96038-20dd-4ae8-ba25-44a4f386331e,conducting.tv,available,68,4,10,,,
+50563cb6-4d86-4e9e-a96f-2ab6897e5050,conduction.tv,available,84,4,10,,,
+33124e63-163c-41d3-b317-10a753c632e5,conductor.tv,available,74,17,9,,,
+a5e39101-57d6-4b22-bdef-b0127c94dea3,cone.tv,available,68,14,4,,,
+a0c9fc54-cf31-4247-9caf-118d2af8bd20,confession.tv,available,68,9,10,,,
+1f494d7b-a57d-4570-8fc8-a68e4ad9301c,confetti.tv,resell,95,14,8,Dynadot Inc,20/12/2016 15:34,20/12/2026 15:34
 16fe9c40-ebd4-40fd-b511-2cbf23b3d114,confident.tv,available,93,14,9,,,
 21546a49-f502-439a-a054-6526667e8f55,confirmed.tv,available,69,8,9,,,
 ccd4fa9e-c13d-422f-8ac2-20109f4f05aa,confirming.tv,available,73,4,10,,,
 112d4ea6-8c5e-4337-901f-853197df982b,confusing.tv,available,61,4,9,,,
+c10bd711-47a4-4f14-80e2-7c02b6a3faad,congestion.tv,available,60,3,10,,,
+e926bb10-dcab-4292-be2c-69172fc2a9cf,connection.tv,available,68,21,10,,,
+81c665c9-459a-4a4c-a5a6-bf5307df54d3,conquest.tv,resell,58,16,8,"GoDaddy.com, LLC",12/09/2012 08:07,12/09/2026 08:07
+82833502-1bcb-4880-926b-940af1ce260d,consensus.tv,resell,92,21,9,Dynadot Inc,21/02/2011 15:57,21/02/2026 15:57
 e0413f67-e1e2-418e-bd90-b08f98b69594,consequent.tv,available,70,3,10,,,
 a98d94e4-5519-45b0-9092-12a00bca484d,considered.tv,available,71,7,10,,,
 dd18abd3-5066-4439-85e3-0739c6fc9182,constantly.tv,available,64,3,10,,,
@@ -1773,7 +1831,12 @@ dd18abd3-5066-4439-85e3-0739c6fc9182,constantly.tv,available,64,3,10,,,
 54b2f07a-4978-489b-8a55-8a78176f082a,consuming.tv,available,82,2,9,,,
 11560261-c67a-4858-8d50-91088160757c,consummate.tv,available,88,2,10,,,
 9fa7a170-68a6-4465-ad1c-f4fc2e52308b,contained.tv,available,64,5,9,,,
+a4342c44-9024-48e7-aa9c-22aa58f6e8ca,container.tv,available,70,66,9,,,
+6c6b7c1b-9336-4c88-bd6e-3e0533f206ab,contempt.tv,available,54,2,8,,,
+3200485c-a687-46c7-b0db-21348a78ed7b,contend.tv,available,72,5,7,,,
 6fd35aab-5560-46f5-a14f-2b4742d29429,contented.tv,available,70,6,9,,,
+b9c3f064-9513-4bd0-8d72-4f8b5a756448,contents.tv,available,68,12,8,,,
+8637090b-60a3-49d9-82d4-451b3d48f051,contest.tv,resell,96,16,7,InternetX GmbH,01/05/2000 07:00,09/04/2026 03:59
 ec51f4c2-9a71-452f-ade2-91b818c52557,contested.tv,available,60,3,9,,,
 812b5a1a-ce3d-4c05-9a07-8face363f2de,contingent.tv,available,80,6,10,,,
 f9517ef7-e671-494d-bf70-ea483b054f57,continual.tv,available,66,5,9,,,
@@ -1791,12 +1854,16 @@ f6135bc9-7971-446b-954e-240f9930c043,converse.tv,available,64,25,8,,,
 d7c8652a-aff0-45ae-a731-2d9aada08b80,convincing.tv,available,90,2,10,,,
 74f4ef9c-eabf-4a59-9623-4571c6f2de53,cook.tv,resell,72,25,4,Dynadot Inc,19/03/2010 06:04,19/03/2026 06:04
 1a45a0c7-381f-4fcc-931c-9e5a34f9c912,cooked.tv,available,70,12,6,,,
+28589543-a096-411c-82b8-760ac6d84b4a,cooking.tv,resell,88,18,7,"Name.com, Inc.",17/03/2015 08:08,17/03/2026 08:08
 df5ffe43-0d79-4120-9ab6-43cd294e5d0b,cool.tv,resell,76,29,4,"eNom, LLC",19/02/2001 08:00,19/02/2026 08:00
 931c2e85-6ae9-495a-8652-85bf1d0316c9,coolly.tv,available,74,3,6,,,
 1f4cc32e-176c-4a2e-a1b9-d19143447fbc,coordinate.tv,available,108,16,10,,,
 f4aa0530-eece-48fb-8312-5e47009ad30b,coral.tv,resell,68,25,5,Dynadot Inc,14/08/2011 16:02,14/08/2026 16:02
+5d0dd118-fffd-44ac-a6a7-228b1506b8af,cord.tv,available,90,16,4,,,
 554ed7c9-0c25-4916-bf2e-253ca2175c32,cordial.tv,available,98,9,7,,,
 7e853853-7753-4b4d-bbd4-555a4b70cc90,corking.tv,available,76,4,7,,,
+6608ff53-346a-4d24-93c4-b4780612af51,corn.tv,resell,62,20,4,"Name.com, Inc.",04/04/2012 17:26,04/04/2026 17:26
+f02f1340-baa9-40e5-8892-668b9d8d35bb,corner.tv,resell,64,26,6,"eNom, LLC",17/09/2005 21:34,17/09/2031 21:34
 7bd8b000-569a-484d-a589-4819dbfda048,cornered.tv,available,46,1,8,,,
 46f2d784-ac36-419b-87ee-07ffc1dbe451,corny.tv,available,64,5,5,,,
 c9475ef7-b8e2-44a0-953c-0b0c310d3e33,corporate.tv,resell,90,27,9,"GoDaddy.com, LLC",18/03/2010 18:18,18/03/2026 18:18
@@ -1805,11 +1872,13 @@ c9475ef7-b8e2-44a0-953c-0b0c310d3e33,corporate.tv,resell,90,27,9,"GoDaddy.com, L
 ee8493fe-bb0a-46f6-91a7-fd41e5c33678,corrected.tv,available,70,3,9,,,
 15441a89-72d8-421a-b1c3-65ea1cc41a54,corrective.tv,available,86,1,10,,,
 2a2d5d09-8be5-4749-bcb4-5a4cbb35d1fe,correlate.tv,available,88,4,9,,,
+e1146677-2997-47b4-895d-a08913dfa5b8,corridor.tv,available,68,12,8,,,
 e6d77b04-4d36-4295-8c99-d3bb60edfc80,corrupt.tv,available,80,10,7,,,
 c41c6a92-070a-440e-b0f5-c814cec92a11,corrupted.tv,available,52,8,9,,,
 cd6fe2e0-672c-48bf-8809-ce656a3ee5d2,coruscant.tv,available,56,6,9,,,
 3902fdfa-f190-419a-acc2-8b0f77b1f3aa,cosmos.tv,resell,74,37,6,"Name.com, Inc.",08/04/2010 17:39,08/04/2026 17:39
 52a59eda-b09f-4032-8d03-81503202c40a,costly.tv,available,66,4,6,,,
+84e3c583-bd57-44e4-a690-b4cc4192adc4,costs.tv,available,70,5,5,,,
 fa8a6042-29a1-4812-aa05-0be33f281430,cotyloid.tv,available,46,1,8,,,
 cda3b1e7-f751-44d0-81b1-d7bb973059d5,cotyloidal.tv,available,44,1,10,,,
 909aa29e-bc96-4f4c-a2aa-541c375f3546,count.tv,available,122,15,5,,,
@@ -1818,8 +1887,15 @@ fd5f4a8a-1916-44d8-a10c-926bbfc2723b,countless.tv,available,70,4,9,,,
 b044631c-252d-4c25-889f-0f5f1061de83,country.tv,resell,92,16,7,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
 d1393ed5-f586-43df-ad68-5e32507e7ba1,course.tv,resell,114,24,6,GoDaddy Online Services Cayman Islands Ltd.,07/04/2010 12:43,07/04/2026 12:43
 cc000ade-326d-42c1-8c9b-e791af4d8fe1,courteous.tv,available,70,2,9,,,
+000332ed-45a7-4440-8f3f-a53d9079b0e3,courtroom.tv,resell,66,6,9,"NameCheap, Inc.",04/04/2014 08:01,04/04/2026 08:01
+004984ad-0f6f-4104-b913-16c6b85d2883,courtyard.tv,available,70,10,9,,,
+41906017-31ec-4765-a755-73ba887bccb4,covenant.tv,resell,95,21,8,"Global Domains International, Inc. DBA DomainCostClub.com",26/11/2014 19:55,26/11/2026 19:55
+7e05b827-d046-4814-b408-8591198dc36c,covering.tv,available,66,5,8,,,
+7f2c45d0-1b69-4c0c-a849-a5b58780597e,coverup.tv,available,62,6,8,,,
 e220743b-eaee-44a6-87f3-10f81a4694ca,coveted.tv,available,72,4,7,,,
 e0fd0e95-ddb2-400d-8482-b7f4f21d91f1,covetous.tv,available,54,1,8,,,
+846a8aad-0bb5-4752-b72b-29a8775f34db,cow.tv,available,74,24,3,,,
+4833e7f2-6f55-4b76-ab11-7b3644c43a4d,cowboy.tv,resell,98,21,6,"NameCheap, Inc.",15/03/2011 08:00,15/03/2026 08:00
 45549686-28f3-4cb8-9ec2-82f2963e1085,coy.tv,available,64,8,3,,,
 020aa83c-854f-4fc2-b872-ebcdb8b58558,crab.tv,available,92,23,4,,,
 9d2d1b22-f6b3-4063-addf-c4643f503256,crabbed.tv,available,45,1,7,,,
@@ -1831,21 +1907,35 @@ bd49f1d3-a53d-4294-9680-e1ea435842d6,crabby.tv,available,45,6,6,,,
 db6a5ef9-cc81-4f9b-a121-b8f378ced25d,cream.tv,resell,110,22,5,Dynadot Inc,11/08/2010 08:00,11/08/2026 08:00
 aa6eec6a-3d3e-4a31-8917-b3ef110d1b4b,creatively.tv,available,66,5,10,,,
 ed2c9c86-7db6-47e6-9da3-0d813b596b9e,creature.tv,available,68,18,8,,,
+d94a980d-b265-4f26-8293-b5255f1eb964,credit.tv,resell,66,32,6,Dynadot Inc,02/09/2020 08:01,02/09/2026 08:01
 131f9aaf-5011-4168-9d83-f2a88471f65e,creek.tv,available,100,16,5,,,
 5d57499e-f6a8-40e8-9a69-7e41da3c1d43,creepy.tv,resell,60,11,6,"Spaceship, Inc.",04/04/2016 09:54,04/04/2026 09:54
+b71757a4-0a28-4d4e-9278-b3b235fe9001,cricket.tv,resell,104,23,7,Dynadot Inc,21/05/2016 08:18,21/05/2026 08:18
 faa5fb8d-109c-4ee0-abaf-72a5fdde5104,criterion.tv,resell,84,9,9,Dynadot Inc,16/02/2024 00:00,16/02/2026 00:00
+8f92b8fa-a032-4183-b8c9-393ad2738c5f,critic.tv,available,90,9,6,,,
 a0f717e2-27e4-40cd-a27f-ffbfe03ee19f,critically.tv,available,60,2,10,,,
+a26abf81-24ce-4931-ac2c-0d4ad7b55eab,criticism.tv,available,64,3,9,,,
+e67fa3df-6502-4795-a4d2-42dde94e2c2f,critique.tv,available,84,8,8,,,
+522728fd-5a4e-4fca-a109-cf108aca571d,crocodile.tv,resell,84,15,9,Dynadot Inc,04/06/2011 08:01,04/06/2026 08:01
 c5fea084-3ca6-4428-bc88-5ae2d3c1ab88,crude.tv,available,86,8,5,,,
 d4910251-9bfc-44b8-b08d-06279d65aad8,cruel.tv,resell,112,6,5,"GoDaddy.com, LLC",09/08/2018 04:31,09/08/2026 04:31
 b19d3f49-fe6d-4697-a903-6d32bf812226,crush.tv,resell,76,31,5,Dynadot Inc,08/01/2011 15:42,08/01/2026 15:42
+be2f2fd6-6723-41ae-8f19-25a49c5db18a,cry.tv,resell,92,18,3,Dynadot Inc,30/04/2010 07:41,30/04/2026 07:41
 55df01bb-60a8-42bb-8747-748439d1d5ae,crying.tv,available,82,6,6,,,
+efc395ac-6c31-4387-b903-65f5d3940c90,cuba.tv,resell,66,5,4,Dynadot Inc,17/04/2011 08:00,17/04/2028 08:00
+c5e29dd4-8b57-4dbc-adc7-fca75469e195,cucumber.tv,resell,70,12,8,Epik LLC,27/10/2018 01:16,27/10/2026 01:16
 7ad16743-3f46-466b-a712-313ca4c6c305,cultivable.tv,available,58,1,10,,,
 cc05e51c-bd93-4cea-90d8-7f885e03a06c,cumulative.tv,available,62,3,10,,,
+325935e9-2ced-44fc-9ea7-42b58e2b4fe8,cup.tv,resell,76,19,3,"eNom, LLC",16/06/2000 14:51,16/06/2026 14:51
 99fb566c-b3c0-4dca-ab58-99cf81e87988,curious.tv,resell,74,24,7,"Spaceship, Inc.",19/03/2010 05:54,19/03/2026 05:54
 0946757c-eecb-4514-8497-fe63fd1efbab,curiously.tv,available,62,4,9,,,
+b6202a04-48e2-429e-a879-3ef795a8351a,curl.tv,resell,64,20,4,1API GmbH,12/05/2019 08:00,12/05/2026 08:00
+e0b1b567-8fba-4144-84a8-6ec74d8835a4,currency.tv,resell,74,26,8,Dynadot Inc,18/03/2010 13:48,18/03/2026 13:48
 18e31071-02bf-4c4b-ae89-486f0c7de2bb,currently.tv,available,66,9,9,,,
 9480a891-1ca9-4275-ab34-1ff9a20fe6b4,curse.tv,available,78,11,5,,,
+d50eabfb-0bb6-4fb8-860e-af6fa415a543,curtain.tv,available,92,10,7,,,
 ecf323c5-2600-40b2-85e3-18f0c034e743,curve.tv,available,92,29,5,,,
+95474cd5-6901-407b-87cb-c720c726affd,customer.tv,resell,74,24,8,"GoDaddy.com, LLC",17/08/2012 14:08,17/08/2026 14:08
 71046e30-1d53-46aa-92bf-1e0ef0d37488,cute.tv,resell,82,25,4,Dynadot Inc,18/03/2010 17:15,18/03/2026 17:15
 577e1dd9-06b1-40b0-aa92-d250e52bd8d7,cutprice.tv,available,50,3,9,,,
 c8fc0603-ecfa-4b98-97f0-2d303cc42d90,cutrate.tv,available,50,1,8,,,
@@ -1869,12 +1959,17 @@ c70fe21e-07ff-433d-8c20-e3230c0b0ca6,daft.tv,available,56,11,4,,,
 2b255bb9-1ac4-446a-bb59-b8881512e7b9,daniel.tv,resell,76,48,6,"Spaceship, Inc.",23/03/2010 12:09,23/03/2026 12:09
 850e8613-6f9f-4799-afda-10c212c5c168,daring.tv,available,86,11,6,,,
 05f5c3ff-afd6-46db-8d81-3b1518ada1db,dark.tv,resell,52,34,4,Dynadot Inc,19/03/2010 04:17,19/03/2026 04:17
+e30ba31d-cdfc-4bbb-902a-90393c3c3959,data.tv,resell,70,54,4,"GoDaddy.com, LLC",07/04/2010 12:31,07/04/2027 12:31
+8c1e5520-2fc5-47c8-b4ab-c0389b8d5ed6,database.tv,resell,99,30,8,Dynadot Inc,20/03/2013 09:53,20/03/2026 09:53
+19822bc2-4e4f-4f73-a12d-c679c28891fc,date.tv,resell,78,22,4,Dynadot Inc,19/03/2010 04:01,19/03/2027 04:01
 ed844265-54c2-4301-ac21-a9a22c5dfc3d,deadly.tv,resell,60,8,6,1API GmbH,20/08/2011 08:03,20/08/2026 08:03
 96cab1b8-4312-4ea2-af91-3ecfeef1a6cc,dealtout.tv,available,41,1,9,,,
 58870eec-8b30-4b50-89c5-17672667bd2f,death.tv,available,62,22,5,,,
 d39408ad-281f-4033-8227-c29dba9afc7e,debase.tv,available,60,4,6,,,
 bc3cdcb8-7abd-43f1-8321-6646f3f99665,debased.tv,available,54,2,7,,,
 bc8545d3-92b2-4c50-8113-037b8241d053,debate.tv,resell,90,17,6,1API GmbH,19/03/2010 04:40,19/03/2026 04:40
+75166bcd-9d47-42c4-899f-a2d98deba8cc,debt.tv,resell,72,21,4,Dynadot Inc,18/03/2010 14:50,18/03/2026 14:50
+fb84d09e-eb42-406c-ad20-d99930d51a59,decay.tv,available,70,12,5,,,
 0bac2764-0e5c-47f3-a003-0f8a7f33fbd7,deceased.tv,available,64,4,8,,,
 8d015bfe-e8fe-49df-a338-8de66028d41e,decent.tv,available,52,29,6,,,
 f0bd2e9d-412c-4ec4-8d2c-a8b8106b87a0,decorated.tv,available,68,3,9,,,
@@ -1882,72 +1977,141 @@ f0518594-e8cf-44d6-bb8f-afa58737e4c8,decorous.tv,available,46,4,8,,,
 f06f7aee-e43f-4009-b8e2-d136b9c654f3,decumbent.tv,available,52,1,9,,,
 b6752f77-21e6-418b-812d-eafb5828dc40,dedicated.tv,resell,73,13,9,1API GmbH,21/03/2022 08:07,21/03/2026 08:07
 9bb885a9-389f-4549-8f69-a885427efb37,deepdown.tv,available,61,3,9,,,
+2e5cdc37-ad7a-4a4b-a2de-091ea0d63c68,defence.tv,resell,90,18,7,"GoDaddy.com, LLC",13/09/2020 06:27,13/09/2026 06:27
+dfca1c5d-d5c5-49e7-8b39-f135b02f471f,deficit.tv,available,70,5,7,,,
 dfd0a455-68c1-42c2-b827-76a54adee2a1,define.tv,resell,96,16,6,"GoDaddy.com, LLC",16/08/2016 12:46,16/08/2026 12:46
 324f6be5-baba-431c-bcb1-5cdd43542864,defined.tv,available,68,10,7,,,
 8cd6efff-1db8-47f8-ae34-cdd73ec7a0a5,definite.tv,available,84,5,8,,,
 07a6480e-e36f-44eb-bf02-eebb2fa21670,definitely.tv,available,66,8,10,,,
+67c9ef4a-3e1f-4496-a0b0-c1e5d2c6d406,delay.tv,available,62,10,5,,,
 13ea94b9-4be4-465b-bfa3-e7efc889cb7c,delicate.tv,available,84,7,8,,,
 63361ba1-f668-49fe-a512-fb1bbd82bfa3,deliver.tv,available,90,28,7,,,
+66323063-70da-4c7b-81c8-3884c44eb1f3,delta.tv,resell,74,42,5,Dynadot Inc,01/11/2017 02:56,01/11/2026 02:56
 079636e2-7ea4-42ea-b6e5-15842b1b0822,demo.tv,resell,110,35,4,1API GmbH,26/09/2020 18:05,26/09/2026 18:05
 e235e28c-1e93-4fb4-b605-b1e363bc03fa,demoniac.tv,available,58,1,8,,,
 c94a2f05-aecf-4260-a501-d602271552dd,demoniacal.tv,available,40,1,10,,,
 e9147f04-4fa7-4319-a7e8-10b83bb70bac,dendriform.tv,available,52,1,10,,,
 36faed2b-4b91-45ba-b368-87aaacea4ca1,dendroid.tv,available,70,2,8,,,
 7892fc03-af84-44b2-843c-66dfdf99e32b,dendroidal.tv,available,52,1,10,,,
+8702f6fc-c2de-4adb-89db-4d82233fef18,denial.tv,available,70,6,6,,,
 fe051c85-f653-494b-a496-32d2919b4970,departed.tv,available,62,5,8,,,
+972bc40c-ec06-4f4c-9633-0f2f0efd7f67,department.tv,available,70,13,10,,,
 ac6042f1-6972-47ac-a16a-a4199d286e68,deposit.tv,premium,90,12,7,,,
+135933c1-bdd3-41bf-9d64-649319330453,depress.tv,available,66,4,7,,,
+2633515c-9ec2-4e5a-a751-886d01bf53b1,deputy.tv,available,92,8,6,,,
+e4c7235c-bb2b-42e5-8f6d-6e84be2119cf,derive.tv,available,72,12,6,,,
 f8e9fae5-737c-47ad-8ea9-306d23b4e6ab,derriere.tv,available,40,3,8,,,
 1d5685ca-ee77-41f6-94ac-b9045d5e5767,described.tv,available,62,2,9,,,
 6cd5b655-288c-4261-bb29-5e2731477583,deserted.tv,available,54,4,8,,,
 e3857af2-1eae-4aff-ae6c-4109bb9b8288,deserter.tv,available,49,1,8,,,
 a901282c-2d7a-482c-baad-4811f44244a4,designed.tv,available,64,10,8,,,
+4c3f8050-b774-492b-9d3f-3fac87339663,desire.tv,resell,104,19,6,Dynadot Inc,19/03/2010 04:40,19/03/2027 04:40
+ebf3bdfc-8385-4489-a201-634729f42d9d,desk.tv,resell,100,27,4,Dynadot Inc,06/05/2004 20:51,06/05/2026 20:51
 982d2cf9-7480-4a47-a61b-21a9c473013e,desolate.tv,available,60,5,8,,,
+19b79f00-07ec-4105-951d-25e49d656b43,despise.tv,available,66,3,7,,,
+313a5256-8bb8-4c66-8a99-580bff833b1c,despite.tv,available,90,4,7,,,
 d7bd7a8f-423d-4eaf-bd6d-d797aa4789b6,despondent.tv,available,47,1,10,,,
 6602047d-28b2-481b-87e6-1971221f55e6,despotic.tv,available,48,1,8,,,
 cd41e8b2-6c6c-4b6f-890b-fe407c40241f,destined.tv,available,70,5,8,,,
 74be2e28-ba2a-4f98-9d8b-ac8f2467d7ee,detached.tv,available,56,5,8,,,
 09301895-9698-451f-8d6a-4327eca19bb4,detailed.tv,available,68,5,8,,,
+a397492a-9a3f-4e78-b02c-69281713f733,details.tv,resell,78,17,7,"Spaceship, Inc.",18/06/2006 15:16,18/06/2026 15:16
 3be7ce45-9f15-4098-989c-0ff7091f389e,detected.tv,available,62,5,8,,,
+f115a00f-66e5-482f-80d0-c59d69362231,detecting.tv,available,68,4,9,,,
+bf68f573-240e-4854-b8bc-a3dce8753adf,detection.tv,available,68,9,9,,,
 56cc1f47-c707-44f2-a83c-8ef16b4b069d,detergent.tv,available,80,4,9,,,
+33144404-b3ea-4beb-ae56-1ebc49fe4edf,determine.tv,available,72,6,9,,,
 e28d70a3-bde4-46b2-adb1-d80d66a958ac,determined.tv,available,72,6,10,,,
+52c19bb4-2413-4514-b59a-8df79cc5001c,detest.tv,available,62,2,6,,,
 28e59d90-9669-4fa3-9a6c-fa759e720e48,detestable.tv,available,52,2,10,,,
+a4714151-01ad-41de-b84a-eee75aefa8da,detox.tv,available,92,22,5,,,
+588c73c8-15c9-4ccb-93f3-34950595f862,detoxify.tv,available,70,5,8,,,
+75a66215-4bfb-479f-b5b7-42987b479edf,detroit.tv,resell,62,26,7,1API GmbH,16/06/2000 14:53,16/06/2026 14:53
 e41c9aa7-2690-4351-9f8d-cb67443c9cad,developed.tv,available,72,4,9,,,
+b9f5ac14-4e4d-42c4-ae42-0a4426be0452,developer.tv,resell,72,33,9,GoDaddy Online Services Cayman Islands Ltd.,04/11/2014 17:02,04/11/2027 17:02
 2c437b62-c200-42d6-b1fb-f6ef1461cba4,deviant.tv,available,64,11,7,,,
 0e096f36-2ebc-495f-8f8b-dc20d65145f2,deviate.tv,available,84,12,7,,,
+1e854c82-bbe7-40e6-8e93-12de66cdf938,device.tv,resell,80,23,6,Dynadot Inc,22/02/2007 17:13,22/02/2026 17:13
+315854c8-a230-41f9-97cb-102cb12966bb,devices.tv,available,80,11,7,,,
+eff2f460-c692-4862-8582-bf887bb5decb,devise.tv,available,92,9,6,,,
 3d9a4923-6392-487e-bdff-62173f51f588,devoted.tv,available,76,9,7,,,
+05f50c64-bd2f-4564-adc2-3011e47dd202,dew.tv,available,68,18,3,,,
 22e93ebd-1fba-466a-acbf-2011937299f9,dewy.tv,available,51,8,4,,,
+129a56cc-e0d7-4a1c-88b5-bbca548a237a,diabetes.tv,resell,62,38,8,"Name.com, Inc.",18/03/2010 18:18,18/03/2026 18:18
 40b6ab65-3a94-43ce-ad75-89a30521130a,diagonal.tv,available,40,12,8,,,
 3b6adce8-87c4-453e-ba7a-f2bd3337dc39,diamond.tv,resell,76,28,7,Dynadot Inc,12/09/2021 08:01,12/09/2026 08:01
+1c642e16-a218-454d-917b-a8d63bef7c20,dice.tv,resell,62,28,4,Dynadot Inc,18/03/2010 20:09,18/03/2026 20:09
+1e045ca9-ed64-40e5-b842-56593dd54b34,dick.tv,resell,56,24,4,Dynadot Inc,18/03/2010 17:04,18/03/2026 17:04
 a566cbad-1213-4710-88bd-bde61109a8ee,dickhead.tv,available,36,5,8,,,
 1614f84e-7f7c-43dd-80d0-8a20877b9e1a,dictator.tv,available,52,8,8,,,
+d73229b4-ddc1-44e4-877d-665b1d5b5fb0,difficulty.tv,available,68,2,10,,,
 02ec9acf-e054-4647-a64d-87bf48469a41,dig.tv,resell,74,26,3,"Spaceship, Inc.",24/05/2015 08:07,24/05/2026 08:07
 41751a7d-0dbc-4e60-8b72-7dc4e16fa475,digital.tv,resell,100,40,7,Dynadot Inc,27/12/2009 09:00,09/04/2026 03:59
 5e9510e3-2b0b-4378-85e7-2f89af0c325f,dignified.tv,available,66,5,9,,,
+a9d52e89-ab99-4242-8ac8-ef41800d8877,dignitary.tv,available,90,2,9,,,
+39c5bd63-0d8b-47e4-b8be-7aced558a5ac,dilemma.tv,available,69,9,7,,,
 37ecdb63-cc2d-4625-b844-a208694c55fe,dilute.tv,available,92,3,6,,,
 e3c35ac2-7555-429a-b7c1-4e3edf05396a,diminished.tv,available,44,1,10,,,
 b112367b-ab65-4b7d-ab17-3b69d908413b,diminutive.tv,available,70,2,10,,,
 5f448b24-fa00-400a-896b-16678b866f8a,diner.tv,resell,85,9,5,1API GmbH,20/03/2017 12:06,20/03/2026 12:06
 1b20f3a4-088a-4f65-815d-f48309911a89,dingy.tv,available,82,3,5,,,
+b1af9135-9acd-44c1-b116-14bf5c37ee6c,dinner.tv,available,105,15,6,,,
+21106316-79ef-4374-a12c-67c4d0a399b0,dinosaur.tv,resell,75,20,8,"GoDaddy.com, LLC",08/06/2022 18:21,08/06/2026 18:21
+c9604c83-0bc9-45f2-b9ae-f95d6d950b01,diplomacy.tv,available,73,13,9,,,
+af8eec16-c93e-4abe-8f00-4e96f0b66d66,diplomate.tv,available,93,2,9,,,
 66f83186-8ee9-428c-815b-0941d0f5c1ab,diplomatic.tv,available,84,7,10,,,
 2d11aec2-d678-4760-874c-6643cb5ac745,directed.tv,available,70,8,8,,,
 8c61c749-f691-42fb-9223-d63fc487bf73,directing.tv,resell,66,3,9,Dynadot Inc,27/02/2018 02:59,27/02/2026 02:59
 19b2a662-3545-4c49-928f-1df646005554,directly.tv,available,70,7,8,,,
+6e7f1934-68ec-49d8-8c9e-dbd4a3c26451,director.tv,resell,76,15,8,1API GmbH,07/07/2011 08:00,07/07/2026 08:00
 7c12e61b-1379-495d-89ab-1e1f759004c6,dirty.tv,resell,92,22,5,Dynadot Inc,19/03/2010 04:40,19/03/2027 04:40
 41721b5e-f204-4f02-84d2-179645185368,disabled.tv,available,72,7,8,,,
+c2a61acd-2f19-4711-9c94-81563a5369d7,disagree.tv,available,68,5,8,,,
+8f7d5b3a-4bb4-4038-a933-5295f35260d1,disc.tv,resell,72,21,4,Dynadot Inc,06/06/2014 08:03,06/06/2026 08:03
+852c4e50-6344-436b-926a-6a03e9a28d67,discard.tv,available,88,5,7,,,
+550559d9-7492-42f3-8b5e-742215fb11be,discbrake.tv,available,66,2,10,,,
+afb3f947-0d01-44ce-a0f3-0694393994cc,discdrive.tv,available,72,1,10,,,
 abdabd65-89bf-41c4-a737-c191b8a36c97,discerning.tv,available,72,4,10,,,
+9f60602b-a68b-4452-8605-d7882a51ea7f,discipline.tv,available,92,13,10,,,
 e6aa7557-3dfd-4da7-893a-0dae4398787f,disclosed.tv,available,58,4,9,,,
+d647bd3e-cd74-423f-a8de-9526fd123c91,disco.tv,resell,104,31,5,Dynadot Inc,24/03/2010 11:56,24/03/2026 11:56
+29d87251-2871-4bed-955a-4899d10e04de,discomfort.tv,available,82,4,10,,,
+95eddffd-e8c7-49a1-a517-23e58d09dc50,disconnect.tv,resell,88,12,10,"GoDaddy.com, LLC",06/01/2018 12:07,06/01/2027 12:07
+a55ef624-6027-4aee-9850-f353d657b0d4,discredit.tv,available,80,2,9,,,
 a21af643-88b2-42c9-bc8f-f265a6e353fe,discrepant.tv,available,54,2,10,,,
+610d6e0e-7e5b-428c-9174-e9b51800787f,discspace.tv,available,70,2,10,,,
+79daaf83-b161-4ba7-b3a0-62bc830d6062,discuss.tv,resell,84,16,7,"GoDaddy.com, LLC",20/09/2005 15:24,20/09/2026 15:24
+55e2feb7-69b6-4ac8-b0cf-2d8d7a437071,disgrace.tv,available,82,3,8,,,
 2f4f1636-2fc7-4975-8fce-d313cfc78e96,disguise.tv,available,87,8,8,,,
+39e397e5-2dda-4164-924c-f3cc06ba7f0b,disgust.tv,available,86,3,7,,,
+c8dcf343-220c-4a01-80b7-97037df07f9c,dishonesty.tv,available,62,2,10,,,
+c5c51654-a229-4e49-9272-be7cd41e4a51,dishonor.tv,available,82,1,8,,,
+0f37c73d-9717-4bfc-a1ca-383281ff18af,dishout.tv,available,74,4,8,,,
+7957cbc4-0c41-443e-b7f1-acce76f0f9a9,dishup.tv,available,78,3,7,,,
+df324853-65c9-4f33-a382-50e647e9620c,diskbrake.tv,available,66,1,10,,,
+e021a7e4-f5a5-4859-b8f1-2323f84f29c9,diskdrive.tv,available,72,2,10,,,
+10f77db5-a30e-4601-8204-1dc9418124f8,diskspace.tv,available,70,3,10,,,
 aeef88c1-6307-4bd6-8a74-2ec473f98811,dismay.tv,available,82,2,6,,,
 0f6bc23c-febb-4bd2-930c-3f3e7a8f1a11,dismayed.tv,available,54,1,8,,,
 06a10eda-07a9-4727-acce-b3108bd79581,dismaying.tv,available,52,1,9,,,
+f767d3c7-81ac-45a1-b848-7811b301efc8,dismiss.tv,available,72,4,7,,,
+b56c38a5-d3f8-4fe2-bb08-fd4fff5d2014,dismissal.tv,available,66,3,9,,,
 b50c8fa5-9283-4c0e-a935-19229932b910,dismissed.tv,available,50,4,9,,,
+109d585f-c452-4be0-98a1-b0d45f8f44a3,disparity.tv,available,62,4,9,,,
+277845f1-de9c-480c-b785-5852297a2064,dispose.tv,available,88,5,7,,,
+bc47d00f-7ad2-4dee-aa0e-4670cdebd2f5,disrespect.tv,available,82,2,10,,,
 12bae172-aed0-44c8-9454-a70bf8521f01,dissonant.tv,available,41,5,9,,,
 b06e9682-f1b9-44e7-a0dc-8bfe4b9d7b1f,distance.tv,available,90,9,8,,,
+2c3a5ede-8385-4d7d-9285-e119e26e2d70,distract.tv,available,86,5,8,,,
+e00b594d-d957-421e-8922-fc7d4dedcd58,distress.tv,available,84,7,8,,,
 df4f59d8-724a-446c-ab58-957d7978acb6,distribute.tv,resell,68,9,10,"Name.com, Inc.",23/04/2010 08:00,23/04/2026 08:00
+a16d006b-6590-4660-a5eb-4676dbe474d7,district.tv,available,62,27,8,,,
+d023f0fd-a495-44ff-9dab-4b4d4ce4b17d,diva.tv,resell,78,26,4,Dynadot Inc,10/03/2010 09:42,10/03/2026 09:42
+84f48266-a32f-49b5-a81b-e067a7324b28,dive.tv,available,94,31,4,,,
 28848473-cb84-47c1-9a1f-bf5166bcf5cb,diverted.tv,available,48,3,8,,,
 d75eb9de-6c29-4041-af43-4d1bc9943546,diverting.tv,available,48,1,9,,,
 9ae55c44-1dd6-49d0-b450-e330b44b928e,dock.tv,resell,70,17,4,"GoDaddy.com, LLC",11/11/2019 09:00,11/11/2026 09:00
+5ae0af71-41a6-445c-8e55-623907e32031,document.tv,available,86,21,8,,,
 e2fd0887-d26d-41bb-9482-d1e775dabe1f,documented.tv,available,66,5,10,,,
 7923bb2d-7d1c-41d3-81a1-2ed029415900,doledout.tv,available,41,2,9,,,
 a90e8566-05b3-46e6-886b-805373ce90d1,domestic.tv,available,90,7,8,,,
@@ -1957,29 +2121,38 @@ fbb82266-8a30-467f-90ce-23fe67627b31,dominated.tv,available,56,2,9,,,
 681f80c9-74ae-4e81-b6a3-254ecbcef759,don.tv,available,72,22,3,,,
 503ae9ba-98d1-4a8e-8e40-1aa7c6dc4c6a,done.tv,resell,80,27,4,Dynadot Inc,22/03/2010 16:24,22/03/2026 16:24
 64df4605-4295-45cc-aa64-d904a08663b1,dong.tv,resell,60,18,4,Dynadot Inc,08/06/2011 08:01,08/06/2026 08:01
+acce4ac2-a7d9-4438-a78c-23a8a5a705fb,donkey.tv,resell,64,23,6,Dynadot Inc,07/06/2017 22:19,07/06/2026 22:19
+ddec21e3-c60c-4ae4-bd27-f07497d2e22d,donut.tv,available,80,24,5,,,
 c71ae7dd-94d5-4bc1-be38-12742dbb511c,dormant.tv,available,78,5,7,,,
 aff56b5c-0bb2-4721-af0f-d1bce1d53253,dorsal.tv,available,80,6,6,,,
 359c10ec-4fa2-41b6-8d68-10a3a07ab372,dorsum.tv,available,57,3,6,,,
 a27f762b-18ea-49c4-908f-4363a25c2fb6,dotty.tv,available,52,8,5,,,
 b3dd307d-a076-4883-be21-0c26975b2038,double.tv,available,92,23,6,,,
+7625fa57-ffc5-4d1d-a15b-54df0b49ecd7,doubling.tv,available,66,2,8,,,
+95a19d2f-e200-49ef-b016-2e7b3a1c076e,doubt.tv,available,92,9,5,,,
 5d27a678-99c0-4c62-a2e8-c8fe31099088,doubter.tv,available,60,2,7,,,
 bbccbb79-6d1a-469a-b5e4-c478b93d946b,doubtful.tv,available,74,2,8,,,
 947835ae-3e47-4fe3-a586-c827c6cc028e,dough.tv,resell,100,14,5,"NameCheap, Inc.",12/09/2016 08:21,12/09/2026 08:21
 5d6898e5-a09e-4c67-a4fa-3fba833aa506,doughnut.tv,available,66,10,8,,,
 dce3ccb8-9fa1-4b98-af1c-689e49400bdc,down.tv,resell,76,16,4,"GoDaddy.com, LLC",18/03/2010 20:54,18/03/2026 20:54
 72af74e9-df63-438c-9404-1d9ea995ff89,downtown.tv,available,94,14,8,,,
+5efe9eb3-ed4a-4abd-858a-472b595c2aa0,dracula.tv,resell,84,14,7,"Name.com, Inc.",06/06/2012 08:02,06/06/2026 08:02
 6e527e89-f352-48b1-ba3b-124cc6534b0c,draggled.tv,available,42,1,8,,,
 b23c9379-3a24-4a0e-ac98-7340c8091f35,dramatic.tv,available,68,5,8,,,
+cdfc5f4d-8900-4b0a-bd16-2e97b351c4c3,drawing.tv,resell,82,14,7,"NameSilo, LLC",18/03/2010 20:54,18/03/2026 20:54
 e2c5498f-0b04-4981-a275-6d0370dc129a,drawn.tv,available,66,6,5,,,
 f79aeb09-60ef-4dfb-aaae-0d00c119c749,dreadful.tv,available,82,5,8,,,
 3f3fc299-0bfb-4956-9a50-5df0a109ce67,dress.tv,available,100,13,5,,,
 e305a17b-0292-444b-a03e-8fa47017cedb,dressed.tv,available,72,5,7,,,
 d3c2cee1-933e-423c-967e-e4c26bc6161e,drink.tv,resell,100,20,5,"NameCheap, Inc.",07/04/2010 19:21,07/04/2026 19:21
 d9845955-7525-42f5-827d-a8648675f81e,drive.tv,resell,100,32,5,DropCatch.com 346 LLC,25/06/2019 08:00,25/06/2026 08:00
+99ecb4d0-73e5-4d6c-a0c1-e1a4fc5c2210,ducttape.tv,available,68,5,9,,,
 b24be544-7cec-411a-8ffb-226758a53ce5,due.tv,available,72,12,3,,,
 f0fcfc2f-3db9-4e14-8f16-48a485b1e914,dummy.tv,available,88,14,5,,,
 3328c534-8451-4f11-abee-bdf9ae7e2776,duplicate.tv,available,100,7,9,,,
 cc9131e9-4930-4775-a3d3-919f2e2bb767,dutch.tv,resell,92,16,5,Dynadot Inc,18/09/2013 08:32,18/09/2026 08:32
+f17735ed-4a00-4b57-9c73-e569e3988ac4,duty.tv,available,62,12,4,,,
+bdddbec3-681d-4fd4-b797-437410cc4cbc,dwelling.tv,resell,68,8,8,1API GmbH,17/06/2010 08:00,17/06/2026 08:00
 6b607122-fece-4234-8272-9611e8cf2a64,dynamic.tv,resell,94,29,7,Dynadot Inc,14/04/2017 10:58,14/04/2026 10:58
 12f082f3-a86f-40d3-9e4b-50c303b93993,dyspeptic.tv,available,54,1,9,,,
 de84e311-79a8-4ec4-ade9-3168996ae7a8,eachyear.tv,available,68,1,9,,,
@@ -1991,16 +2164,24 @@ be8d0fb2-0c91-43d1-a83d-3fdb7003670f,earlike.tv,available,60,1,8,,,
 0dd9ee9f-8318-45f6-87d8-418872f7da51,earmark.tv,available,74,6,7,,,
 ea95b64f-87e5-42a7-8a3f-bad65e1f705c,earned.tv,available,72,6,6,,,
 f2bdee90-aa38-4277-93c6-46a36548d4ab,earshaped.tv,available,58,1,10,,,
+e14c8b8a-eb0b-45c5-8dc7-bee9cfc5f1ea,earth.tv,resell,62,38,5,1API GmbH,18/03/2010 13:12,18/03/2026 13:12
 31ba98a6-ddf8-49d2-a503-af2b5bc2b113,eased.tv,available,68,4,5,,,
 e2190513-b7d7-44b5-bf3d-778747c527bc,easily.tv,available,74,9,6,,,
 2b7191e1-f569-4c88-b959-3d8778884f2f,easter.tv,resell,110,15,6,"NameCheap, Inc.",21/06/2012 08:00,21/06/2026 08:00
+a2e07886-b705-49c3-83a1-ade48b436902,easymark.tv,available,64,2,9,,,
+c6c8dd43-4e3d-41a2-aff4-adfc4f353d49,easymoney.tv,available,66,11,10,,,
+f57d8d92-e1dc-4e0d-a3e4-1684d1f428aa,eater.tv,available,70,7,5,,,
+f86d1f9e-98f5-41f9-99d7-4cdb06e05702,echo.tv,resell,68,55,4,"eNom, LLC",11/10/2000 20:41,11/10/2026 20:41
 bab826f2-dc1c-41ba-ae9c-693d28b71b32,eclipse.tv,resell,90,33,7,Dynadot Inc,21/11/2010 23:44,21/11/2026 23:44
 a3b7ddfa-3359-4eb8-917a-41cc8a14dc8b,ecological.tv,resell,74,8,10,"Spaceship, Inc.",04/08/2019 07:54,04/08/2026 07:54
+1421aaa0-7c13-4f6d-b4f6-4fcf31e7e0f8,ecommerce.tv,resell,78,31,10,Dynadot Inc,18/03/2010 13:57,18/03/2026 13:57
 279f8e38-f1ae-4589-816d-35d47d053f2d,economical.tv,resell,68,4,10,1API GmbH,03/05/2008 19:34,03/05/2026 19:34
 84305c72-48ea-422c-b69b-aed44f4c3041,ecru.tv,available,70,6,4,,,
 859de3f4-1efd-4ec6-b901-067cde1ae351,educated.tv,resell,68,5,8,Dynadot Inc,23/04/2022 12:45,23/04/2026 12:45
+8564e670-3c5f-43c0-bb05-965136962500,education.tv,resell,82,28,9,Dynadot Inc,21/12/2017 09:04,21/12/2026 09:04
 91bc36a6-2b76-48ae-bbc8-fc9f733a3dfa,efficient.tv,available,90,17,9,,,
 5f4445b0-e864-47ca-a04b-945e6aeb8dc8,egg.tv,resell,74,29,3,Dynadot Inc,12/11/2010 09:02,12/11/2026 09:02
+7194db36-4ace-402d-acd5-bb80604e21b5,eggs.tv,available,78,20,4,,,
 260ae369-f10d-4d9c-ad7f-b4cfa3842f93,ego.tv,resell,68,26,3,Dynadot Inc,11/04/2010 13:00,11/04/2026 13:00
 498162f4-1c2a-4f0f-a473-60e2402a3762,eighteenth.tv,available,62,1,10,,,
 7db32df1-5fc3-4e16-8509-e7d7f941e048,eighter.tv,available,58,2,7,,,
@@ -2019,12 +2200,21 @@ f0b8a904-92fe-4bfb-844f-c9ff0364c9ae,eightysix.tv,available,60,7,10,,,
 ee8ab7a6-ed90-4a43-bb87-59118f563d63,elite.tv,resell,90,32,5,"GoDaddy.com, LLC",21/07/2009 17:51,21/07/2026 17:51
 d83b0e34-0cd2-4137-b82c-e36a7a105488,elusive.tv,available,48,14,7,,,
 068b770a-9cc0-4d13-915d-1bdb1c9212b6,embayment.tv,available,46,1,9,,,
+25f12b09-0336-4a28-8d48-a70d11b0226b,embrace.tv,resell,106,22,7,"GoDaddy.com, LLC",15/09/2006 03:15,15/09/2026 03:15
+70f2cdb6-36ef-4cbc-80dc-5e4a069e52d0,embracing.tv,available,78,3,9,,,
+5645b68d-aaa2-4565-9e3c-b630ed01a042,emergency.tv,resell,58,24,9,"GoDaddy.com, LLC",18/03/2010 19:25,18/03/2027 19:25
+d0042c5a-e8f2-4c6c-a585-097325102ed5,employee.tv,available,74,19,8,,,
+8ce7fe14-fda8-4f99-baf8-88b2be00b30e,employer.tv,available,74,11,8,,,
+d058d861-4b58-427b-b67d-b425b639d04d,employment.tv,available,74,14,10,,,
 5775de1d-a50a-488a-9282-f5233b70030d,empty.tv,available,98,23,5,,,
 42f44eeb-e3e8-42a5-9790-773d540140ca,encounter.tv,resell,92,15,9,"GoDaddy.com, LLC",01/02/2020 09:14,01/02/2026 09:14
 d487b4c9-9dfe-46b5-957a-f7e8d9eca893,encouraged.tv,available,68,2,10,,,
+7778044d-8ef0-43c0-bd7d-c1d406b1294d,endall.tv,available,74,2,7,,,
 d511130c-246d-40b6-8229-67b747457532,endearing.tv,available,90,1,9,,,
 2da4290e-24d3-43d4-8a03-da5e8adfac8b,ended.tv,available,68,4,5,,,
+5d84fd1c-a8a8-45d9-8a5f-5846f49c45a5,endowment.tv,available,70,6,9,,,
 5b227114-6251-452f-9e4a-a5ecab00638d,endurable.tv,available,48,3,9,,,
+39031bd2-8397-4574-93ce-1c6877395ee0,endurance.tv,resell,72,16,9,"Name.com, Inc.",20/06/2014 18:01,20/06/2026 18:01
 5f2e39fe-1896-405d-8c0c-e477acb0ee2d,enduring.tv,available,82,9,8,,,
 86e0b9f7-5e96-47ba-8bbe-a88c2888a36b,energizing.tv,available,76,4,10,,,
 f20949c4-8411-469a-9d4c-f7112e0a3338,enervated.tv,available,36,1,9,,,
@@ -2038,9 +2228,12 @@ dc41b293-7695-4439-9064-4f167d749655,enlivening.tv,available,48,2,10,,,
 3a38cb12-e2ff-4073-882e-8aeab18c848c,enough.tv,resell,114,13,6,"Wild West Domains, Inc.",31/07/2015 19:01,31/07/2026 19:01
 04f0ee5d-0995-4eb2-a17a-2d9aff4ba766,enraged.tv,available,41,5,7,,,
 7cd01f89-686c-4c5d-b605-afc10ac74d03,ensuant.tv,available,62,1,7,,,
+4d41977d-738e-4471-b9d6-c883bcde4f4b,enter.tv,resell,80,27,5,Dynadot Inc,28/12/2016 13:46,28/12/2026 13:46
 bf3c4db0-90d1-4f47-9d16-98c478d64922,enthralled.tv,available,54,1,10,,,
+c5ebdb3a-b1da-43b9-99b8-846cf730d59b,enthusiasm.tv,available,76,6,10,,,
 4c00289b-7ea6-4290-bd69-6a2e44682449,enticing.tv,available,88,3,8,,,
 e95100eb-86c1-4786-8734-2e36204400b9,entirely.tv,available,58,6,8,,,
+6c186c0d-19c1-4798-97fd-3bc3656c420d,entirety.tv,available,74,6,8,,,
 89764ecb-feba-4a8c-b670-29570796c9ba,entranced.tv,available,54,3,9,,,
 710f6398-6616-4326-aa41-8726facb07f8,entrenched.tv,available,56,2,10,,,
 b5959419-89ce-426a-baac-52e850f584d7,enviable.tv,available,78,4,8,,,
@@ -2070,6 +2263,7 @@ fe23b7b6-fae3-4c4e-9c75-bb61daf64cb2,european.tv,resell,80,20,8,"GoDaddy.com, LL
 838db1d7-daeb-4ac8-81b4-3712b0a0bd02,evaluative.tv,available,42,2,10,,,
 62f331c2-02f0-418c-b182-ebe826719d26,eve.tv,available,78,35,3,,,
 6e5b5621-e9dd-446d-a51e-bcf76c36b8a0,evenout.tv,available,70,1,8,,,
+d282250b-914d-4866-bd25-50f697bc6f0e,event.tv,resell,96,38,5,Dynadot Inc,17/06/2012 08:00,17/06/2026 08:00
 f8bd7bdb-be3c-4ee8-95a6-80538cc7c9c7,eventoed.tv,available,50,1,9,,,
 d796b233-0db2-44ca-b14c-12a7d85ee26e,ever.tv,resell,96,35,4,"GoDaddy.com, LLC",21/03/2010 03:46,21/03/2026 03:46
 29d3eeeb-a76d-4db3-a0a6-90f77b96ceda,everyyear.tv,available,68,1,10,,,
@@ -2077,6 +2271,7 @@ d610271d-e09a-4bd7-9736-51de6796ee37,evil.tv,resell,92,33,4,"GoDaddy.com, LLC",1
 8daad86e-92ac-4902-84f8-dcbddf3a0cdb,evitable.tv,available,52,2,8,,,
 ca2a5211-a7bd-4ad1-be42-86727527be39,exact.tv,resell,104,21,5,"NameCheap, Inc.",10/06/2015 18:39,10/06/2026 18:39
 d5a3aea5-900d-471f-95a6-2012ea85cf6d,exactly.tv,available,84,7,7,,,
+d17b06ae-bd09-4f53-9eaa-2f73232c8e93,exception.tv,available,76,10,9,,,
 9584cb74-895f-4531-b382-7d14f4cb0542,exchange.tv,resell,98,25,8,Dynadot Inc,24/03/2010 04:07,24/03/2026 04:07
 4bf766bf-bd60-4251-a0d3-2ea3b77e342d,exciting.tv,resell,90,10,8,Dynadot Inc,03/05/2010 06:32,03/05/2026 06:32
 9d8a01a8-1e1a-4240-8d87-a941d3d16c42,exculpated.tv,available,62,1,10,,,
@@ -2085,35 +2280,47 @@ ce9c8498-960c-4608-a31f-d7fc951b6e3a,execrable.tv,available,48,1,9,,,
 8c204eb7-10d5-4528-a036-d71b7f2a0e2f,executing.tv,available,60,2,9,,,
 a6f40689-fafb-490d-8aaf-4cf6ecb16557,execution.tv,available,60,11,9,,,
 f6223353-bd63-42fe-a346-2caa2c4a9d8a,exemplary.tv,available,92,4,9,,,
+9dcc246f-d0c1-4e65-8150-51f6e0700797,exercising.tv,available,71,3,10,,,
+1e3662ae-1b83-414a-8dea-24b32d50cbaf,exhaustion.tv,available,46,2,10,,,
 9d7a8517-9449-46e1-af7b-f04d5d4d40f5,exhibit.tv,available,97,12,7,,,
+061222b4-6f6b-4011-8040-f332675855e9,exhibition.tv,resell,71,14,10,1API GmbH,30/11/2007 14:23,30/11/2026 14:23
 26e503fa-2c05-45f0-9fd6-035209576e4e,existent.tv,available,72,4,8,,,
 2e406ce1-f92a-4cbb-bef1-44f544e9ecfc,existing.tv,available,62,4,8,,,
+26c7bffa-f72b-4731-b587-c137f3b65e88,exit.tv,resell,74,31,4,Dynadot Inc,06/06/2012 08:02,06/06/2026 08:02
 e903a47e-361b-41e5-9bc9-5673014bbeef,exonerated.tv,available,66,3,10,,,
 e8f88b1f-af07-4309-8da6-30afc84aa357,expectant.tv,available,88,2,9,,,
+dde949fd-61f0-4745-9192-157101b40d63,expire.tv,available,58,10,6,,,
 d6ec81fc-b735-4e8c-80db-41936a09b0a0,explorer.tv,resell,74,27,8,Dynadot Inc,06/06/2012 08:02,06/06/2026 08:02
+7d8cf8d7-55cf-4569-a014-6683cbbc9073,exposure.tv,available,66,17,8,,,
 78ff686f-825b-41ab-80cd-86ee58493db4,express.tv,resell,118,22,7,Dynadot Inc,24/09/2016 08:15,24/09/2026 08:15
+b8d6f7a0-5e21-4a0f-b10b-73e02d08d15a,expression.tv,resell,74,15,10,1API GmbH,16/05/2019 08:00,16/05/2026 08:00
 7b501547-3a9c-47da-b592-c439562d62aa,extempore.tv,available,86,3,9,,,
 5858c55c-a1eb-43c3-aab7-628b104b356e,extension.tv,available,70,15,9,,,
 34b985ce-2178-4d9e-b86c-16a140bef657,extensive.tv,available,42,5,9,,,
+d2e67f79-99ca-4b7e-ba04-c5ce43cfb00b,extinction.tv,available,58,6,10,,,
 c508a86d-37a3-415a-823b-988c62cad427,extra.tv,resell,102,22,5,Key-Systems GmbH,19/03/2010 07:21,19/03/2026 07:21
 98e5cc9b-d122-4d1a-9885-5822255c8994,extremely.tv,available,56,4,9,,,
 4a27965b-00ae-42be-9ad2-bac902c9c29d,eye.tv,resell,66,27,3,"eNom, LLC",11/10/2000 20:01,11/10/2026 20:01
 a3a49eed-d819-4f84-a4ba-081d5efcf2a0,eyry.tv,available,74,3,4,,,
 0426aafe-f8de-48fd-9be4-0a1738132ad5,facetious.tv,available,48,3,9,,,
 7b162b4b-637d-45a3-8420-efd6eb4c38d4,facility.tv,available,76,13,8,,,
+847e94f8-2986-46d6-bf78-60945183396c,fact.tv,resell,78,23,4,"Spaceship, Inc.",18/05/2015 08:06,18/05/2026 08:06
 321e011d-0630-44f5-a700-e39902d2e71c,fairly.tv,available,66,7,6,,,
 a3e47fbd-a3a9-4f17-a9a1-7c1604284805,faithful.tv,available,92,12,8,,,
 5f6d2e38-ca8c-47f4-90e1-3e7d284d1c22,fake.tv,resell,84,32,4,Dynadot Inc,18/03/2010 21:23,18/03/2027 21:23
 637af570-1c74-4c4d-ab04-3f24499daabd,fall.tv,resell,68,14,4,"GoDaddy.com, LLC",18/03/2010 19:00,18/03/2026 19:00
 74025b58-724d-4e36-9789-2c3d47ec2bbe,fallen.tv,available,82,8,6,,,
+6ee689d4-f59c-46a9-b153-02fff0fc2366,falls.tv,available,72,9,5,,,
 86609406-5333-4b1c-b286-619ea6fd4423,fancy.tv,resell,124,26,5,Dynadot Inc,23/01/2017 18:42,23/01/2026 18:42
 cad6caf8-5f0f-4763-b2f1-f549e205cbab,fanny.tv,available,44,8,5,,,
 a1fcd920-5397-45eb-9c0f-be3af90e2d6a,fantastic.tv,resell,88,15,9,1API GmbH,21/01/2017 10:06,21/01/2027 10:06
 e3cbfcd3-0cb3-4bd8-ae3b-b3417afbd519,fantasy.tv,resell,98,25,7,Dynadot Inc,19/06/2019 08:02,19/06/2026 08:02
 ec5ce285-31c8-4f64-8c52-1a52ff2eef59,far.tv,resell,88,24,3,Dynadot Inc,20/12/2016 15:34,20/12/2026 15:34
+5d7b98dd-431b-494e-9b83-5bbbd48ce3de,farmer.tv,resell,72,18,6,1API GmbH,14/03/2012 08:02,14/03/2026 08:02
 8a5d02fd-cf25-4342-8bc4-e18c1e9c48f7,farther.tv,available,74,5,7,,,
 f011f5b4-2a30-4661-ba14-9f543d8e5a9f,farthest.tv,available,56,1,8,,,
 9db84d0f-6c86-427c-9cb1-f505761295f9,fascinated.tv,available,72,4,10,,,
+4788ceeb-7200-41b5-88e7-00394be5373d,fate.tv,resell,60,22,4,Dynadot Inc,02/09/2002 06:43,02/09/2026 06:43
 b2fb5675-0df2-4031-b335-6f96288e2c0f,fatigue.tv,available,88,7,7,,,
 1213e57b-9ce6-41ca-a767-67ed75ff2370,fatuous.tv,available,38,2,7,,,
 e13241b5-5352-44e2-9a2c-c854139c2c6b,faveolate.tv,available,50,1,9,,,
@@ -2122,11 +2329,16 @@ e13241b5-5352-44e2-9a2c-c854139c2c6b,faveolate.tv,available,50,1,9,,,
 0d986cf7-89ee-4c3e-82d4-7d394d0138ca,favourable.tv,available,86,2,10,,,
 5b3b4150-7c5c-4edd-9da6-589e66409f25,fearful.tv,available,70,2,7,,,
 89e66171-878d-447e-8656-55085e213719,feature.tv,resell,94,13,7,Dynadot Inc,20/12/2016 15:34,20/12/2026 15:34
+63cc2fc5-d496-4dff-98bb-c5ca5eecef83,feb.tv,resell,70,7,3,Realtime Register B.V.,07/05/2022 22:08,07/05/2026 22:08
 a0475e3a-65a7-434d-a3ae-1dc92557c147,febrifuge.tv,available,66,1,9,,,
+b913ca72-01f3-4324-af33-cbdb8d067750,february.tv,available,66,7,8,,,
+05263a7e-3bd7-4936-aadf-09ef71e06cff,feelings.tv,available,80,12,8,,,
 3a26dadf-2439-4150-b1c8-7f6cacf5424c,fell.tv,resell,60,8,4,"GoDaddy.com, LLC",16/06/2008 11:07,16/06/2026 11:07
 fe2b4fbb-1c3c-4844-a08a-6286a770c67d,felt.tv,resell,76,12,4,"GoDaddy.com, LLC",10/10/2017 20:07,10/10/2026 20:07
 36b342b6-27ae-4d81-9d6a-24e5a080b011,female.tv,resell,90,15,6,Dynadot Inc,05/11/2010 08:00,05/11/2026 09:00
 0a5c16e7-2d17-4beb-bfb0-742df1398f78,feminine.tv,available,86,6,8,,,
+89bc77a3-af74-4464-a899-65140650ded3,fence.tv,resell,85,18,5,"GoDaddy.com, LLC",08/03/2013 09:06,08/03/2026 09:06
+19dcffab-0c35-4dea-be5a-e5f5f0601c61,fever.tv,resell,78,14,5,Dynadot Inc,01/10/2005 19:35,01/10/2026 19:35
 52b41669-0a80-4e3d-950e-4de317603e36,fewer.tv,available,58,4,5,,,
 4b043611-3cf7-4dc8-8575-e69c981634f3,fictitious.tv,available,44,4,10,,,
 2709d197-344d-4058-b2d9-2617ef5a20a3,fidgety.tv,available,64,2,7,,,
@@ -2145,12 +2357,16 @@ d964cb51-ae3e-4fc2-8593-7a2a79be1e8b,fiftytwo.tv,available,56,6,9,,,
 7f8f6092-db7e-4742-a311-6a07058f2200,figure.tv,resell,96,16,6,Dynadot Inc,21/01/2022 12:11,21/01/2026 12:11
 6674300f-37cc-46f9-988b-fe8bf7687d23,fill.tv,resell,68,14,4,"GoDaddy.com, LLC",16/06/2014 22:36,16/06/2026 22:36
 cadf9f59-801d-4b7e-9caa-6bf0a6fa88d3,filled.tv,available,72,4,6,,,
+373510de-7790-45ba-b73c-c5221a16bdfa,filming.tv,resell,74,6,7,"GoDaddy.com, LLC",27/04/2006 11:16,27/04/2026 11:16
 ec104815-2abe-4ea6-83da-0819c75e1bcc,final.tv,available,93,19,5,,,
 08370f7f-d990-4ab3-8611-b4372a2cb808,financial.tv,resell,62,18,9,Dynadot Inc,01/07/2016 09:07,01/07/2026 09:07
+f20224a8-3b63-4d89-b10b-123a989ee205,finding.tv,available,76,19,7,,,
 16fe09dc-a06f-4e1c-86de-cf1e5cab7b38,finished.tv,available,68,5,8,,,
+e5aea9a2-fe4e-4134-bf16-d52402a67ef2,firetruck.tv,available,90,5,10,,,
 163a2a8d-9434-48db-b48b-347003c3275c,first.tv,resell,80,32,5,Dynadot Inc,29/11/2014 13:08,29/11/2026 13:08
 90e3b55d-15ff-4c52-813f-2a1c95dc1234,firstly.tv,available,64,4,7,,,
 5db43077-b19f-4aca-a0f5-975ad548e09f,firstrate.tv,available,76,6,10,,,
+69b9198e-abe6-447b-8873-8191d05b109f,fitness.tv,resell,78,29,7,Dynadot Inc,07/07/2016 08:16,07/07/2026 08:16
 afc06bf3-e02f-4032-8d39-f566fc884519,fivesome.tv,available,82,1,8,,,
 3aea6d87-8423-45b2-b6d1-c3e58e276b32,fix.tv,resell,66,27,3,Dynadot Inc,19/03/2010 04:08,19/03/2026 04:08
 68bc26d4-88cd-4567-960b-78d0cdb0d45b,fixed.tv,resell,66,14,5,"eNom, LLC",14/05/2006 18:05,14/05/2026 18:05
@@ -2161,16 +2377,20 @@ e817fc97-e949-4157-ada5-4c4a049a78c4,flaring.tv,available,70,2,7,,,
 640b9d59-3db4-4380-96e0-9bff4c42be83,fleshly.tv,available,66,2,7,,,
 e7b39358-e256-457f-923d-d39840d63e4f,flickering.tv,available,80,2,10,,,
 ae776541-4533-40ce-b7ff-967ee6920399,flooded.tv,available,60,3,7,,,
+794ef4d7-c91a-4e07-8a74-d98cff9a8e16,floor.tv,available,98,23,5,,,
 0a872d24-c6c9-429b-bc3b-da34b1c2a171,flop.tv,available,60,9,4,,,
 61dff126-3318-46eb-84dd-4c6ebf1fb893,florid.tv,available,58,4,6,,,
 46f0651a-8d23-4fe3-a113-72512ce4ee52,flower.tv,resell,74,24,6,Dynadot Inc,12/09/2021 08:01,12/09/2026 08:01
+87384632-bc83-47b5-9b03-6eccef01d2d3,flu.tv,resell,62,10,3,Dynadot Inc,20/05/2016 08:19,20/05/2026 08:19
 7c654f7f-e9f8-41ea-b328-ccb90217df0d,flush.tv,resell,114,12,5,1API GmbH,23/04/2011 22:54,23/04/2026 22:54
 5bfc1ada-490f-477f-a7ce-2d413e370f54,flyspeck.tv,available,68,1,8,,,
 48fc2915-6b92-4563-a083-b90cd3f5553c,focus.tv,available,102,40,5,,,
 62522af6-c0ff-4d6b-be8e-f3b728a2f947,fold.tv,resell,96,16,4,Dynadot Inc,05/05/2012 08:00,05/05/2026 08:00
 f3b1b545-1a2e-40ad-a026-cf529d0b2452,folding.tv,resell,86,5,7,"Spaceship, Inc.",28/09/2019 09:29,28/09/2026 09:29
 b9d46036-8baa-4937-9f09-626920b47dc7,fond.tv,available,116,11,4,,,
+d611c9a3-865e-42bf-afe5-577cc9c05b70,foodbank.tv,available,76,10,9,,,
 6bd2c8ab-df76-4ec9-8ec4-8ee75836754d,foot.tv,resell,66,15,4,"eNom, LLC",03/05/2006 21:37,03/05/2026 21:37
+063bca18-70ab-4fc4-b28b-a1814d95b1f0,football.tv,resell,100,32,8,"eNom, LLC",21/02/2001 08:00,21/02/2027 08:00
 9728fd60-c804-42ba-84d9-a1db014a1232,forehead.tv,available,70,3,8,,,
 574debf8-ebe1-496f-8512-6fd399bb54c0,foreign.tv,resell,78,11,7,"eNom, LLC",11/10/2000 20:36,11/10/2025 20:36
 eda04fdc-0b3e-4ee7-89dd-0c3c8aa0359f,foreman.tv,available,62,9,7,,,
@@ -2179,8 +2399,10 @@ eda04fdc-0b3e-4ee7-89dd-0c3c8aa0359f,foreman.tv,available,62,9,7,,,
 c930a4e3-1a82-473b-b0ab-f628ee404751,former.tv,available,92,7,6,,,
 0a17e4a2-cfa2-4350-89c5-1416cc974478,formerly.tv,available,58,4,8,,,
 9f61f486-51dd-458e-80cf-5ae307d4b334,formless.tv,available,50,6,8,,,
+082f671c-57a2-4f81-9c9d-712312ab28ca,fort.tv,available,64,21,4,,,
 ae8a02b5-bab3-4061-aa2f-5a372ca2528b,fortieth.tv,available,68,1,8,,,
 6657f78e-6131-4a1e-8028-24964711b066,fortified.tv,available,78,13,9,,,
+522e6b33-3dc2-4217-a6d8-a64326f52d07,fortune.tv,available,72,50,7,,,
 80df25bc-0dbc-4fc8-b088-8c29aeafbaae,fortyfive.tv,available,54,5,10,,,
 fc78973e-23ef-41bd-b7d3-429b9bb5574d,fortyfour.tv,available,62,6,10,,,
 ae260933-0414-4d57-b4d9-1efba2c74c7f,fortynine.tv,available,56,3,10,,,
@@ -2193,14 +2415,18 @@ cdaa377b-f510-4379-9424-3ca3d4d148a6,fourteenth.tv,available,76,2,10,,,
 6341d33a-32b2-472d-8a4d-71c81cd6b81a,fourth.tv,available,58,13,6,,,
 172a4960-6b86-455f-af2d-a54fdf5ecfc3,fraud.tv,available,86,24,5,,,
 2525179c-07a3-41b5-b907-4c0d21c0b53d,freely.tv,available,84,13,6,,,
+93ebae02-a354-4eee-a021-3ef5b4686594,freeway.tv,resell,72,17,7,"Name.com, Inc.",24/08/2012 13:31,24/08/2026 13:31
 fb19ebd6-7fa8-47f7-b513-b803673d9c4b,french.tv,resell,80,18,6,1API GmbH,27/09/2011 08:03,27/09/2026 08:03
 338f723a-3295-4fd1-808a-4980f77acbfb,frequently.tv,available,64,3,10,,,
 52d9ba47-062d-4b3c-b386-a8c8a2bd94a1,fretful.tv,available,58,2,7,,,
+dcde94a9-d2de-44e3-b9ab-3a818ff577ea,fruit.tv,resell,82,27,5,Dynadot Inc,23/03/2010 09:21,23/03/2026 09:21
 9469bb8b-3e49-4f91-baf0-a1178b066537,fruity.tv,resell,84,10,6,Dynadot Inc,17/05/2020 13:26,17/05/2026 13:26
 076569c5-5022-402d-8907-e26444304424,frustrate.tv,available,74,2,9,,,
 7e3bc497-803d-477e-a65c-8b9db87f7fe5,fulgid.tv,available,54,2,6,,,
 62a97f63-9c2d-4732-be70-8a222ca4724e,full.tv,available,68,23,4,,,
 5060955c-76e4-4fd6-906d-dfff55e48ecd,fullgrown.tv,available,56,1,10,,,
+17701ac1-7082-4762-914e-8abace55c21e,function.tv,available,92,24,8,,,
+8698a25f-b29e-4d9d-8ff2-e672334e93df,fund.tv,resell,96,27,4,Dynadot Inc,18/05/2010 08:00,18/05/2026 08:00
 afed69c3-c7ac-4974-9de4-34704010c189,fundament.tv,available,38,9,9,,,
 87076511-234f-4eb5-890d-6a6889ae3505,funds.tv,resell,78,18,5,Dynadot Inc,24/02/2015 09:07,24/02/2026 09:07
 491bbbd6-158a-4500-838d-b8436506dce4,fungicidal.tv,available,60,1,10,,,
@@ -2212,12 +2438,16 @@ b9d2515f-5ff6-49d7-998b-e356bc3bad90,furthest.tv,available,58,1,8,,,
 c11755e3-345d-4173-b826-253f1fd6a657,fussy.tv,available,54,6,5,,,
 b8b0cd47-26d7-4b86-93aa-6fbdd11d521b,futile.tv,resell,60,5,6,"Name.com, Inc.",26/04/2012 08:01,26/04/2026 08:01
 59ba8314-615d-4d8c-a701-1edf3712e313,gaffer.tv,available,50,8,6,,,
+60676752-f6af-4437-9812-930a25a50d83,gal.tv,available,64,16,3,,,
 c7fcdfa8-dd69-4fb3-a0dc-1997f3587f03,galling.tv,available,76,2,7,,,
+d3009923-88d9-4c56-9757-873f38d41101,gallon.tv,available,66,5,6,,,
 23ca5f80-c591-494b-bf0b-d10ea0edaa02,ganja.tv,resell,63,16,5,"GoDaddy.com, LLC",19/10/2007 00:50,19/10/2026 00:50
 9564d8fe-92b2-42a1-a0f8-b06d6d73be23,gaping.tv,available,76,2,6,,,
 c525151e-339e-4515-b49c-da345f68ba04,garbed.tv,available,50,1,6,,,
+0d1e0f94-3fdf-445a-ae8a-9f262e0b9933,garden.tv,resell,72,31,6,Dynadot Inc,23/03/2010 21:39,23/03/2026 21:39
 27c7025d-a3ec-49c7-a7be-5f90447d3e28,garmented.tv,available,48,1,9,,,
 e9aece91-f253-4ba4-a78e-70d64bb884ea,garret.tv,available,50,7,6,,,
+03d0d7e0-c10b-4b9f-8aec-3596c6e7cf5f,gee.tv,resell,66,16,3,Dynadot Inc,04/08/2011 17:09,04/08/2026 17:09
 d719caf9-2b6a-47e8-90fb-47cda5d4b472,geek.tv,resell,90,29,4,Dynadot Inc,11/03/2010 03:15,11/03/2026 03:15
 5b0c2d20-3cc9-4f40-9c65-39f07cbda806,generally.tv,available,63,3,9,,,
 8ac5f982-79e8-4192-8919-e041dbb5437e,genial.tv,available,80,14,6,,,
@@ -2227,22 +2457,33 @@ ce71937f-c8d4-4ad1-93cf-fd5f8aec270d,genuinely.tv,available,64,4,9,,,
 ef760c05-f955-43d1-b9ad-1f3c0aff88ee,germicidal.tv,available,42,2,10,,,
 60eda669-775e-4c34-808c-78733fcdbc6c,germicide.tv,available,60,1,9,,,
 a5959996-738a-411a-a33a-c5a9fd59edb2,getting.tv,available,72,7,7,,,
+d5e125bc-0fc6-499d-abe1-f3af33d408ef,getto.tv,available,76,6,6,,,
+74f649fd-7241-4167-b050-aecc9fec2d72,gforce.tv,available,76,9,7,,,
 38d881b5-debe-4aed-a6ef-9c13ef99b0e5,ghostlike.tv,available,44,2,9,,,
 6bcbd3f0-a2a5-4ef2-aa8b-0ec631fe866e,gift.tv,resell,82,28,4,Dynadot Inc,18/03/2010 14:08,18/03/2026 14:08
 bd015b42-f9da-436b-9424-f624a3f4e6ab,gillless.tv,available,50,1,9,,,
+6e9ba1a2-dcba-4906-97b6-dfab055e8c08,girth.tv,available,88,4,5,,,
 9bcfdbe5-591e-41f5-afb6-ae2f0034d9f3,given.tv,available,74,8,5,,,
 f97c62af-7ce8-47d5-9621-14942fa73d66,glad.tv,available,80,14,4,,,
+d9a0ea13-edbf-4ddd-b4b4-11dcf47cd143,glance.tv,resell,92,14,6,"GoDaddy.com, LLC",03/07/2012 20:21,03/07/2026 20:21
+7b33f752-5072-44cd-9ebb-6beb1a7f7891,glass.tv,available,68,33,5,,,
+3893e611-6fac-4461-8177-85171a845d0d,glasses.tv,resell,70,14,7,"Name.com, Inc.",02/04/2010 01:27,02/04/2026 01:27
 a5652cf7-c81a-47a8-b8ca-46f527f24332,gleaming.tv,available,82,4,8,,,
 8a9afaaa-a994-4231-a990-60f7a2eb725e,glinting.tv,available,64,1,8,,,
 e748658d-d27f-4b8e-9b40-27900e4fb31c,glistering.tv,available,60,1,10,,,
+e37d20ed-5dcf-415e-a21d-964700164730,glitter.tv,resell,96,17,7,"GoDaddy.com, LLC",12/05/2003 13:33,12/05/2026 13:33
 fef934fe-3dc0-4f29-9a70-a77cd8be6f1d,glittering.tv,available,82,5,10,,,
 55f40b51-b169-46d2-847d-1c4a2932c8e5,glittery.tv,available,64,3,8,,,
 54753f41-fb8f-433d-94bb-0f207358fbb2,globose.tv,available,54,1,7,,,
 d6e3f1ba-f073-46a1-8622-4c043531d7a3,globular.tv,available,68,4,8,,,
+b8c1dd89-8e5f-4e20-8c34-a5faacd95831,glory.tv,resell,74,21,5,Dynadot Inc,21/04/2010 15:45,21/04/2026 15:45
 56e46649-2fb1-4891-96f3-ee2a5fddda9f,glove.tv,available,88,10,5,,,
+2b6ad008-1826-446a-ab6f-aaa9e2fd85d4,glue.tv,resell,92,28,4,"GoDaddy.com, LLC",02/10/2005 05:22,02/10/2026 05:22
 c81765c1-9ef0-4120-9a9a-a97650dc2602,goat.tv,available,62,44,4,,,
 f4b13366-a995-4b60-9dd5-dbad9e74590f,godawful.tv,available,42,1,9,,,
+e7117084-eee7-4c24-9a80-2445c1656fd0,gofor.tv,available,80,10,6,,,
 c3da4479-4c40-4c04-a386-1ba4911c48ef,going.tv,available,80,15,5,,,
+76a76230-9d77-4880-ab4a-b867ef214864,golfgame.tv,resell,76,3,9,1API GmbH,29/10/2001 21:46,29/10/2026 20:46
 6b9cacb9-5fdf-4d4c-b3f2-fac89a9dc364,gone.tv,available,80,13,4,,,
 12f03db5-3650-4073-a081-73ce9efde8f5,goodby.tv,available,66,2,7,,,
 7c9bddab-0dbf-47c9-a9c2-28fde09fe8f1,goodbye.tv,available,90,11,8,,,
@@ -2250,12 +2491,22 @@ b792074e-7e1d-46bc-9a41-c73fcb72449a,goodday.tv,available,76,17,8,,,
 d34224aa-04c9-4b0e-9344-9c47e66ad145,goon.tv,available,80,28,5,,,
 651f020a-7d28-4001-b38b-44c36a8bd1e0,government.tv,resell,80,18,10,"GoDaddy.com, LLC",23/03/2010 16:42,23/03/2026 16:42
 b6eb2288-b0d6-460d-a551-87fb75522d50,grabby.tv,available,72,5,6,,,
+182cf82e-f239-4142-9613-398ca1518dab,gram.tv,resell,62,22,4,Dynadot Inc,29/06/2012 23:26,29/06/2026 23:26
+02a58838-1649-44be-8b1e-2ca3dbd2f7b4,gramme.tv,available,68,4,6,,,
+f0531206-a40d-46e3-995e-875d184cd809,gran.tv,available,68,15,4,,,
 430d1d89-6822-46ae-8432-ec8d0e38885b,grand.tv,resell,84,24,5,Dynadot Inc,17/04/2010 06:57,17/04/2026 06:57
+5cd62f51-0efa-4117-86eb-1ba69cbc5c32,grandad.tv,available,80,3,7,,,
+a161ce97-ec7f-4b1e-ae9d-2ee901eceeba,grandchild.tv,available,82,2,10,,,
+5233743b-d08f-449c-b179-aafbc343d624,granddad.tv,available,78,3,8,,,
+f0ccb850-a4c9-4aca-a36d-eefa5813c95d,grandma.tv,resell,78,11,7,"GoDaddy.com, LLC",19/03/2010 19:11,19/03/2026 19:11
+684344d9-b93b-4235-a07d-654a01e0740c,grandniece.tv,available,80,1,10,,,
+fae19e35-f57c-42e3-9694-9ce85f3ea453,grandpa.tv,resell,78,7,7,"Spaceship, Inc.",21/02/2025 12:02,21/02/2026 12:02
 01a95755-a0ad-4f52-b7ac-bca2bf232b31,granted.tv,available,80,10,7,,,
 7d8570fe-d328-4498-aa5e-cac83ddc7515,graspable.tv,available,46,2,9,,,
 fef95d4d-b9fe-4944-b5c9-012f2f1e8081,grasping.tv,available,68,2,8,,,
 c7732162-6277-4172-b031-cb022f6e7cfd,greatly.tv,available,70,4,7,,,
 c99ca0db-da77-4f6a-9ab9-fda7fbb281dd,greedy.tv,available,58,9,6,,,
+ff32627a-d83c-4d01-97a1-79ca1fd4a2b9,greens.tv,resell,72,18,6,Dynadot Inc,10/11/2016 18:53,10/11/2026 18:53
 3609032a-b3aa-4c9e-9282-91e8663177db,grievous.tv,available,40,2,8,,,
 d7b2f1e3-a81a-4f86-afb0-a89d92ea69d6,grilled.tv,available,62,5,7,,,
 50857597-ec4d-4ba6-b0f3-17a2af89e4ff,grinning.tv,available,76,3,8,,,
@@ -2264,6 +2515,8 @@ d7b2f1e3-a81a-4f86-afb0-a89d92ea69d6,grilled.tv,available,62,5,7,,,
 6b9921e4-6bd4-43ad-9eb6-50cc4658bd2d,grotesque.tv,available,54,3,9,,,
 25364146-6bc3-4244-b24f-2f1b8cc5d7c2,ground.tv,resell,122,15,6,Dynadot Inc,02/05/2016 08:07,02/05/2026 08:07
 e89a36ea-695e-4225-920f-e5ad01b4faef,groundless.tv,available,37,3,10,,,
+58781ff5-ed0d-4322-a81e-7e981d7a03d2,grouping.tv,available,84,3,8,,,
+606e2dfd-9984-4916-b85b-07e92f470974,groves.tv,available,52,9,6,,,
 46a19461-ac90-40df-a077-6e449d096ce3,grown.tv,available,60,9,5,,,
 f02620e1-87a4-44c2-8bf4-ea90bc00a9b4,grownup.tv,available,78,5,7,,,
 5f7745d6-365c-437d-8d15-acf29415397b,grubby.tv,available,62,3,6,,,
@@ -2271,33 +2524,58 @@ f02620e1-87a4-44c2-8bf4-ea90bc00a9b4,grownup.tv,available,78,5,7,,,
 e062aa93-c509-4e81-b4bd-6c64e2a2ec99,gruelling.tv,available,68,1,9,,,
 c94c73d3-b27f-445e-88c6-3185773482b8,grumpy.tv,available,60,14,6,,,
 13b6f1ce-9ab8-49a1-8c50-2148eb179135,grungy.tv,available,44,2,6,,,
+59d5b231-df13-4393-a68c-a583d78066fd,guarantee.tv,available,96,9,9,,,
+44459485-a699-4a34-9a95-823a013a3d50,guard.tv,available,68,21,5,,,
+b2763dfd-b387-42e3-9222-fb7987384757,guess.tv,available,100,16,5,,,
+3e424795-828b-4782-a713-70ed79299d93,guide.tv,resell,72,27,5,InternetX GmbH,04/06/2008 08:00,09/04/2026 03:59
+010a0971-2370-4925-9ee4-793a7a052e1c,guilt.tv,available,86,6,5,,,
+9959078d-88e3-4dda-beb6-bbd6eb7c0c50,guitar.tv,resell,98,26,6,Dynadot Inc,19/03/2010 04:08,19/03/2026 04:08
+5e81d0de-eb4d-4a85-8bab-22673ad1e0cd,gulf.tv,resell,64,22,4,"NameCheap, Inc.",06/04/2014 08:04,06/04/2026 08:04
 3de76cc5-c69b-4f1b-967c-774f6520f0c8,gun.tv,resell,56,24,3,Dynadot Inc,19/12/2010 09:01,19/12/2026 09:01
+3d18b046-1071-4b6e-b493-6ad1358ecfe5,guts.tv,resell,97,15,4,Dynadot Inc,06/06/2018 20:00,06/06/2026 20:00
+db898274-7abd-4556-9a5a-50deeaa61e67,gym.tv,resell,105,25,3,Dynadot Inc,30/11/2017 09:06,30/11/2026 09:06
 6f029bb7-0885-41e2-800c-703e513f834b,gymnastic.tv,available,70,4,9,,,
 eb76c78e-c0e0-4478-9d50-32dc96569ccb,hackneyed.tv,available,44,2,9,,,
+a250d130-71ed-4293-bec9-d329ae218c8c,haircut.tv,resell,95,9,7,Dynadot Inc,30/09/2019 08:57,30/09/2026 08:57
 d182cc20-4220-418e-83ee-70f2540b3dd6,halfdozen.tv,available,56,1,10,,,
 0f428ee6-a2c1-4dde-a641-f2be9159b1c5,hall.tv,available,80,20,4,,,
 712ce39f-822a-4a06-b92d-1db59471efd9,halo.tv,available,78,37,4,,,
 01c86c5f-d174-456e-97b1-7c8d9dfe71ff,halt.tv,available,66,11,4,,,
+c079e48c-6b75-4cbd-9e46-bc009971c735,ham.tv,resell,62,24,3,Dynadot Inc,18/12/2016 15:23,18/12/2026 15:23
 68cad4cb-d4b0-43e5-a2e1-79455aeb89e9,hamburger.tv,available,78,14,9,,,
 83925091-fbe9-4d7d-8287-e0e9538f5e30,hamilton.tv,resell,66,17,8,1API GmbH,19/03/2010 05:02,19/03/2026 05:02
 86d16d4e-5ac2-429c-a6a1-6c30f9d63757,handicap.tv,available,78,9,8,,,
+ee268e70-3e05-4cff-be2e-131abebb28e4,hands.tv,available,60,17,5,,,
+f68bc53b-3cfd-46da-ae1a-d1e8fa020a94,hanger.tv,available,60,6,6,,,
 dce5100a-5ada-4dfc-943c-8e537fdff85e,hannukah.tv,available,68,2,8,,,
 5a2454b6-28b6-47ee-8791-12464677f524,hanoi.tv,resell,66,14,5,Dynadot Inc,11/08/2013 08:19,11/08/2026 08:19
 57ec2cd3-3520-4306-9359-590c55ac9d07,hanukah.tv,available,80,2,7,,,
 0cf97cd1-abcb-4b43-908e-42b2d8f4ddbf,hanukkah.tv,available,70,8,8,,,
 16212349-ab5f-4d72-855a-9fd911938333,happening.tv,resell,84,12,9,"GoDaddy.com, LLC",27/09/2010 17:02,27/09/2026 17:02
+e703b752-4ea6-414d-97cf-4a18730a23cf,harddrive.tv,available,76,5,10,,,
 857dac09-7339-42d5-9cc1-09ea17dfe190,hardly.tv,available,92,4,6,,,
 94c7b52f-d859-4994-a7ef-f476acef78d0,harm.tv,available,86,9,4,,,
 a3bf9b88-8d70-43ba-9254-8b5aae360b74,harrowing.tv,available,66,1,9,,,
 bea92af4-d5fc-4427-8e7b-f1bdf4014921,hassle.tv,available,99,4,6,,,
 6694f180-e310-4a28-9db4-a612e6beb0d9,hat.tv,resell,78,18,3,Dynadot Inc,15/12/2016 21:49,15/12/2026 21:49
+ac7a3d67-7d13-4157-b5a0-ae7bae793b1f,hater.tv,available,62,6,5,,,
 c647192c-bc9f-4e11-98a1-0627391cc714,have.tv,resell,112,25,4,"GoDaddy.com, LLC",07/06/2013 08:04,07/06/2026 08:04
+8f6b5135-7f8c-401d-af29-2e32000c0ee7,havegot.tv,available,70,1,8,,,
+fb64efd8-1870-4c6c-b57b-50f99b8214f8,haven.tv,available,68,39,5,,,
 fd200f1b-0ee4-4fd6-8232-754bdacf8427,hawkeyed.tv,available,46,2,9,,,
 0429fc35-967a-4e9b-acac-1f4a4161ef63,haywire.tv,available,72,8,7,,,
+fbee62b6-610c-4b35-9d28-01ac23d90125,heal.tv,resell,70,26,4,Dynadot Inc,02/10/2005 09:39,02/10/2026 09:39
 6caaf0c8-78b3-4905-971d-390ed80861cf,healing.tv,resell,82,25,7,"Spaceship, Inc.",12/07/2010 18:21,12/07/2026 18:21
+9ea934b3-b3a2-4b67-9ec1-92c6c78a3bb4,healthcare.tv,resell,76,28,10,Dynadot Inc,08/12/2018 09:02,08/12/2026 09:02
 b7ce6f4b-09ff-4146-b5a9-023c4f497098,hearable.tv,available,60,4,8,,,
 9354d4c3-421d-49a0-aa77-ebc2b0b37a6f,heard.tv,available,60,10,5,,,
 106e814d-63ee-4aa5-90f9-6c35a25290ea,heart.tv,resell,84,29,5,"NameCheap, Inc.",05/04/2010 12:41,05/04/2026 12:41
+455be63d-9e81-45a5-a4ff-1a5969864158,hearts.tv,available,88,17,6,,,
+772b6cf6-5848-4c30-8544-84483594e331,heartthrob.tv,available,76,3,10,,,
+cf556bac-a8bf-4c5b-9c90-e462457d3a16,heatup.tv,available,76,4,7,,,
+c7db8459-52a9-469e-9528-331cf4fd8cdf,heatwave.tv,available,64,10,9,,,
+9850ca6f-8478-435f-85f5-043e81c26d55,heaven.tv,resell,70,29,6,Dynadot Inc,10/06/2010 15:04,10/06/2026 15:04
+ade7fcc8-5d7f-424e-849b-403c39790fdd,hedge.tv,resell,68,19,5,Dynadot Inc,17/07/2019 06:40,17/07/2026 06:40
 9f5af26d-21d9-4a17-8944-e13e804b982b,heedful.tv,available,66,1,7,,,
 177f0b7b-457a-41d2-a097-ea008bbd3256,heel.tv,resell,64,8,4,"NameCheap, Inc.",05/02/2017 01:47,05/02/2026 01:47
 9e22a1c6-57aa-4ead-a055-2b018c54692b,height.tv,available,70,6,6,,,
@@ -2305,6 +2583,7 @@ a370bb69-a04e-4f0f-8603-4592e035ebb8,hellish.tv,available,46,3,7,,,
 773bb0c0-1898-4551-ae88-8589f8bd6275,helminthic.tv,available,68,1,10,,,
 400dea6f-974f-4233-ae1e-72057841ee01,help.tv,resell,68,36,4,Dynadot Inc,01/05/2000 07:00,19/01/2027 04:14
 d597064b-a63d-4ce2-8119-14b566a3ca1f,helper.tv,available,56,19,6,,,
+e6b66c75-9092-4ffb-80bd-80e960a36ea3,helping.tv,available,78,12,7,,,
 84ac98c7-5000-480b-92e7-79e3791b2b80,hence.tv,available,64,7,5,,,
 7a4d2e49-818f-4c16-b106-c5d705009df7,heptad.tv,available,58,2,6,,,
 650b9a71-9b16-466f-b94a-9a693e00037c,hercules.tv,available,74,13,8,,,
@@ -2318,14 +2597,18 @@ bfb68c51-686a-4cb8-9f2c-69c4b6c18cc4,hermitical.tv,available,46,1,10,,,
 078b3a54-75bb-47ee-ad05-734cf8c1851f,hide.tv,resell,92,20,4,Dynadot Inc,24/03/2010 01:18,24/03/2026 01:18
 5f0ce946-65e5-4362-9cf8-6a2a1536a691,hiding.tv,available,70,4,6,,,
 cc7b708f-4513-4eb7-8cef-46c729911f09,highly.tv,available,62,7,6,,,
+7f809e95-666c-430f-9c1c-aa8c91e479ef,highschool.tv,resell,72,13,10,"eNom, LLC",13/07/2000 06:11,13/07/2026 06:11
 e6f973ae-5ab1-4988-ba03-4eaf063443d1,hindend.tv,available,38,1,8,,,
 e2fe5254-809d-4f0b-a4d3-1778384c4100,hinder.tv,available,98,6,6,,,
 c765bfe6-83fe-4425-bec1-c2de52d0b7cf,hindermost.tv,available,42,1,10,,,
 7075d0f8-52a1-4daf-884c-b1b6c2e5dce4,hindmost.tv,available,42,1,8,,,
+ab66a800-26d9-405e-bd33-fa3ce6961b67,hindsight.tv,available,68,15,9,,,
 485af432-f1a6-449f-8c58-53b6eb497139,historical.tv,available,88,10,10,,,
 aa995750-134a-4739-af84-27d5f3390274,history.tv,resell,94,27,7,Dynadot Inc,19/03/2010 04:00,19/03/2026 04:00
 4ef66d56-d153-4299-b1fc-4bef605140f2,hokey.tv,available,52,3,5,,,
 d92513f7-94aa-4c1d-8815-542f6010b65b,hold.tv,resell,100,19,4,"Spaceship, Inc.",26/12/2018 09:00,26/12/2026 09:00
+b2381660-062d-47d0-aa90-b1e6732b2da9,holder.tv,available,58,13,6,,,
+cd186e61-c482-408d-ab98-4e4b9a57f8fe,holiday.tv,resell,72,26,7,Dynadot Inc,26/01/2011 09:01,26/01/2026 09:01
 5dda6171-50fd-4c83-9dd0-bc02af10f569,holly.tv,resell,56,25,5,"GoDaddy.com, LLC",18/11/2011 06:09,18/11/2026 06:09
 254409c7-5778-46af-aff4-9d8eb6cc3109,home.tv,resell,100,40,4,InternetX GmbH,01/05/2000 07:00,09/04/2026 03:59
 fcc2c7bc-c27d-44d2-a76c-d2a36484aa52,homoecious.tv,available,48,1,10,,,
@@ -2339,8 +2622,11 @@ c984a5d7-fa7a-45ac-a25e-8d2959bd9574,hopedfor.tv,available,51,1,9,,,
 1ddc9cb2-cc57-4ca9-8ba8-3709bb113efe,hot.tv,resell,98,31,3,EuroDNS SA,03/11/2000 08:00,03/05/2033 07:00
 08217093-eee3-43de-8c2d-1b0132b38338,hour.tv,available,78,13,4,,,
 b1432de9-ee5b-45d6-8db7-83b45e1a173f,hourly.tv,available,96,12,6,,,
+e93a7bf5-4b89-449e-81c1-13313617c86f,hours.tv,available,68,13,5,,,
 262b4aff-fcda-4236-b1d2-d01761bd663d,house.tv,resell,84,35,5,"Name.com, Inc.",07/04/2010 08:00,07/04/2026 08:00
 fa22335b-5676-4382-afb1-3f6a8de6fc30,howl.tv,available,90,18,4,,,
+339f523a-1717-4fb7-a82e-ff73cc7fd323,html.tv,available,72,29,4,,,
+9d3cd214-2d0b-48d4-944d-a4424d3923d8,hug.tv,resell,104,23,3,"NameCheap, Inc.",05/04/2010 12:43,05/04/2026 12:43
 e3718551-cfac-475b-b56d-75e1135d5653,humane.tv,available,74,17,6,,,
 85d66253-f87c-4ccb-ad8e-6c91a1646a98,humanities.tv,available,70,6,10,,,
 f6cb32be-65c3-4307-8e6c-af273f4d355b,humanlike.tv,available,56,4,9,,,
@@ -2348,6 +2634,7 @@ f6cb32be-65c3-4307-8e6c-af273f4d355b,humanlike.tv,available,56,4,9,,,
 1d39e48e-0c67-401d-8c89-c8c7dc9ef00d,humourous.tv,available,70,1,9,,,
 5305657a-877c-4b5c-801c-7fbaa5618a5b,hundred.tv,available,88,13,7,,,
 9369ee95-f989-46a0-9012-8b58bb0fd239,hundredth.tv,available,76,1,9,,,
+f804e1f9-c33a-4031-95e6-cd0b8795364f,hunger.tv,available,82,14,6,,,
 66dc4d8d-6a1d-4e56-b575-8d23567db330,hunkydory.tv,available,70,5,10,,,
 3968abcc-5888-4e01-9ceb-6590eb0fb4c2,hurry.tv,available,96,8,5,,,
 302c8443-0af3-4dec-b162-318e719a5593,hurt.tv,available,60,10,4,,,
@@ -2359,12 +2646,15 @@ af65fb65-86e4-476b-a1d7-298ff37e126a,hydroponic.tv,resell,46,7,10,"GoDaddy.com, 
 106ef0f0-6b69-487f-a4b8-71c1e6eb6651,ideally.tv,available,68,6,7,,,
 b30372c4-c38a-4dc1-b8ac-14e7638050cd,identical.tv,available,82,3,9,,,
 c8b59d92-043f-4284-88de-2658061fd91e,identified.tv,available,62,5,10,,,
+e5390ade-e8a1-41e8-be47-52bef21698da,identifier.tv,available,74,5,10,,,
 a2ecac93-66e0-43dd-92e2-1e2e50c5ad60,identify.tv,available,74,15,8,,,
 6d10ffa0-25b9-47c1-88e5-38df2674686e,idiotic.tv,available,60,3,7,,,
 678a7f56-4684-49a5-bce2-2001389ddefe,idle.tv,resell,42,22,4,"Network Solutions, LLC",10/01/2007 23:37,10/01/2026 23:37
 34627e14-b30b-4ce8-8206-5ba39f68090b,idolised.tv,available,60,1,8,,,
 08d88576-f7e1-46eb-b5cb-1531251f8ca5,idolized.tv,available,60,4,8,,,
 69e9346f-9bfd-426f-b7ef-71863754c369,ifnot.tv,available,62,3,6,,,
+6ed17515-1962-498e-b3f3-dee761b11789,ike.tv,available,88,19,3,,,
+cd3ff621-6d65-4125-bafc-6f636a5f2f8b,illness.tv,available,64,5,7,,,
 5988df63-802f-47d1-bb4e-4c0b5accdb86,ilx.tv,available,56,6,3,,,
 4d1024e5-daf6-4cf6-9bbf-6c5d97e86833,ilxx.tv,available,48,1,4,,,
 7d90100c-acc3-4f15-95d6-dd798bfe460b,ilxxx.tv,available,48,1,5,,,
@@ -2372,6 +2662,7 @@ fe48b264-e88e-49f0-be83-92be9a4137e0,imaginable.tv,available,69,3,10,,,
 8fdac750-6602-4267-b991-8ba8901ed6ca,immediate.tv,available,72,10,9,,,
 9b1220c9-f970-4009-b289-c46ee05d7f0e,immense.tv,available,90,7,7,,,
 6e767c73-6e92-45d1-ab27-a1eed61902d6,import.tv,available,94,16,6,,,
+78d4f6ae-699c-43e3-b113-9ab59aa7d614,importance.tv,available,72,3,10,,,
 1fb5bb4a-2747-417d-854e-d9f2f90c473b,important.tv,resell,78,12,9,"GoDaddy.com, LLC",16/11/2022 22:44,16/11/2026 22:44
 beb86c95-1dd2-4ab4-8aaa-07bd8cbe6aae,impromptu.tv,resell,82,16,9,"GoDaddy.com, LLC",15/03/2007 04:15,15/03/2026 04:15
 b4aabc83-b403-49cf-a719-31594504b4bf,improvise.tv,available,76,4,9,,,
@@ -2381,14 +2672,19 @@ a063a423-b82a-4625-b25e-20abdcc49ca8,inadvance.tv,available,36,3,10,,,
 0c4b0ced-e0e4-42d9-9bb5-273609635a65,inane.tv,available,56,5,5,,,
 d413f209-63b4-43df-a2fd-2b0e6ca5d54a,inarrears.tv,available,36,2,10,,,
 4fe48b48-5505-43a3-aad8-f0dd5b5760f5,inaway.tv,available,56,1,8,,,
+faf7d852-dbb3-4a41-9d43-40216906d5d0,inc.tv,resell,68,28,3,Dynadot Inc,21/03/2006 02:01,21/03/2026 01:01
 9252d888-6b46-4043-92dd-a972b83a0106,incase.tv,available,74,5,7,,,
+617c920e-e1bd-405f-be29-632214aa4d7a,incidence.tv,available,64,3,9,,,
 08464a2a-81cd-4c4a-aec5-a4dac8e3ff60,incidental.tv,available,76,4,10,,,
+b07a7003-7bce-4c80-856e-913d0f8b8846,incline.tv,available,88,10,7,,,
 6e39eaf0-39ce-42b2-983f-fda280b9f32a,incorrect.tv,available,78,4,9,,,
+c49f17bb-2b89-4b79-a698-d722cc59ca22,increase.tv,available,72,9,8,,,
 95e337e7-d818-4c1c-8e25-80b29855c36c,increased.tv,available,74,2,9,,,
 5cad464f-9fdd-4418-b201-66227d0d9f7c,increasing.tv,available,92,3,10,,,
 8e3a9195-cb39-4af0-902a-69432a0b906b,indecent.tv,resell,56,4,8,"Spaceship, Inc.",07/06/2010 11:20,07/06/2026 11:20
 115f049c-a784-455a-8357-eec8289b8cdc,indeed.tv,available,94,12,6,,,
 dcd15643-d6c4-461e-ac7f-67ff79984b2e,indentured.tv,available,61,3,10,,,
+6642b205-d033-437e-8917-d6a516132087,indiana.tv,resell,62,15,7,1API GmbH,28/05/2008 20:20,28/05/2026 20:20
 9308fbff-897e-44c2-9729-c5c49abe724d,indigenous.tv,available,60,20,10,,,
 e234ecae-8241-411f-a5e7-39a7a3c8cdb8,indisposed.tv,available,56,1,10,,,
 d31fc89a-f84f-4df1-927d-695d89509a45,individual.tv,available,92,13,10,,,
@@ -2400,6 +2696,7 @@ fa9c4921-6a0a-42f1-ae03-f105df0c4ec6,inexpert.tv,available,70,2,8,,,
 9c4f24f6-f5fb-4250-995a-3f7501ef7317,infant.tv,resell,104,7,6,Dynadot Inc,18/03/2010 19:54,18/03/2026 19:54
 3e4d2479-7416-4e37-a0a1-b773ca38c71c,informal.tv,available,72,8,8,,,
 b50f475c-c8b4-497b-9d83-3b384b55eab7,informally.tv,available,58,1,10,,,
+e46a6dbd-a6a6-471c-8b01-07e5583f67ba,informing.tv,available,68,2,9,,,
 765e9a70-3278-4828-8682-2949f4683e94,infront.tv,available,60,5,8,,,
 9be0537b-068d-487f-9098-b71250f4369e,infuriated.tv,available,36,2,10,,,
 e0c60fb0-fc57-44dc-953e-096d549df97a,ingenuous.tv,available,42,3,9,,,
@@ -2407,11 +2704,13 @@ e0c60fb0-fc57-44dc-953e-096d549df97a,ingenuous.tv,available,42,3,9,,,
 b5eb9187-8a40-4a6d-aae7-fbd810485de0,initially.tv,available,64,2,9,,,
 a5d19bdf-2391-474e-ab0f-d361846ea29f,injure.tv,available,68,2,6,,,
 0262aaa7-fe46-4c96-bb4f-3f7fe356e8f4,injury.tv,resell,86,13,6,"GoDaddy.com, LLC",18/03/2010 20:14,18/03/2026 20:14
+07256161-8d25-4a81-af9f-422b3ab74f00,inlaw.tv,available,90,5,6,,,
 f338c32d-3f59-4860-aff6-8a6e8d45a8e3,innocence.tv,available,78,7,9,,,
 1a784acb-c78b-4baa-857b-e9a393b971de,inon.tv,available,60,4,5,,,
 65ddf033-e625-4b90-b139-ef3e92f96791,inplace.tv,available,56,5,8,,,
 f6dc9a5c-ca87-40b8-a1c4-0effc07d931a,inpublic.tv,available,58,4,9,,,
 a62caea8-401e-4bcd-a968-5a2a055c0f51,inreturn.tv,available,58,2,9,,,
+f827b309-2de2-4ca3-adbd-2b888ad3d2b9,insect.tv,resell,64,11,6,1API GmbH,09/02/2008 09:00,09/02/2027 09:00
 c3a1c4ab-ccd9-4871-9ec3-7156016a5981,inside.tv,resell,102,27,6,"Spaceship, Inc.",12/05/2010 06:11,12/05/2026 06:11
 bd4a400b-2024-43cc-b688-7c817cf8a023,insolvent.tv,available,60,2,9,,,
 b97f5481-9a8b-452d-a5d6-54596af7981e,inspiring.tv,resell,92,13,9,"GoDaddy.com, LLC",15/09/2017 18:35,15/09/2026 18:35
@@ -2423,7 +2722,9 @@ a5627aa6-50b5-4d48-95ce-f1a6d759597b,integral.tv,resell,69,23,8,Dynadot Inc,26/0
 08588ab1-29e8-4eff-8249-9112b361eff4,integrated.tv,available,72,19,10,,,
 0b7ef6f5-4fb2-4ebb-8bfd-f711a52df83d,intended.tv,available,84,3,8,,,
 e7492b4d-6cec-4047-b581-236c26c70d47,intense.tv,available,70,10,7,,,
+196f3cc6-bc5e-458e-8de0-49d89bb0b278,interest.tv,available,90,16,8,,,
 84bc23aa-a477-4626-9900-f607fdec4c48,interim.tv,available,88,15,7,,,
+71c729b5-0ae7-496c-bef7-879b62414224,interview.tv,resell,92,26,9,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 d42cbd4f-0ead-4105-8813-184339e03024,inthat.tv,available,60,1,7,,,
 6cd29a82-d932-4e2a-b4f1-474d3aa49d8e,intheend.tv,available,63,2,10,,,
 17a6db8a-00f7-4f1c-a901-f04bdf1ca176,intheraw.tv,available,40,2,10,,,
@@ -2432,30 +2733,50 @@ a838d31b-53e7-4ef5-8ec4-4a837d8f00dd,inthis.tv,available,60,4,7,,,
 1ee00b18-4ec7-42d3-bb2b-4c43f68b8503,intime.tv,available,68,11,7,,,
 a71495bc-6ff1-42b7-81e2-04048731e3df,intriguing.tv,available,90,2,10,,,
 750edbff-2d11-4f8e-baf7-39207355c610,intrinsic.tv,available,85,23,9,,,
+ab558657-c8ce-41f5-8688-5260921d1237,introduce.tv,available,82,5,9,,,
 ce64663d-4105-4354-95bd-37db7b8591cb,inturn.tv,available,90,3,7,,,
 809b8fca-861c-498b-b878-1ed134e93d57,inundated.tv,available,54,2,9,,,
 275d7015-f449-4608-a1a0-53b2bc8730b3,invalid.tv,available,102,5,7,,,
 5f204fa0-104e-4669-942a-d44350f82937,invariably.tv,available,62,1,10,,,
 e99ad519-b79d-4ba9-9cda-4beda523b5c6,inverted.tv,available,48,8,8,,,
+f711d083-afc1-44aa-947e-b8ed8642e6aa,investor.tv,resell,78,37,8,Dynadot Inc,01/02/2018 15:39,01/02/2026 15:39
 5b93922f-fe7f-49b9-8bf3-9aa95a3607fc,invigorate.tv,available,78,6,10,,,
 ef5c0200-33a9-4aac-a475-9547271ce5ee,invincible.tv,available,93,11,10,,,
 4df3e824-7dd0-46a4-8601-2f182d047c6c,invisible.tv,resell,108,28,9,1API GmbH,06/07/2011 13:40,06/07/2026 13:40
+807eed99-8eb6-40d5-a33a-b609482b849f,invite.tv,resell,102,28,6,"Network Solutions, LLC",18/02/2006 03:46,18/02/2026 03:46
 44450ebe-5103-4dde-a045-ca2b93895ba6,inviting.tv,available,88,4,8,,,
+28f132c8-2351-43d7-917f-d6f6325c7236,involve.tv,available,80,12,7,,,
 7a7d6a8c-9be3-4887-ad51-f4728a424d6c,involved.tv,available,71,5,8,,,
 05a13e0a-8931-45b8-bb83-1d7fbd0f7152,iron.tv,available,84,23,4,,,
 b0401c2c-6644-4d8d-8f3c-ebd2356a63e4,irons.tv,available,62,5,5,,,
 2cd2e495-0543-4801-8297-004fcd564a7d,irregular.tv,available,78,8,9,,,
 8fad129d-19f9-4e5a-8f18-a416eb1ded70,irrelevant.tv,available,60,10,10,,,
 2fd41d9a-817f-4859-b9a1-f634b7ce0704,irritable.tv,available,58,1,9,,,
+f0ab94bf-d803-44e1-9300-19a420c0a92a,irritate.tv,available,60,1,8,,,
 8e6b378c-0335-490f-b4c6-8c7caedc4134,irritated.tv,available,36,2,9,,,
 f23c8486-27a0-4183-b39e-00283aa976e5,irritating.tv,available,36,2,10,,,
 d3a3f17b-6007-4c1d-bc1b-65528880fadb,irritation.tv,available,56,2,10,,,
+910bf6c3-86e8-4e09-87e3-7296ace2ceea,island.tv,resell,72,28,6,Dynadot Inc,23/03/2010 05:53,23/03/2026 05:53
+32fe7081-b034-4f57-8b4b-12b3e00831ce,isle.tv,available,70,16,4,,,
+9538b5fc-f57f-403f-8ad7-df555ffdee6b,issue.tv,available,80,12,5,,,
 7755e458-0c80-4d78-9e23-cfcb6ad6a662,itchy.tv,available,58,6,5,,,
 2b47b76a-7957-4023-ab32-d2d8ec76f148,ixc.tv,available,52,6,3,,,
 b0c21dc0-aae0-4a96-bcdb-7fdb40d9ad8a,ixl.tv,available,52,9,3,,,
+f2c475a5-9023-4907-8be6-7dd7ec7d62dd,jabber.tv,available,88,13,6,,,
+33ea43e9-f5a9-4d00-a4b2-5b7dc82d59eb,jacket.tv,resell,94,9,6,Dynadot Inc,22/01/2007 22:42,22/01/2026 22:42
 00dccb57-ced3-49d9-8b59-ceefe7ff8acc,jail.tv,resell,80,9,4,"GoDaddy.com, LLC",18/03/2010 18:44,18/03/2026 18:44
+c8859ddd-0674-4899-9cec-e669c9b32f4a,james.tv,available,72,40,5,,,
+24531371-6336-43bb-b7f5-fe6ea9446076,jameswatt.tv,available,74,3,10,,,
+ea916f70-2c28-4359-a906-686027c531b5,jan.tv,available,73,25,3,,,
+11891f5f-7fe7-413b-a40d-89a3e5bd3d84,janedoe.tv,available,67,5,8,,,
+efa8d97e-97a8-4213-9818-6cecb20d9cf4,january.tv,available,75,9,7,,,
+abd9f6da-7666-4fb3-b20f-9322f2d9c35e,jeep.tv,available,69,12,4,,,
+5fadabe8-4410-41ab-abe0-d026cfb222a1,jenny.tv,resell,87,22,5,Dynadot Inc,10/02/2011 15:22,10/02/2026 15:22
 a90f83ce-6312-46d1-ac34-57a718b1f99d,jerking.tv,available,58,3,7,,,
+01c5f229-30c4-43bf-95fa-90abca876e49,jersey.tv,resell,84,4,6,Dynadot Inc,18/03/2010 01:24,18/03/2026 01:24
 9db39a45-fde1-4f5b-9440-05866e90d9e0,jewbaiter.tv,available,40,1,10,,,
+490dbcdc-1aef-4599-9599-7b2509112e5a,jewellery.tv,resell,73,20,9,"Name.com, Inc.",12/11/2013 09:02,12/11/2026 09:02
+33c61215-d742-490f-a23b-559ae06de98f,jimthorpe.tv,available,72,2,10,,,
 059af797-42b4-431a-939d-2f7818c2434d,job.tv,resell,86,37,3,InternetX GmbH,19/12/2009 09:00,09/04/2026 03:59
 fc125544-17b9-4120-a1fb-72e429f24c14,jock.tv,resell,84,8,4,Dynadot Inc,05/06/2013 08:04,05/06/2026 08:04
 a48f46c7-74c6-44a1-bd3c-ee1922273147,joined.tv,available,70,7,6,,,
@@ -2463,30 +2784,61 @@ a48f46c7-74c6-44a1-bd3c-ee1922273147,joined.tv,available,70,7,6,,,
 ed46f3af-58a4-403c-9797-d199236a714e,joke.tv,resell,98,15,4,Dynadot Inc,28/02/2012 02:58,28/02/2026 02:58
 5e51f720-1aaf-481e-9553-cb09ec2425a1,joking.tv,available,79,6,6,,,
 6ddacaea-c0f3-4deb-89bd-596130764f71,jolly.tv,resell,68,25,5,Dynadot Inc,11/02/2017 21:31,11/02/2026 21:31
+4b9568b5-a20f-49e4-9501-15ddb4ac1b57,jot.tv,available,90,16,3,,,
+b94a2b5c-61d7-41ec-9a45-391dd93df4de,journal.tv,resell,110,21,7,"Name.com, Inc.",11/04/2010 02:53,11/04/2026 02:53
+de3e32ab-09b7-422e-a931-038ddadb3701,joy.tv,resell,78,35,3,Dynadot Inc,04/12/2004 20:16,04/12/2026 20:16
+62e08974-d27a-408e-9e55-244aa61cdf09,judgement.tv,resell,66,7,9,1API GmbH,20/03/2010 05:31,20/03/2026 05:31
 8c11678e-39dd-46cc-93f5-8b6c9f83c511,judges.tv,resell,62,4,6,1API GmbH,19/12/2011 09:00,19/12/2026 09:00
+4fd3ca9e-3d1c-4217-bcdb-c7e16c954cf2,judgment.tv,available,66,7,8,,,
+ebcdb191-f97d-41ad-9cd9-db8936052ed8,juice.tv,resell,72,24,5,Dynadot Inc,27/03/2010 17:09,27/03/2026 17:09
+a0dfdde5-95e0-433c-b0ff-bf4092989e13,july.tv,available,72,15,4,,,
+d77e41dd-6565-41fc-8e7b-e016a6f186bb,jumping.tv,available,88,7,7,,,
 3f39b93c-6f56-4689-838f-0171a0d23cf3,junction.tv,available,60,12,8,,,
+e96f45d5-16cb-4c95-8f1c-cad5b8d63e70,jupiter.tv,resell,74,33,7,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 037f7537-93f2-4b0a-8d8b-4e9eabd32657,justabout.tv,available,58,10,10,,,
 04534713-7803-410d-992b-1b67ee123d6c,justified.tv,available,66,7,9,,,
 87239b0b-956f-4555-9809-0803aa97ec07,justnow.tv,available,56,8,8,,,
+4b3971d2-3438-486a-989a-517a405ced19,kamikaze.tv,resell,86,11,8,1API GmbH,06/08/2019 08:01,06/08/2026 08:01
+f441f7a9-cff4-4483-a7c4-3e1b9e5fcf02,kansas.tv,resell,66,11,6,Dynadot Inc,03/08/2011 08:01,03/08/2028 08:01
 f02d50a7-78e3-4867-8c85-f52cc86e4472,keep.tv,resell,76,26,4,"Spaceship, Inc.",23/08/2018 08:01,23/08/2026 08:01
+49103d70-a5c9-45c1-b2a2-b86edc818225,keeping.tv,available,80,8,7,,,
 667ad05f-40a0-4cd5-b13c-511bbc478dc8,keister.tv,available,34,2,7,,,
 d175b7c4-e360-4cb4-88fa-669eb2180fcd,kept.tv,available,66,11,4,,,
 9be4d640-64dd-4fd8-80ea-59c74c3a4c5e,key.tv,resell,80,36,3,"Name.com, Inc.",28/04/2010 04:27,28/04/2026 04:27
+f7043735-0e6b-41e2-bedd-40127ebc322d,kgb.tv,available,74,11,3,,,
+c5d03451-cb41-48d4-a911-1c3638f90367,khakis.tv,available,74,2,6,,,
+de4efacc-190b-42aa-b44a-1b7e6900f50c,kicking.tv,resell,78,4,7,"GoDaddy.com, LLC",29/04/2019 12:13,29/04/2026 12:13
+1b36b51a-ac29-4164-b66e-4e7241366022,kidney.tv,available,66,24,6,,,
 e46db037-864b-4fc5-b9a1-5cc31fc3d809,kiev.tv,resell,76,13,4,Dynadot Inc,11/03/2012 08:58,11/03/2026 09:58
+7e21a0e7-acc1-487b-9c47-8ca1d8798664,kilo.tv,resell,78,22,4,"GoDaddy.com, LLC",04/02/2020 05:12,04/02/2026 05:12
+2d24146c-439d-427b-af0b-d7f809816d7b,kilobyte.tv,available,70,6,8,,,
+aa8080f1-5d1e-4cce-b5fe-9288583eb841,kilogram.tv,available,76,6,8,,,
+ee17c392-ede2-46f9-825f-5045c03e2ffe,kilometer.tv,available,70,5,9,,,
+a5f57870-1ca3-481b-b193-5877203718b8,kilometre.tv,available,70,2,9,,,
 17b7a1da-9eec-4ff8-949d-49f426db3e6d,kindof.tv,available,62,6,7,,,
 535024c9-7930-4691-96b0-f8b06b98dcdb,king.tv,resell,97,39,4,Dynadot Inc,25/05/2011 08:01,25/05/2026 08:01
 a0a622c0-0581-4a7f-8cc1-ad07ac7b75bf,kitschy.tv,available,52,4,7,,,
 ed524e3c-964c-4880-babe-bbc23bdac724,kneedeep.tv,available,54,3,9,,,
 5a962464-1803-44e1-b8be-0f0cf9d27301,knock.tv,available,66,12,5,,,
 7ca16e6d-b729-47f8-a05c-3bec4b3edb4c,knotty.tv,available,52,6,6,,,
+6f3e6d1c-05d9-4b9e-8a6d-1aa4380f46de,know.tv,available,116,32,4,,,
 d5b6fb3a-c68f-451c-af91-928c57209393,knowing.tv,available,94,11,7,,,
 03cb355f-d4ec-453a-b344-ed2ff6770838,known.tv,resell,92,16,5,Dynadot Inc,02/12/2014 22:41,02/12/2026 22:41
+6abb7478-0769-4c4d-a20c-f64e97d076d4,laborday.tv,available,68,3,9,,,
+6a1fa048-2527-4f95-8220-9033f1a502a8,laborer.tv,available,66,2,7,,,
 e043899d-2730-46e1-a58e-cba2ca63a63e,laborious.tv,available,50,1,9,,,
 b3c3833a-c78a-4ea1-9ce6-c3b0d141c8d7,labour.tv,available,62,11,6,,,
 0a0d6cec-baa7-4dd1-9fb7-3338d2c71836,lace.tv,resell,98,15,4,Dynadot Inc,26/02/2019 04:12,26/02/2026 04:12
 5ad60208-7489-4dd5-babf-91b859e28304,lacking.tv,available,82,5,7,,,
+d6227969-5d6e-485e-8d47-f4e890fdc4b2,ladder.tv,resell,94,19,6,Dynadot16 LLC,07/10/2019 08:09,07/10/2026 08:09
 2e834d59-12a6-4bcb-8d4a-608fe5d6c13d,lag.tv,available,64,12,3,,,
 0fc01ca2-7b4c-4ee6-949e-b7ad34c2b106,laid.tv,available,66,4,4,,,
+02ba2497-ec91-49f2-872b-4bb743ead52d,lake.tv,resell,72,24,4,"NameCheap, Inc.",23/03/2010 05:53,23/03/2026 05:53
+6bacf1da-c312-4d50-a367-0244a880ae74,lamp.tv,resell,62,17,4,Dynadot Inc,20/06/2006 23:50,20/06/2026 23:50
+4aa11975-471d-435a-b74c-e6333458cf37,lamppost.tv,available,67,6,8,,,
+edc250e7-4ab3-49c9-b9c2-9b8396d961e2,landing.tv,available,74,22,7,,,
+1dfbc280-10f6-4f79-ad4e-3657d09568f1,landline.tv,available,66,10,9,,,
+fabbdd05-4ce8-480a-bccb-06ee1617bb9c,lane.tv,available,62,23,4,,,
 aa79744e-76e6-4527-b355-baba0963472d,lapse.tv,available,88,7,5,,,
 5d02baa4-4a26-400c-b243-a7058167d290,largely.tv,available,60,1,7,,,
 e9fcb6fb-ca0c-4d3c-98a8-6ee1b5553d8d,larger.tv,available,76,4,6,,,
@@ -2494,48 +2846,75 @@ ac1875eb-4fe1-40a6-9ce6-ede86675fb31,lasting.tv,available,84,7,7,,,
 7b1f3fce-1058-48ee-b528-4864539ec9de,late.tv,resell,76,13,4,"GoDaddy.com, LLC",18/03/2010 20:24,18/03/2026 20:24
 779bfe7c-5408-46a2-9b9c-37d048323d3c,lately.tv,available,64,5,6,,,
 d5b3c5ad-910d-423c-beb9-ceaaa2dd109f,lateron.tv,available,40,2,8,,,
+076e8cff-0225-4bc3-a243-89974a0b13d2,latitude.tv,available,74,25,8,,,
 904a0ea9-54d3-4cd0-8f41-499eb440424f,laudable.tv,available,58,4,8,,,
 581d8a80-9024-4025-85b9-4c29f1ef2545,launch.tv,resell,109,32,6,Dynadot Inc,19/03/2010 04:28,19/03/2027 04:28
+aa796d74-8642-4502-a5f4-e65177c189e1,law.tv,resell,82,42,3,Dynadot Inc,01/10/2003 05:06,01/10/2026 05:06
+b63e7f85-90a3-4ce8-8e1e-a4223a4ec5ce,laws.tv,available,74,13,4,,,
 c6694790-f477-447a-b7fb-a581630902a8,lay.tv,available,62,9,3,,,
+96e64273-81cf-49ef-9c70-91e55b824178,layer.tv,available,62,23,5,,,
 35efe5e1-df64-4ec3-b0f2-20d5820107c4,laziness.tv,available,58,2,8,,,
 13662d39-701e-48df-bbf4-75c9d8781d8c,lazuline.tv,available,46,3,8,,,
+f05190bc-4313-420c-bf06-5e7e5c8f2d1c,lcd.tv,available,76,10,3,,,
+9f913f8c-9c2a-46c3-841a-da1f6929858e,leader.tv,resell,72,27,6,"GoDaddy.com, LLC",26/10/2010 20:39,26/10/2026 20:39
 9a6fb40b-e7a7-4f09-990e-458c0709169b,leading.tv,resell,102,17,7,GoDaddy Online Services Cayman Islands Ltd.,29/09/2019 19:05,29/09/2026 19:05
+1a1af9e2-49c5-4fd2-9e29-6f2a18d35b6e,leak.tv,available,58,17,4,,,
 ad8c6559-98fb-4bed-bdcd-4a5d305d0037,leaning.tv,available,58,5,7,,,
 d7150cc3-a236-4205-a9c7-8f34a56ea492,leap.tv,resell,76,35,4,"NameCheap, Inc.",01/05/2013 08:02,01/05/2026 08:02
 293f8708-3657-4a86-be62-e49d97b118e3,learned.tv,available,71,6,7,,,
+a3f0e928-050b-4ae0-adc6-55fc85f13d05,learning.tv,resell,76,32,8,InternetX GmbH,18/03/2010 17:14,18/03/2026 17:14
 77c9ed8e-4ce3-4533-8646-fc0fcad5e406,leash.tv,available,90,7,5,,,
 734ef8f3-6014-4eb4-a493-78f17ff21f34,least.tv,available,106,7,5,,,
+3e2a5261-7763-4f11-8102-95baa3b2160a,leather.tv,resell,64,16,7,"GoDaddy.com, LLC",18/03/2010 19:50,18/03/2027 19:50
+c76f78a4-b606-43ea-bc74-57b54459c59b,leaveout.tv,available,66,1,9,,,
 dc36f61a-27e9-4c9c-8e58-224f15a8ffe4,leaving.tv,available,76,5,7,,,
+84c2c631-d035-41f8-b37a-57f9bf528aff,lecture.tv,resell,96,7,7,"Spaceship, Inc.",10/04/2019 08:14,10/04/2026 08:14
 fc796e18-f83a-4f8b-8acf-08c24e62fef9,left.tv,resell,76,13,4,"Name.com, Inc.",18/03/2010 20:10,18/03/2027 20:10
+e81a2278-c933-4c46-a4e1-92604f36e372,legs.tv,resell,76,10,4,1API GmbH,18/03/2010 19:50,18/03/2026 19:50
+61c6455c-2208-40a4-a177-1d93f387abaa,leisure.tv,resell,70,18,7,Dynadot Inc,18/03/2010 17:27,18/03/2027 17:27
+10096133-8c87-4682-8bed-6ea2df0a5db9,length.tv,available,92,4,6,,,
 44dc6971-e35b-43d8-9a9a-dcac14978f69,lenitive.tv,available,84,1,8,,,
+9c873a9e-b178-4a3a-82a6-fd3939f37f13,lens.tv,resell,62,21,4,Dynadot Inc,18/03/2010 21:13,18/03/2026 21:13
 4c0743df-b4ca-4f9d-92fe-6b9fef6f14e0,less.tv,available,120,23,4,,,
 11bcf0ec-6530-413f-9d18-0058e4bf7183,lesson.tv,resell,98,11,6,Dynadot Inc,22/04/2010 04:38,22/04/2026 04:38
 2e2842f2-0864-4c7a-b088-9691b9487b61,let.tv,available,106,18,3,,,
 d5f40164-fa6d-4ec9-97a7-21ec76b594ca,letalone.tv,available,52,1,9,,,
+1efa30cd-ce13-4a21-b1b2-b24b0f8c7c6e,letgo.tv,available,72,11,6,,,
 67c36840-a6ea-434d-9053-d71c89f0e169,letter.tv,available,94,16,6,,,
+69c3611c-f9d4-49a2-973a-35495d6662db,letters.tv,resell,74,12,7,"Spaceship, Inc.",14/07/2019 09:33,14/07/2026 09:33
+ef15349b-c157-4857-8db0-885d054eb6e9,library.tv,resell,84,29,7,"eNom, LLC",11/10/2000 20:42,11/10/2026 20:42
 68670a41-1aef-44df-8d15-42d0c200fcee,licenced.tv,available,68,2,8,,,
 a20b38cf-a214-4619-bd1e-299817938bd3,licensed.tv,resell,68,5,8,"GoDaddy.com, LLC",23/07/2014 08:03,23/07/2026 08:03
 3477ec10-2818-4b7d-b6db-af38cee038a1,lick.tv,available,62,9,4,,,
 7c51dc63-d732-4708-adc3-fa8101fe69cd,lii.tv,available,56,7,3,,,
 85451650-d387-4631-a0d7-d0e2fef9985c,liked.tv,available,76,5,5,,,
+843077af-f93c-46bd-8e42-b39818d77afd,limestone.tv,available,64,11,9,,,
+a49b2ab4-8f6c-49bc-bd73-108c76bfc8b1,limit.tv,available,108,16,5,,,
+781c03ee-7648-4ec4-b927-aa656d97b362,limitation.tv,available,56,3,10,,,
 0ccef9f4-4915-41eb-b286-7e39c4f5eca6,limited.tv,available,82,16,7,,,
 7c95d5b2-1a02-4247-8929-8717a53a5199,limiting.tv,available,65,2,8,,,
+889c422f-8b09-4ebe-a13b-52c204229b2e,lindsay.tv,available,70,15,7,,,
 0f5e03ae-3437-40a5-b5a6-08ddb265d43a,linear.tv,available,58,22,6,,,
 d051cbc4-1b4e-4ff1-9e77-741829d5f376,linked.tv,resell,64,25,6,Dynadot Inc,04/02/2011 09:01,04/02/2026 09:01
 aae6077a-320a-4c42-82e9-7532bc50086c,linkup.tv,resell,52,19,7,"GoDaddy.com, LLC",09/08/2020 23:11,09/08/2026 23:11
+b0bb5c48-1426-41ca-9bd1-a6413e4be0f3,lion.tv,resell,74,32,4,"Alibaba Cloud Computing (Beijing) Co., Ltd.",23/05/2017 08:01,23/05/2026 08:01
 0a6a0445-7461-429d-af2a-e8af51f9e2b8,lisboa.tv,resell,66,12,6,Dynadot Inc,15/02/2015 09:13,15/02/2026 09:13
 d4841a3e-f821-430e-9c54-549242412395,list.tv,resell,70,30,4,"Name.com, Inc.",06/06/2012 08:02,06/06/2026 08:02
 eb1a8b75-1def-41b3-bc53-57273da05f14,listed.tv,available,64,12,6,,,
+0bfc200a-39c5-48e9-a1b0-a675ea35cdef,listen.tv,available,104,25,6,,,
 7077ecbc-f00a-40dc-946e-91cc3812ce63,literally.tv,available,60,9,9,,,
 61b6e20a-718c-486a-815d-767a4027ad79,liverish.tv,available,34,1,8,,,
 6e90244c-4ebb-43f0-8387-6c7330f21f55,livid.tv,resell,48,8,5,"GoDaddy.com, LLC",05/11/2008 21:48,05/11/2025 21:48
+b239c908-aa0b-426f-8b86-6ce5b661ccd5,localtime.tv,available,68,5,10,,,
 fa09685a-a052-4dda-9560-de9a8f726861,located.tv,available,62,4,7,,,
 09e32411-ede9-4f30-b7b4-4bc5220ac281,location.tv,resell,70,20,8,"GoDaddy.com, LLC",31/01/2011 14:07,31/01/2026 14:07
+33e7f88b-351d-42af-b5ec-709dd4dfd402,lockbox.tv,available,68,12,7,,,
 256fc78d-220d-4eb8-b15e-0671d626a838,loco.tv,resell,102,24,4,"GoDaddy.com, LLC",19/03/2010 04:48,19/03/2026 04:48
 379cc87b-b853-4a4e-8f85-d45e2eb6bd9a,lonely.tv,resell,68,13,6,Epik LLC,30/06/2023 23:17,30/06/2026 23:17
 b2220e75-c886-4fdc-8bbc-e336f3869895,longdozen.tv,available,62,1,10,,,
 5052aa21-ad9d-4d7e-bf51-2f763fd87e04,longer.tv,available,74,10,6,,,
 d988f50f-2d4a-465c-8c9c-389d9f94edb3,longest.tv,available,64,5,7,,,
+9d8ccf57-48d8-4788-97b6-596d9b32acf4,lookback.tv,available,72,5,9,,,
 c23300ad-c90a-425d-9d37-a02fb0cb328b,looking.tv,available,72,14,7,,,
 8c6c0eea-b716-433f-a40a-c89d17a334a8,lookingat.tv,available,64,2,10,,,
 25277050-78a2-47b5-9c45-ab0b81aa9cfa,lookinto.tv,available,70,2,9,,,
@@ -2545,6 +2924,8 @@ c23300ad-c90a-425d-9d37-a02fb0cb328b,looking.tv,available,72,14,7,,,
 9c2c440e-12d6-420c-bb83-ca778af2fba5,lopsided.tv,available,44,2,8,,,
 9cf576bb-72bd-467e-8607-d74ed578e916,lordly.tv,available,64,3,6,,,
 149602d4-6c53-473f-be83-788ce96be5f3,lorry.tv,available,91,7,5,,,
+252ec733-0672-4cb2-9b8e-c1c6757fc598,lose.tv,resell,56,9,4,"Spaceship, Inc.",06/11/2018 22:51,06/11/2026 22:51
+e530c3e4-7adf-4305-a464-291b8bb394a3,loss.tv,available,62,11,4,,,
 a33d7d3e-c0fe-448c-9764-66b5462a2503,lots.tv,available,70,11,4,,,
 306f9fd1-8223-40bf-a12f-fbd861982583,lousy.tv,available,60,6,5,,,
 ee837264-e7a9-443a-9326-ea61923bee31,loved.tv,available,80,12,5,,,
@@ -2553,6 +2934,7 @@ e083bb4a-bc3d-4bc0-8852-73c0a5ac4b27,lovesome.tv,available,68,3,8,,,
 14959ee2-640a-4159-a3ed-d26b802cf8ab,loving.tv,resell,76,14,6,1API GmbH,26/04/2010 21:32,26/04/2026 21:32
 abd958c0-bffa-4e5e-b10d-7b4ad4881b5d,lowbrow.tv,available,66,3,7,,,
 b70d967c-2a90-4f76-afd9-48eb1b1b198b,lowcost.tv,resell,66,11,8,Dynadot Inc,01/08/2013 09:45,01/08/2026 09:45
+26fdfb70-b650-4261-86a6-5347e4ab1e55,lower.tv,available,64,11,5,,,
 3c0454b9-1d74-4499-b40a-e75ecbb09dd7,lowercase.tv,available,104,7,9,,,
 15d51245-5eb7-4991-84fd-20755772e4ba,lowered.tv,available,64,2,7,,,
 fcda25e4-163b-4366-bb85-76b44740f2b6,lowering.tv,available,76,1,8,,,
@@ -2562,12 +2944,18 @@ e59945da-668c-406f-8b58-ff7ba19675c9,lowlying.tv,available,56,1,9,,,
 794e2dff-dedb-465c-98fe-084cbe1c417a,lowpriced.tv,available,66,1,10,,,
 77767774-ba71-4f0d-a52a-4d5728eae8a2,lowrise.tv,available,84,2,8,,,
 a4d0a79c-773e-4e0a-916c-013cf9b824d0,lowtech.tv,available,60,7,8,,,
+4000db6b-9552-4ab2-8a8a-11d403b3a8a0,lp.tv,resell,66,22,3,Dynadot Inc,18/03/2010 14:36,24/03/2026 03:59
+acffd52e-bac0-4c70-8e76-5c15f249fe0b,lplate.tv,available,64,1,7,,,
 d97fe226-11f8-4779-95f1-df7f48639cf1,lucent.tv,available,64,26,6,,,
+0d869d4d-51bf-4463-8d88-e5d2058627ab,luck.tv,resell,78,31,4,1API GmbH,13/05/2010 08:00,13/05/2026 08:00
 2e67f1fe-2679-4c61-a80c-b18094a5882b,lucky.tv,resell,76,36,5,Dynadot Inc,19/03/2010 05:34,19/03/2029 05:34
 8d4e6eac-5c41-471f-bcff-eba59f8fb7c2,lucrative.tv,available,70,6,9,,,
+2d35d469-da6e-4e7f-91a8-3e1f7ffacada,lucy.tv,resell,84,22,4,"Domain.com, LLC",27/02/2010 09:00,27/02/2026 09:00
 aaa0675c-38a9-4679-8063-ff5dfe38b087,luggage.tv,resell,74,11,7,Dynadot Inc,09/07/2011 13:59,09/07/2026 13:59
 aebce66c-b0e2-4278-85d0-08f248159f7d,luminous.tv,available,64,24,8,,,
+bf1094f2-3d89-4b12-a6a8-3bbf1d4af9db,luncheon.tv,available,96,3,8,,,
 2ec99b0b-11f5-4f32-9dfa-f7ae1fa6c384,luxembourg.tv,resell,60,3,10,Dynadot Inc,25/12/2015 09:22,25/12/2026 09:22
+bab031d8-e1ce-4692-a274-e1c8611644b1,luxury.tv,available,98,32,6,,,
 41b9c21a-2ece-439d-b569-fe0052e2ea90,lvi.tv,available,56,8,3,,,
 93a10929-3743-4b06-a222-d5c0b772275f,lvii.tv,available,56,2,4,,,
 82941cae-ead5-4b83-b5ef-cbe9e45425ae,lviii.tv,available,56,1,5,,,
@@ -2598,94 +2986,143 @@ dcd5ee79-f831-47e1-b405-5a4063c0c255,lxxxiii.tv,available,52,1,7,,,
 09257acc-6364-4d2d-8c19-9dbbab0452cb,lxxxvii.tv,available,52,1,7,,,
 7b75b5bf-95e6-4cc2-9b45-d194b03e24d9,lxxxviii.tv,available,48,2,8,,,
 f1403d94-afd4-4b7f-a9a4-004c3d41708b,lynxeyed.tv,available,46,1,9,,,
+a1dd39d4-88ea-4308-b82b-ec2b6e7bc229,macedonia.tv,available,70,9,9,,,
 9d70aa0c-8a02-468c-928c-36491f455172,maddened.tv,available,37,2,8,,,
 ca1d4b5f-3540-4ccf-9fd9-33467dd0f583,madeup.tv,available,70,7,7,,,
 e74e5bef-e7bc-4655-9825-97a2bc9fd559,madison.tv,resell,78,26,7,Dynadot Inc,07/10/2011 08:04,07/10/2029 08:04
 35e24719-3894-4580-96a3-b3712ad586ba,maid.tv,available,70,21,4,,,
 8eec467e-420c-454d-a22b-b12bb2555e6d,mainly.tv,available,70,6,6,,,
+d5c96c56-4f2d-4877-8d01-0b77a617646f,maintain.tv,available,70,12,8,,,
 cbcc73f4-9b2c-44f9-a198-b0537d4ee767,maintained.tv,available,60,3,10,,,
 6b93e925-d2a2-4116-966e-795ab3f05145,majestic.tv,available,72,19,8,,,
+b14176a5-9838-4f8b-ae62-2a97a1dd0b24,making.tv,available,76,16,6,,,
+f15bbf76-bb94-43e2-a0c8-378f158cd948,malaria.tv,resell,62,6,7,Dynadot Inc,09/03/2021 17:25,09/03/2026 17:25
 6a20c108-ea37-4257-9ab1-e19bf9260bfb,male.tv,resell,68,13,4,Dynadot Inc,05/06/2013 08:06,05/06/2026 08:06
 4c66f6fe-9098-46d5-9a3f-f8d7c9111aca,maledict.tv,available,56,2,8,,,
+e1821bd0-d614-40aa-8da3-32be2cd4c100,manage.tv,available,92,35,6,,,
 1fdb6cb9-9ea3-43d9-9607-afbb7ee183a7,manageable.tv,available,74,5,10,,,
+461c6d54-4bcb-44e2-9308-1fb0bc1d258c,management.tv,resell,76,24,10,Dynadot Inc,29/09/2013 08:26,29/09/2028 08:26
 bafdf793-e746-45ac-b555-1afd5dcc5625,mandatory.tv,available,84,5,9,,,
 80e57941-7a36-4afa-9162-8130ac5588c3,manual.tv,available,66,17,6,,,
 9e8dbe52-9cc6-42a4-9215-f08947ef98e9,many.tv,available,76,21,4,,,
+1d232541-6228-451b-8d37-0f3977174599,mao.tv,resell,58,19,3,Dynadot Inc,28/03/2010 07:16,28/03/2026 07:16
 9c6a4994-686a-4542-b0c4-e75af8160f25,march.tv,available,70,11,5,,,
 0a6ca8b1-7504-4712-ba96-9c84584f24b6,marihuana.tv,available,67,11,9,,,
+296b9201-00a6-48e6-9ff8-0aa79e84c926,marines.tv,available,82,8,7,,,
 a4fdd6e8-06c9-4af7-89ce-5007f7bff8fe,marked.tv,available,70,9,6,,,
 14a430fe-d985-4e85-9f47-df24587c1fa1,marooned.tv,available,50,2,8,,,
+1d4c185c-cbb2-4e8d-bc76-932b2961c087,marriage.tv,resell,84,23,8,Dynadot Inc,18/03/2010 13:57,18/03/2026 13:57
 055c0b56-1477-4e37-9cdd-8cc3a73030dd,marvellous.tv,resell,76,7,10,"GoDaddy.com, LLC",28/01/2004 12:50,28/01/2026 12:50
 05e609b0-f1ca-4652-a607-9c03487af2b7,marvelous.tv,available,78,14,9,,,
 71cd3742-8008-4534-85ac-bf12136509e1,masterly.tv,available,79,17,8,,,
+4fa1f40a-80d7-4e16-96f2-ee27182d6fe6,masters.tv,resell,88,20,7,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 da3ea2b6-306b-4a1c-abea-02279b7a66a9,mat.tv,resell,76,22,3,"Spaceship, Inc.",16/04/2012 19:44,16/04/2026 19:44
 7287a50c-fccd-440f-96d3-2804792e5a65,matched.tv,available,78,7,7,,,
 cc3257df-d6ee-46aa-a251-377659c803eb,material.tv,resell,106,19,8,Dynadot Inc,16/09/2008 08:00,16/09/2026 08:00
 bcc0daba-5da5-4253-82f7-84428282d157,maternal.tv,resell,86,5,8,"NameCheap, Inc.",21/10/2024 12:55,21/10/2035 12:55
+64351ae6-ebb4-4f1e-b24b-a17669f25d03,matisse.tv,available,80,6,7,,,
 03bda4b1-548a-4721-b46b-dcb24a31b4be,matte.tv,available,90,12,5,,,
 9ed3c886-7425-44b4-9663-d4c119a6817f,mature.tv,available,92,14,6,,,
 ac0a41ae-7ba3-4ba2-b13b-82534294eb75,maudlin.tv,available,44,2,7,,,
 cf486eed-7915-4df2-9809-89896bb60b71,mavin.tv,available,74,8,5,,,
 be7e47e4-46b7-4bdb-997a-d0a8359e4fed,mawkish.tv,available,48,1,7,,,
 f13c4c8e-f78b-4985-9c10-3f7e439425b4,maximum.tv,available,98,22,7,,,
+fa38593a-b139-4169-a2a6-2cce906f6082,may.tv,resell,76,28,3,Dynadot Inc,27/08/2022 07:15,27/08/2026 07:15
 4c765a96-d4dc-4063-a081-d8d8d9509305,maybe.tv,resell,98,21,5,1API GmbH,14/02/2012 13:08,14/02/2027 13:08
 14f9241f-0d94-4304-a5cb-94bc0d8be47a,mazed.tv,available,45,4,5,,,
 1a4ca217-959f-4b31-8337-636954a380c0,mean.tv,resell,64,12,4,1API GmbH,21/03/2010 20:04,11/11/2026 05:15
 869de24f-7895-49d3-8cd7-a47a0b4cd9d6,meaning.tv,available,96,13,7,,,
+aefa88b9-5831-48fd-a043-cf47819a40ad,measles.tv,available,62,3,7,,,
+d7207c89-d9ed-49cc-a29b-5e85dabb62ac,measuring.tv,available,67,4,9,,,
+1e251cef-275c-484c-a244-da1a74c28a9c,mecca.tv,resell,84,13,5,Dynadot Inc,06/10/2013 08:27,06/10/2026 08:27
 d472de99-d3c2-4d5b-b5b9-aaf1952cf33a,mechanic.tv,available,62,13,8,,,
 7c3236f9-932c-4596-aa57-6ab0457a3112,mechanical.tv,resell,84,14,10,Dynadot Inc,08/11/2021 04:30,08/11/2026 04:30
 93111be8-3cca-489f-bde9-630de9c4f3e9,median.tv,available,100,8,6,,,
 0b7f8f83-c653-40fa-b39f-9339e77ebb24,medical.tv,resell,100,22,7,"Spaceship, Inc.",19/03/2010 04:08,19/03/2026 04:08
+b73c3df1-be5b-4571-a712-6c0b0b15cafd,medication.tv,resell,72,11,10,Dynadot Inc,24/01/2021 12:08,24/01/2026 12:08
 142ecca5-8e00-4bb6-aca0-3e6c99ffbef4,melancholy.tv,available,76,5,10,,,
 5e784dee-da28-43bf-86f3-1530eb6221fb,memorable.tv,available,92,11,9,,,
+66bcffc0-aca4-44a4-8d88-02711bb02e75,memory.tv,resell,74,37,6,"GoDaddy.com, LLC",01/05/2004 22:31,01/05/2026 22:31
 ae30824e-5ef0-4ca9-80cc-25a45a1709dd,mental.tv,available,86,20,6,,,
+b75a2903-45be-4ce3-b0f4-3b999aa7f3ce,mention.tv,available,88,12,7,,,
+1df0fd29-4ae2-4df2-a665-7dafc1d1c22a,mentor.tv,resell,74,30,6,Porkbun,13/04/2022 21:01,13/04/2026 21:01
 f60d82aa-4581-4ad7-b2db-a14004642b01,merely.tv,available,60,4,6,,,
+54fcb0a2-be40-42fe-a7c2-0134ee9449c4,message.tv,resell,100,30,7,1API GmbH,19/02/2014 09:03,19/02/2027 09:03
 8719fb8e-bfd6-48f4-941e-fd66bbe65a54,metedout.tv,available,41,1,9,,,
 f97b8936-905f-499c-83cf-d1b20acfa4a7,metre.tv,available,92,5,5,,,
 c6dd8cc4-8b7d-4b8f-ac22-0089b8d8050e,mexican.tv,resell,84,15,7,"NameSilo, LLC",22/12/2020 05:09,22/12/2026 05:09
+477c7100-a54d-4a0c-8396-fd05a6c760a7,microphone.tv,resell,98,9,10,"Spaceship, Inc.",06/09/2017 15:16,06/09/2026 15:16
+3b56004e-c3d4-45b1-b906-b2c192ef0ad4,microwave.tv,available,94,8,9,,,
 bfe06b25-14f7-4eb0-bc78-f27ee9b09956,middle.tv,available,116,18,6,,,
 54b5707b-4448-4763-b3d7-629a856a89bb,midget.tv,available,58,6,6,,,
 7154752c-3532-40e8-a52f-c51614bcec27,midships.tv,available,61,2,8,,,
 f9137a46-861b-4133-ba46-2e214b0468a2,miffed.tv,available,41,1,6,,,
+ed36c4af-5670-4ce9-a887-9e7b98b6dd93,might.tv,available,112,11,5,,,
 cc2c0b59-9777-4320-b3c7-cdb4dfd39194,mild.tv,available,92,8,4,,,
 c3ed9a41-e723-496e-a903-58a3b620f48f,militant.tv,available,72,4,8,,,
+d52400e6-7dfb-47e0-a7ac-ccef6f2cdd87,milk.tv,resell,74,27,4,Dynadot Inc,29/07/2008 08:00,29/07/2026 08:00
+b3032c70-417d-4562-b3f4-fb1d46ef41c5,mills.tv,available,54,18,5,,,
+0816c078-ff20-4785-95f4-4c948e8c404f,mincepie.tv,available,76,1,9,,,
+655a8e30-3c85-407c-b1e5-49f2492abf75,mining.tv,resell,66,28,6,Porkbun,24/03/2010 12:14,24/03/2026 12:14
 18751697-a019-489b-bebe-44bb9fae57b9,minor.tv,available,80,12,5,,,
 e8b1779f-5602-4f7c-9aa8-4f23d180ed28,mint.tv,resell,72,39,4,"NameCheap, Inc.",18/03/2010 19:03,18/03/2026 19:03
 d85066c7-3068-41ce-964d-dbe4c9dbad4b,minute.tv,available,112,13,6,,,
+309daa87-ef70-4490-9622-95a49c94643c,miracle.tv,resell,76,32,7,"eNom, LLC",24/06/2003 18:44,24/06/2026 18:44
 84133118-e0fe-48e3-bb4b-8384645e1b0b,misbegot.tv,available,39,1,8,,,
 f4ba079b-c8b0-4324-a88c-0e6d9bbacc86,miserable.tv,available,70,4,9,,,
+80a11265-5659-462e-91dc-03429bb1b389,mister.tv,resell,72,26,6,Dynadot Inc,24/12/2016 21:51,24/12/2026 21:51
 637fff89-c455-4135-b9db-7265cccdea5a,mitigative.tv,available,66,1,10,,,
 86a0b52e-d2cf-48ab-993b-5e770d266bfb,mitigatory.tv,available,66,1,10,,,
 3a5a6991-4c7e-4f70-a3e5-3032533cebe5,mixed.tv,resell,60,12,5,"GoDaddy.com, LLC",30/11/2006 21:03,30/11/2026 21:03
 a53da0ef-3df9-40a5-bf90-046a695a1839,mixedup.tv,available,37,4,8,,,
+fbc9b7a5-78e1-4de3-80af-2e5113717598,mixing.tv,available,84,10,6,,,
 96d3cfcf-7d32-4191-a97a-d7bccd658c1d,modal.tv,available,86,25,5,,,
 0e8f8b0c-a344-47d8-9821-0c2b3c2a6687,model.tv,resell,122,29,5,Dynadot Inc,12/09/2018 08:02,12/09/2026 08:02
+d6157af7-2bf6-4327-8d3a-2b8965d4f047,modeler.tv,available,74,4,7,,,
+fc7b3fbd-b4c2-4af6-80f4-cc8dadd38807,modeller.tv,available,70,4,8,,,
+81eeee96-ee3c-48e6-9ed7-f40a126d051d,modelt.tv,available,80,4,7,,,
+60ac8b0c-a628-4326-9251-0af41b377ca1,modem.tv,available,102,12,5,,,
 ae0a81e9-9459-4d38-b675-fb1f30713025,moderately.tv,available,56,2,10,,,
 d111a9d9-65da-47b9-91db-8981b49c5f1f,modernday.tv,available,70,5,10,,,
 3c2961f2-5d33-45ee-bb89-9cf7e9056941,modest.tv,available,70,16,6,,,
+87030444-01c6-41be-a6ac-b75ab5f3a23a,modesty.tv,available,78,7,7,,,
 993c9299-9286-4072-99ea-055fbada7caa,modish.tv,available,66,6,6,,,
+6d1d6a36-b58f-429e-92eb-b9a3df8ac0ef,mods.tv,available,74,19,4,,,
+57e3b575-0c00-46a3-b778-bfbd059e4f92,mom.tv,resell,86,28,3,Epik LLC,11/10/2015 08:08,11/10/2026 08:08
+215f47e2-6db7-4e50-843e-c7ef5460b15b,moment.tv,resell,76,29,6,Dynadot Inc,20/01/2022 09:01,20/01/2026 09:01
 78f5d789-eab9-4b0b-9f79-a31e38b0c8cf,monetary.tv,available,68,6,8,,,
+b8bc5994-2d8e-4722-96d6-77f6e957ea94,money.tv,resell,80,38,5,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
 6af45a5d-7115-47d9-9d08-c237b95de3c2,moneyed.tv,available,70,5,7,,,
+08429550-bb15-4abf-bcc0-9390a3af1df6,monitoring.tv,resell,72,25,10,Dynadot Inc,18/03/2010 21:24,18/03/2026 21:24
 c4166504-c526-43a0-bf26-322f6f52f30b,monitory.tv,available,54,4,8,,,
+64fa8de0-83ee-4152-ae43-fb8919390568,monopoly.tv,available,64,17,8,,,
 670f6a14-0edf-49b0-916a-5d28fc8992eb,monstrous.tv,available,46,6,9,,,
 e8acdf88-29ce-4839-b7d2-b864408f23b3,month.tv,available,74,8,5,,,
 af1768ec-dce9-4b5d-8b10-263caee97f35,mordacious.tv,available,44,1,10,,,
 2c236d08-d9e9-43ab-a6ea-e81b4233600c,morethan.tv,available,66,14,9,,,
 793c9444-891f-49a6-b9d7-82e30325da8c,morning.tv,resell,76,21,7,"NameCheap, Inc.",05/04/2010 11:41,05/04/2026 11:41
+43644f7f-0374-4cde-9d0e-62a2f14be73b,mosquito.tv,available,64,13,8,,,
 edf5460e-c282-4c28-ac3e-b20f08a31629,most.tv,available,118,21,4,,,
 1172f0a0-3db0-4915-a4ae-3c942054109a,mostly.tv,available,67,10,6,,,
 bd42c8e3-b996-4153-a15e-62a92361fa67,motley.tv,available,44,10,6,,,
+cdd915bf-7485-4586-b579-73172dc3559d,mount.tv,available,58,16,5,,,
 e6ea02bc-398c-463a-a9f0-a3d8b06dd04a,mouth.tv,available,96,12,5,,,
 a19ecd09-d54b-4546-bb3d-d3d131b19e6c,mouthless.tv,available,34,1,9,,,
+ab186d45-055b-4a41-b9bd-3b1e9c93de19,moveback.tv,available,70,1,9,,,
+c53b82d8-96b6-4b20-8db2-478da94db390,moviefilm.tv,available,70,2,10,,,
+a29c8923-783d-48d2-b7a3-8244ac0ca97b,msg.tv,resell,92,33,3,Dynadot Inc,31/03/2012 08:01,31/03/2026 08:01
 9a4cbad7-dcb1-4a00-89d6-131a4c859238,much.tv,resell,76,14,4,"TurnCommerce, Inc. DBA NameBright.com",05/09/2017 08:01,05/09/2026 08:01
 2d3bba81-77e6-4540-9ef3-aa0304781527,muchas.tv,available,58,1,7,,,
 b06594c5-8003-4da8-a1b9-6fc2832ae50c,multiple.tv,resell,82,10,8,"GoDaddy.com, LLC",11/05/2020 02:23,11/05/2026 02:23
+8aa10d99-d565-4071-91db-ecb03758b3cb,multitude.tv,available,70,7,9,,,
 4f67c67a-d922-454f-bf37-155107bda99a,murder.tv,resell,82,12,6,"GoDaddy.com, LLC",19/03/2010 23:40,19/03/2026 23:40
 20f22912-07d3-49bc-abca-d27e4839fd28,mushy.tv,available,54,7,5,,,
 8be2f327-c2d4-4cae-9d79-631a21043108,namely.tv,available,58,6,6,,,
+940d9b42-28bd-4f97-8d45-d926bb192db1,nash.tv,resell,74,26,4,1API GmbH,08/09/2018 08:01,08/09/2026 08:01
 6ebe86d7-2379-4d9c-bdef-f087d600e3cb,nassau.tv,resell,84,8,6,1API GmbH,31/12/2001 03:42,31/12/2026 03:42
 6002b8b8-d5da-4709-b988-8594597e9fb6,nationwide.tv,available,76,13,10,,,
 e1d39c5f-1b70-4c8e-abed-f017cfa7cceb,natural.tv,resell,106,20,7,Dynadot Inc,19/03/2010 04:54,19/03/2026 04:54
+1bc0ca14-9e86-4696-94bc-3278fa2e18be,navy.tv,resell,72,15,4,"GoDaddy.com, LLC",18/03/2010 18:06,18/03/2026 18:06
 92b3bdd1-9caf-40a8-b42c-97dec95aa678,nearer.tv,available,54,3,6,,,
 f66999f4-206b-43ad-aabe-a9e41be505a6,nearest.tv,available,60,7,7,,,
 bc6be3f0-17c2-4f70-bf2f-c87760dba64c,nearly.tv,available,74,8,6,,,
@@ -2694,14 +3131,26 @@ bc6be3f0-17c2-4f70-bf2f-c87760dba64c,nearly.tv,available,74,8,6,,,
 5e2763f5-538b-44f0-8efb-e8aab068db5f,needlelike.tv,available,50,1,10,,,
 34302db9-c293-4fb4-b2d6-b63126d6c1d0,needs.tv,available,82,17,5,,,
 cca561bb-a13a-409a-b56d-2275426bfbb8,needy.tv,available,58,8,5,,,
+228f9da4-e17d-4491-9662-6dbe6af290ca,neglect.tv,available,86,5,7,,,
 b0bdd64c-28a1-4c82-93ae-107e1b0c37b2,negotiable.tv,available,62,3,10,,,
+6b6af174-cc17-4f23-880e-30efa0e65380,neighbor.tv,resell,66,16,8,"GoDaddy.com, LLC",30/06/2013 08:02,30/06/2026 08:02
+805307ed-dd3a-4a6b-9099-f3e2411529f1,neighbour.tv,resell,94,8,9,1API GmbH,22/04/2010 01:42,22/04/2026 01:42
+c877990c-418d-4a91-a465-825f4f2e1e0b,nephew.tv,available,66,4,6,,,
+335c0739-0c3e-4525-b626-9ed32dddfec7,nerd.tv,resell,86,41,4,Dynadot Inc,11/09/2012 13:29,11/09/2026 13:29
 216d74a3-2953-43ae-8c95-26064bfdadd0,nettled.tv,available,45,1,7,,,
 825c4818-d823-4017-b4f0-dd63268bca60,nettlesome.tv,available,41,1,10,,,
 e35495bc-0ecb-47cf-8702-8b27569c269f,neutral.tv,resell,92,19,7,"Spaceship, Inc.",15/01/2019 09:01,15/01/2027 09:01
+5340d707-8154-4322-afa3-2bc33c2178ad,neutrality.tv,available,68,5,10,,,
 d5c8e05f-f9ed-42a0-81ed-f6f8dc8fedd5,nevada.tv,resell,58,15,6,1API GmbH,30/04/2002 21:38,30/04/2026 21:38
 5e32c854-88c7-4621-ae58-7e3a275a2151,newbie.tv,available,68,16,6,,,
+701270b0-3edb-46e1-ad10-826381b1fce3,newsmedia.tv,resell,70,8,10,"GoDaddy.com, LLC",28/06/2015 07:02,28/06/2026 07:02
+c1b37e6a-da2e-4bdb-aae9-04b39bdd62b5,newspaper.tv,resell,90,9,9,Dynadot Inc,26/07/2010 14:04,26/07/2026 14:04
 c1a134f8-75a9-4184-b983-4e0fdcff3ac6,newwave.tv,available,68,17,8,,,
+ba9bbfd1-3643-4436-8f14-636c36cd1833,newyear.tv,available,78,9,8,,,
+9c001e6b-dda1-4647-89aa-7541139cac8a,niece.tv,available,66,2,5,,,
+2076de5d-a712-4531-80d7-3aab1aec835d,night.tv,resell,78,29,5,"NameCheap, Inc.",05/04/2010 11:39,05/04/2026 11:39
 08427fda-dab4-4643-9d08-ee23a217d95a,nightlong.tv,available,62,1,9,,,
+46b85ed3-5568-408e-854b-c2eff57e3b39,nighttime.tv,resell,90,4,9,1API GmbH,11/11/2010 09:01,11/11/2026 09:01
 a909b880-ef08-4b3a-9412-606aae871cdf,nimble.tv,available,94,29,6,,,
 7b43d3c7-431f-4dbb-8d08-875c30e433bc,niner.tv,available,58,5,5,,,
 d7baacb1-8431-48ed-8f1e-7ff430370725,nineteenth.tv,available,76,3,10,,,
@@ -2725,19 +3174,24 @@ c8ed1d6e-d87e-494a-a96a-375eb6f9f903,nonplussed.tv,available,41,2,10,,,
 e96f879b-7f1e-4616-9daf-c857b09d2fca,normally.tv,available,66,3,8,,,
 494aaa82-558c-4750-96a9-09f98fe303d0,northern.tv,resell,96,18,8,1API GmbH,25/02/2010 08:22,25/02/2026 08:22
 ab7f6862-499e-4628-999b-316edc83bc05,norwegian.tv,available,68,16,9,,,
+451f37df-8530-4180-bbe6-34b11c8aea36,nose.tv,available,94,14,4,,,
 9a6b8fdb-181d-4e12-a128-167a78ee8584,noticeable.tv,available,68,3,10,,,
 6e498fd8-ebe6-42b7-af33-1e079a4c34fd,noticed.tv,available,72,6,7,,,
 cf152f89-bdcc-4fe9-b106-27f0f2047bb1,nought.tv,available,92,4,6,,,
 89e22cea-4fa2-41b6-84e2-7f41a05a4cb1,nourishing.tv,available,72,6,10,,,
+fe00a4f1-2111-44f5-a4dd-1a2d6417c755,november.tv,available,72,13,8,,,
 1f5d80fe-3e57-4e10-8ddb-6ff0d34bd952,nuclear.tv,resell,76,24,7,Dynadot Inc,18/03/2010 21:24,18/03/2026 21:24
 635d5d7c-4c43-4f6f-8f58-6b57c46c82b4,number.tv,resell,96,21,6,Dynadot Inc,10/02/2017 00:58,10/02/2026 00:58
 fa9b4a0e-96a1-4f6e-a917-00b89669a101,numbers.tv,resell,72,26,7,Dynadot Inc,10/02/2017 01:00,10/02/2026 01:00
+e77e43c3-2a10-447a-8837-be50fcef6070,nun.tv,available,64,9,3,,,
 6cd9d0b8-38d0-40f7-a46c-e3e93118f6ef,nursery.tv,resell,68,11,7,"GoDaddy.com, LLC",20/03/2010 00:49,20/03/2026 00:49
 064bca75-9737-4e1b-99d1-bae3847cff1e,nutrient.tv,available,92,7,8,,,
 8b1f21ce-f53f-43aa-9a63-6ed38b0f3ac2,nutritious.tv,available,80,4,10,,,
 7af5c6f2-1523-4379-b050-4f7d3ccf38d5,nutritive.tv,available,84,2,9,,,
 f555a954-6c03-4f49-8fd1-76e0f0632d49,nuts.tv,resell,64,16,4,Dynadot Inc,10/11/2013 08:26,10/11/2026 08:26
 f8020b62-06f0-451d-9ff6-d38eb84734a1,nutty.tv,available,60,7,5,,,
+d8b746df-ff58-41b1-84d5-3f12101cd98b,oakland.tv,resell,66,17,7,Dynadot Inc,10/02/2015 18:46,10/02/2026 18:46
+ad27d65b-f62c-496b-99b7-b49e00cb7071,oar.tv,available,68,7,3,,,
 83684203-8294-4782-a1b3-0c98ca6820de,oatmeal.tv,resell,88,8,7,GoDaddy Online Services Cayman Islands Ltd.,20/02/2021 23:02,20/02/2026 23:02
 d78b8b26-1529-4e93-a69b-ea5e675e7952,object.tv,resell,92,23,6,Dynadot Inc,20/03/2018 14:07,20/03/2026 14:07
 65d4e12d-9c47-46af-8a10-f0b5a7170b62,obscene.tv,available,76,5,7,,,
@@ -2749,6 +3203,7 @@ f5c94a5c-8abf-4925-aa45-758e1d803d65,observed.tv,available,68,3,8,,,
 bd0cae68-d518-4879-b684-5d9115110919,obviously.tv,available,62,8,9,,,
 6295e776-fe37-45ca-ac6d-61a65b31ac74,occupy.tv,resell,62,7,6,Dynadot Inc,12/10/2011 11:50,12/10/2026 11:50
 49d4e879-32d6-4f91-b994-6f23d577f6fb,occurrence.tv,available,64,5,10,,,
+3e869608-cf51-4760-ac6a-74a8f5d6fe31,ocean.tv,resell,72,35,5,"eNom, LLC",25/03/2002 22:31,25/03/2027 21:31
 0a9856a8-840c-4f45-adc8-648711651048,octad.tv,available,58,6,5,,,
 1724cb25-8262-45a3-9465-aeb9f7bc7065,octonary.tv,available,68,1,8,,,
 2adf6185-ad1a-47d2-ad1a-e14d4ccf04c3,oddly.tv,available,60,7,5,,,
@@ -2769,7 +3224,10 @@ f9153886-1a9a-480e-b856-dff47083a7be,ohio.tv,resell,70,24,4,Dynadot Inc,19/03/20
 aed9e359-043a-439c-8df1-168a74b588ff,oklahoma.tv,resell,46,15,8,Dynadot Inc,03/08/2011 08:01,03/08/2028 08:01
 0ae75afd-48b4-465a-9d07-d320217784d9,older.tv,available,66,7,5,,,
 e9bf1ca9-8f31-4e64-98fa-5369044db1aa,oldgeezer.tv,available,54,2,10,,,
+cf7aa518-0bc0-4441-9519-047aa6f134cd,oldlady.tv,available,60,2,8,,,
 fe3cd7da-8b8e-4195-be93-ce5f330588c5,oldman.tv,available,58,9,7,,,
+6bff1320-3862-4df7-983f-b3f8c0746c38,oldschool.tv,resell,70,18,10,Dynadot Inc,09/02/2020 09:02,09/02/2026 09:02
+484d8008-48ff-4b6f-a21a-952120140139,omega.tv,resell,78,20,5,"GoDaddy.com, LLC",23/12/2021 09:01,23/12/2028 09:01
 36b5e2ae-dca6-4a68-90ef-d5084d4d8b30,omnipotent.tv,available,62,7,10,,,
 e5dd14e3-4791-41e2-a4db-7e5a7558f819,omniscient.tv,available,64,9,10,,,
 56519768-cb31-4e7f-ae02-afdfa779fd68,once.tv,resell,94,21,4,Dynadot Inc,18/03/2010 22:52,18/03/2028 22:52
@@ -2787,40 +3245,62 @@ e2b6b9ad-228d-45ff-9b64-ef14a29d7ee1,opposable.tv,available,43,2,9,,,
 0d942ce6-33f4-4422-b109-32d42645ed96,oppositive.tv,available,74,1,10,,,
 e20047e8-c4ad-43a9-8223-20120c6ac181,optic.tv,available,76,15,5,,,
 1319f8e6-4837-4568-a8ae-08d6181c9797,optionally.tv,available,61,1,10,,,
+59b8c103-9147-40fc-9972-b996132a7fea,orangutan.tv,available,70,9,9,,,
 fe48789a-61dd-42d6-b852-830db9bd6155,orbicular.tv,available,47,2,9,,,
+829c7c54-65e0-4a92-b4ae-cbcac18d99ef,orca.tv,available,76,41,4,,,
+d752cd76-bd3c-4b4e-b37a-c91dfb0635f2,orchestra.tv,resell,76,20,9,"NameSilo, LLC",18/03/2010 21:24,18/03/2027 21:24
 39cb72f3-f6e0-4622-aff0-f5979c05faf8,order.tv,available,78,32,5,,,
 2fe21e7e-769f-4d1b-9c63-68cf31832db0,ordinarily.tv,available,62,1,10,,,
 7826ebf7-fece-451c-94b3-52612bea5e71,ordinary.tv,available,70,16,8,,,
 fee9e485-9179-4ff0-9e3b-88ba101f3f65,oregon.tv,resell,64,18,6,1API GmbH,08/07/2014 08:04,08/07/2026 08:04
+c70e8668-af15-47ee-80aa-353845b24ff9,organ.tv,available,70,11,5,,,
 85ff102a-9640-4c4e-a44b-53b74e09162b,organise.tv,available,76,7,8,,,
 b17d5074-e8ef-46d6-b0fb-0f567149d7cc,organised.tv,available,72,5,9,,,
 6446c142-5813-4e5c-93fd-f1be2bcfc5db,orgiastic.tv,available,40,1,9,,,
+81efae44-ffb2-4278-a14c-644e219bc561,orleans.tv,available,70,6,7,,,
+f8df67c6-48b8-4d28-b051-89c4c6ef4f80,orphan.tv,available,100,8,6,,,
 3d50c08e-28b5-4b0a-becc-2a75248a089b,oslo.tv,resell,54,20,4,Dynadot Inc,01/05/2007 21:12,01/05/2030 21:12
 9baab4a8-c3e2-40f6-a4d5-c5a911304618,otherthan.tv,available,56,1,10,,,
 357e8438-a6b5-48ae-80ee-9030fe83c0ce,otic.tv,available,58,4,4,,,
 b209c375-c824-451c-a1d5-dc6d6e78a3ba,ounce.tv,available,74,8,5,,,
+afd513c2-89cb-486c-86d4-787bb0685422,outcome.tv,available,74,17,7,,,
 1cc2d182-8969-4047-b247-f5a42084c49a,outdated.tv,available,58,6,8,,,
 2dd7f299-6816-4bf9-ab2e-3cdc691f1ad0,outdoors.tv,available,88,13,8,,,
+cfe8832b-94b0-4770-822e-54702c4f99c8,outing.tv,available,77,5,6,,,
 2a9ff8e2-2bd0-40c3-8ac0-82d856f1e480,outlander.tv,available,56,8,9,,,
 0dbd8614-d5f1-4d9a-b50b-750be092a85b,outlaw.tv,resell,62,20,6,1API GmbH,08/05/2011 05:06,08/05/2026 05:06
+8c85e440-6275-4c10-aefe-fae1b454b68e,outlet.tv,resell,70,16,6,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",11/12/2001 04:43,11/12/2026 04:43
+f24d6fbc-59b1-428e-a182-f29985f879f8,outlook.tv,resell,95,20,7,Dynadot Inc,19/03/2010 09:59,19/03/2026 09:59
 692dde45-a23e-4e60-a8ff-a5d23fcbe024,overall.tv,available,96,7,7,,,
 5cf2b69e-8083-4286-9637-a48d641d3b71,overdue.tv,available,62,6,7,,,
+5d180c8c-eb98-4dc8-829b-81cb85993104,overflow.tv,available,74,19,8,,,
 89db6041-c004-4d0e-bc55-5354ae5b7c89,overhang.tv,available,70,4,8,,,
 31590dee-819c-4488-bf8b-83d2f8bc5198,overseas.tv,available,68,10,8,,,
+1cc92144-95f7-4aaf-8500-c6767c314b9e,oversight.tv,resell,84,13,9,"GoDaddy.com, LLC",02/03/2008 13:50,02/03/2026 13:50
+b9346019-190e-4c58-be6b-1ce9abdcfde3,owens.tv,available,69,13,5,,,
+41d728b0-3b1a-4083-aad1-b958ac9d26e0,oxford.tv,resell,62,24,6,Dynadot Inc,31/08/2016 09:06,31/08/2026 09:06
 655873da-d4d7-4dc7-9138-ab234068748e,pacific.tv,resell,98,22,7,Dynadot Inc,05/04/2010 10:25,05/04/2026 10:25
 8d7ab82d-602d-4466-aac1-6942d0f15790,pack.tv,available,100,26,4,,,
 8eb7dde1-81bb-4481-846e-47758cb59a11,packed.tv,available,64,6,6,,,
 2e11c283-90f4-4de0-9b0c-472ced195c1b,packing.tv,available,78,9,7,,,
 c2d91aed-cefb-4154-b596-c61023e33586,pail.tv,available,70,5,4,,,
+81ec3bf9-f9a5-4317-a685-270b9e48eadc,pain.tv,resell,72,26,4,"NameCheap, Inc.",18/03/2010 20:45,18/03/2026 20:45
 c45745a4-fa7d-4238-b7bc-49cb29df0402,painful.tv,resell,58,4,7,1API GmbH,09/02/2007 02:46,09/02/2026 02:46
 35c778a1-e3f3-4751-bcd9-83fcdec05f07,painpill.tv,available,54,1,9,,,
+b99fc991-bd27-436a-9093-3837571ba873,paint.tv,resell,66,24,5,"GoDaddy.com, LLC",19/03/2010 07:42,19/03/2026 07:42
 a4437dcb-35ac-407b-989a-e46587b3549f,painted.tv,available,68,8,7,,,
+1d380bc6-0dab-49d1-a88c-af38d976a572,pair.tv,resell,66,22,4,Dynadot Inc,21/08/2020 08:00,21/08/2026 08:00
+17625f1a-1203-4ec9-95dc-67924b098a53,palm.tv,resell,88,32,4,Dynadot Inc,18/03/2010 20:57,18/03/2027 20:57
 414d94c3-199d-43b4-8b85-e3b78c09d40a,pamper.tv,available,101,6,6,,,
+f7c5a2a5-43a4-402e-b575-69868e0e27ef,pan.tv,resell,106,24,3,Dynadot Inc,27/09/2012 06:47,27/09/2030 06:47
+ddf5e344-2668-4a94-b83c-8b4ee82d9f4d,pancreas.tv,available,60,6,8,,,
+40c2e9e5-a469-4494-b28a-e58a4efff8bf,panel.tv,resell,90,26,5,"GoDaddy.com, LLC",02/12/2006 15:43,02/12/2026 15:43
 330e8c24-e743-43a9-bb20-1b5748a145be,panoplied.tv,available,50,1,9,,,
 7c4f2082-d292-4e55-a6e4-2d2e218f5b8f,panoramic.tv,resell,88,11,9,"Spaceship, Inc.",21/08/2024 04:35,21/08/2026 04:35
 544b1b4f-b64f-4b12-803b-5d483337059a,papal.tv,available,52,3,5,,,
 1ddae0d8-e9ea-4019-8178-b800fa4e0607,parallel.tv,available,100,30,8,,,
 82f0ca38-d109-4da2-b855-7dd857f6a8e6,parched.tv,available,54,4,7,,,
+1df170c5-7f57-4baa-880e-65d00797c21d,parks.tv,available,54,18,5,,,
 a020e1c9-9b5f-4029-b84b-57802561b46c,passable.tv,available,60,2,8,,,
 2e729171-1329-4f9a-895c-1cef545ac082,passing.tv,available,100,4,7,,,
 d6da7be2-65dc-46c3-8e60-862f3384c8d9,passive.tv,available,80,13,7,,,
@@ -2834,16 +3314,21 @@ ac7fd319-aa1a-4f25-af08-f55ca72f2663,paternal.tv,available,64,2,8,,,
 c30bfe00-7b53-4304-872b-a22fc745d3e7,patient.tv,resell,68,19,7,Dynadot Inc,23/03/2010 11:36,23/03/2026 11:36
 cd3457da-7145-49f8-81d1-01cc5e1011fd,patrikin.tv,available,58,1,8,,,
 2a0d0b99-4ec2-4285-a73d-58c0e93a2464,patriotic.tv,resell,86,6,9,"GoDaddy.com, LLC",17/05/2018 19:00,17/05/2026 19:00
+d28b797e-285f-438d-a083-695c25ab1cdc,patriotism.tv,available,76,2,10,,,
 9037a038-0d81-4fdc-a1f3-87ea0df05572,patrisib.tv,available,58,1,8,,,
 9461eb5c-3ea7-42e1-8980-2fc117f26e6d,pauliii.tv,available,64,1,8,,,
 d5a8aa7f-ce09-452d-bb2d-0d4e9c1a8d3d,paunchy.tv,available,60,1,7,,,
 4a534482-ea45-4019-adbe-afeb750084a3,paying.tv,available,76,6,6,,,
+ff6a578f-ce8f-4b1e-a218-4d35ccd79ec9,payment.tv,resell,78,32,7,"Chengdu West Dimension Digital Technology Co., Ltd.",20/12/2014 10:18,20/12/2026 10:18
 ab2bc896-99b5-4400-9794-8693466a2135,peaceful.tv,available,86,12,8,,,
+094f3869-5575-4cfa-abfc-ea88e7279fea,peel.tv,available,64,16,4,,,
 e7960f8f-37bf-495a-a6fd-fe191b329f02,peeled.tv,available,54,3,6,,,
 92d3d1af-9abb-4d75-b5da-f639af79cf58,peeved.tv,available,42,2,6,,,
 fc120903-b6c5-44a1-8cba-abe2a885f4f9,pen.tv,resell,60,17,3,"Chengdu West Dimension Digital Technology Co., Ltd.",26/02/2015 09:11,26/02/2026 09:11
 046ec14a-b2f2-41ea-99ea-1985536929f4,pending.tv,available,68,7,7,,,
+74ed42fe-134f-4ace-a477-f07e06f06648,penis.tv,available,60,28,5,,,
 eb7c8d2a-b22f-421e-8ffe-6edcc8477f5f,pentad.tv,available,58,3,6,,,
+1e0d992a-a147-47e4-bd29-ff369cc9d3b7,pepsicola.tv,available,82,4,10,,,
 d22c22f4-f247-4dc8-92ae-bd917f467945,perceived.tv,available,69,3,9,,,
 899cef9a-c1f4-4fc4-8449-6cf900e01c0c,peremptory.tv,available,61,1,10,,,
 c8e60e9b-3251-4c6f-a64e-e3984cd85ca8,perfect.tv,available,124,33,7,,,
@@ -2867,6 +3352,8 @@ aa41bfe3-2915-4f5a-b913-bd8159fcba45,phantasmal.tv,available,44,4,10,,,
 03d21ead-62d0-4447-bbfe-e9c53c708c88,phonecall.tv,available,72,5,10,,,
 a7508382-8074-463e-83da-38163d575158,phoney.tv,available,79,3,6,,,
 d3c6a2f4-c078-42ec-bff1-dda5f0055d8b,phony.tv,available,79,9,5,,,
+fad89b9d-5a68-476e-8ddb-22cbcc54d858,photo.tv,resell,92,36,5,InternetX GmbH,30/09/2009 08:00,09/04/2026 03:59
+d2442616-884e-41d4-9e7f-503334bc0757,phrase.tv,available,94,8,6,,,
 38b59fa0-50e4-48d6-bbac-72d4f467ac36,physic.tv,available,92,5,6,,,
 78f27eb3-1ee9-4737-ad0e-fd6e31052d20,physically.tv,available,56,3,10,,,
 64b470ad-33fc-4bda-804a-3cb6f2a6d232,picture.tv,resell,100,20,7,"Spaceship, Inc.",08/06/2015 08:08,08/06/2026 08:08
@@ -2877,8 +3364,14 @@ d1dd2b80-6b25-4d39-b726-efe2791827c5,pinch.tv,available,98,12,5,,,
 e9ebcc8b-802c-42b1-bc2b-de51449c9188,pineapple.tv,resell,78,28,9,Dynadot Inc,23/01/2015 09:13,23/01/2026 09:13
 3ad1ad22-aa2a-41c3-8871-3cae63aa2deb,pissed.tv,available,39,4,6,,,
 3be4f3c0-a167-457d-a1c7-de0d8c66e72e,pissedoff.tv,available,33,3,10,,,
+4b0538e8-b773-4923-baf9-b6a59c01c180,piston.tv,available,66,10,6,,,
+c0f94a57-dfca-432c-8b9e-863290c8b586,pitching.tv,available,72,5,8,,,
+8beb2d42-f867-4c97-844e-7c1a50b49898,pitfall.tv,available,66,3,7,,,
 c6dbfd6e-6a13-4304-a77c-614d06fc0b41,pitted.tv,available,56,2,6,,,
 adb3cf6b-ca46-4e1b-9927-302897b0620f,pity.tv,available,112,4,4,,,
+cd07b43d-ed2e-4942-835f-b135fd0952da,pizza.tv,resell,92,34,5,"GoDaddy.com, LLC",22/07/2006 08:00,22/07/2027 08:00
+1563263d-f362-44e1-99d7-aaea6e6df0e1,pizzapie.tv,available,82,3,9,,,
+beed8e06-8c99-4a39-b936-a5a1f15a2562,pizzashop.tv,available,80,4,10,,,
 cd71aad0-6687-4f6b-b877-4ad260c16ef7,placating.tv,available,48,1,9,,,
 5648186a-170a-426f-85f6-aea3c86da54f,placative.tv,available,46,1,9,,,
 a06cdf60-d9a5-4782-85d2-9bce9fdc63f8,placatory.tv,available,50,2,9,,,
@@ -2890,34 +3383,48 @@ fbd6b4a1-76d2-4f18-bdb7-40c3314171ec,plague.tv,resell,84,9,6,1API GmbH,14/05/202
 414d983a-5a03-47c7-bdb5-be381b6a6d0f,planless.tv,available,50,2,8,,,
 a25585a8-da94-45e7-a05a-66e43b23133d,planned.tv,available,74,7,7,,,
 023e4fbe-2783-411e-b8f7-38eb011b2c34,planted.tv,available,68,9,7,,,
+73bc48a6-62f6-4314-b1ef-06a3dd16fcb1,platter.tv,available,68,7,7,,,
 681f3fc3-b2c9-4e74-a9ee-a716b9b81a89,plausive.tv,available,46,1,8,,,
 ed0b50cd-1420-4941-981f-717b2cdfbd45,playacting.tv,available,62,1,10,,,
 4c38431c-a352-46c1-8cfd-507e76dabcc1,played.tv,available,70,5,6,,,
 0e64748d-2b50-404c-9326-e265aea8cba0,player.tv,resell,68,23,6,"NameCheap, Inc.",27/03/2010 11:01,27/03/2026 11:01
 d243be4d-b24b-4bc7-adc5-eedf93b1f7b8,pleasant.tv,resell,70,9,8,Sav.com LLC,23/05/2015 03:22,23/05/2026 03:22
 e5fc27a5-9e4e-4c54-b625-7e9ffeeb4036,pleased.tv,available,78,3,7,,,
+0133cf75-44ff-4687-9942-3a1fad5ff691,pleasure.tv,resell,116,18,8,"NameCheap, Inc.",05/04/2010 17:28,05/04/2026 17:28
 44d840b8-1830-4302-a6a7-3c3390905c68,pledged.tv,available,68,1,7,,,
+1b5366fa-f822-4093-a4ff-3f0b4f0be8ce,plier.tv,available,70,3,5,,,
 28d481a2-85b5-4d8b-939a-c65611fb5cb7,plotted.tv,available,72,3,7,,,
 a177d8aa-69ea-4e77-b4af-dabd760643da,plumpfor.tv,available,54,1,9,,,
 0f2564ca-0947-4fbc-b6a7-0158523facdf,plunkfor.tv,available,54,1,9,,,
 cde37204-1fa4-4076-824c-5ad5cb02dbb8,pocket.tv,resell,72,36,6,"GoDaddy.com, LLC",01/06/2000 07:00,01/06/2027 07:00
 0570588c-bfd3-4d03-b24e-62b2553da7bc,poignant.tv,available,68,3,8,,,
 abd5589f-1ed9-42b6-9ec4-3a42ba0741a6,pointless.tv,available,54,12,9,,,
+0937949d-b5d8-4e4c-a044-40462d3a08a0,poisoning.tv,available,56,1,9,,,
+2566d5a2-18c2-4013-a471-0e6b649122ab,policy.tv,available,98,24,6,,,
 3e8dc505-9303-48ef-99a1-dd922ee371e0,politely.tv,available,64,3,8,,,
 fe077fad-b43a-49ea-a611-faa948a3d6ce,poll.tv,available,80,20,4,,,
+91638bcd-76b5-4881-9587-dfbe2c53ba1c,pollen.tv,available,78,18,6,,,
+353e741e-f109-4975-ba56-286b733e7df8,polyester.tv,available,86,8,9,,,
+fb9cf216-f429-4e97-a8b1-c8bcfc9c891e,polygon.tv,available,70,24,7,,,
+a676a862-596b-4e28-931b-89652cda0c12,polythene.tv,available,66,3,9,,,
 65f8bd74-e759-4e80-bfb7-2701119e94be,pompom.tv,available,58,12,7,,,
 e6997b86-551f-4f7b-bbde-fe9e1fc27974,pontifical.tv,available,62,1,10,,,
+085c75be-bfc4-4ec7-acdb-f3e23dc1bdab,pony.tv,resell,86,28,4,Epik LLC,30/06/2023 23:18,30/06/2026 23:18
 03c30dcf-4fc7-47b7-a7d0-d56e8f403d8d,poor.tv,resell,54,12,4,"NameCheap, Inc.",08/06/2014 08:04,08/06/2026 08:04
 03870c77-8476-41d5-96bc-166658511de4,poorly.tv,available,66,2,6,,,
 463ec69d-af9a-48f9-bc8a-96fb040ee694,port.tv,resell,66,25,4,Dynadot Inc,18/03/2010 22:36,18/03/2026 22:36
 b4cbbab3-c543-49e8-83ed-1486fbd6a8bc,porticoed.tv,available,42,1,9,,,
+feb0a8da-f7d7-4f3b-a075-6837e799d336,portland.tv,resell,62,19,8,Dynadot Inc,27/05/2011 08:01,27/05/2030 08:01
+b19f3bba-10b7-47fb-aab5-2e8d6ebdc3d7,possession.tv,available,88,4,10,,,
 b658a7c8-58cd-432e-ab42-9c639348e85d,possibly.tv,available,62,5,8,,,
 26d76ef3-2e3c-428f-beaf-4d5a6991e4bf,posterior.tv,available,56,2,9,,,
 c328f73b-f57d-446e-a371-977974afe054,potbellied.tv,available,56,1,10,,,
 43d6a9b9-9c68-486f-bada-8a63695c367e,powered.tv,available,72,13,7,,,
 79582274-0c76-43fd-b820-e2ad793b330e,practiced.tv,available,70,2,9,,,
+abd9a9b9-bd5b-46e4-8a85-49365c574ab1,prairie.tv,resell,62,14,7,1API GmbH,11/11/2001 06:53,11/11/2026 06:53
 d869f480-48c9-4461-a75a-a388a471c0a9,prat.tv,available,56,6,4,,,
 19b70f55-9f04-4c0a-b381-dd68ab0fde60,prayer.tv,resell,78,18,6,Dynadot Inc,19/03/2010 04:26,19/03/2027 04:26
+c8276040-5967-4650-a496-8d6871cba6a7,preference.tv,available,96,8,10,,,
 43dbb2b6-75bd-41b0-a0eb-dddb034c6497,prehensile.tv,available,54,1,10,,,
 5de4f4da-7921-4a6c-94cf-02d2edc5727c,prejudice.tv,available,86,2,9,,,
 e2206d8c-c799-4b2a-903f-183b8012e89c,premarital.tv,available,70,2,10,,,
@@ -2931,17 +3438,27 @@ f1a0510d-a2ba-4188-811b-17a8639eeb96,preserved.tv,available,66,3,9,,,
 d756de43-4f0a-4b8d-834e-f53d77c19c9f,pretence.tv,available,64,1,8,,,
 e3a9db0f-34aa-4a6d-93f4-3b1d6a9f4aec,pretend.tv,available,108,9,7,,,
 69b41d3e-329e-4b57-aba3-5ccd7b592ccc,pretended.tv,available,44,1,9,,,
+3e67a063-ec4e-4873-b832-a6b3bf1524aa,pretending.tv,available,68,1,10,,,
 a78e0f8a-76f1-454b-9eeb-6c3d5e910077,pretoria.tv,resell,62,6,8,Dynadot Inc,18/06/2017 08:37,18/06/2026 08:37
 fd2b8d9c-2b3d-4480-8656-e3b410c66fab,pretty.tv,resell,80,21,6,Dynadot Inc,06/10/2011 08:09,06/10/2026 08:09
 4a712f5c-04a8-490a-918a-486c87da8cb6,prevenient.tv,available,56,1,10,,,
+418d146d-e172-4451-acc3-e330e8512dde,prevention.tv,resell,74,11,10,"GoDaddy.com, LLC",18/03/2010 18:22,18/03/2026 18:22
+dd8a20c4-6b33-4983-9659-d0450649e9f2,preview.tv,available,98,23,7,,,
+7b4170c3-8320-4489-8848-7230e4ece151,price.tv,resell,68,30,5,Dynadot Inc,07/07/2012 08:03,07/07/2026 08:03
 7582ac78-2476-4e55-9c4e-1a29332fe51a,priceless.tv,resell,75,9,9,Dynadot Inc,19/03/2010 04:02,19/03/2027 04:02
+0fbd0030-caf6-4389-b211-5e5abaea9b02,pricelist.tv,resell,68,7,10,"GoDaddy.com, LLC",20/03/2007 17:32,20/03/2026 17:32
+9c19bc7c-e97f-42bd-bccb-972ab5a777d4,pricing.tv,resell,72,19,7,GoDaddy Online Services Cayman Islands Ltd.,29/09/2019 19:05,29/09/2026 19:05
 9eda1234-bbd6-4a35-98bc-6f86c2b12dd0,prick.tv,available,70,6,5,,,
 4808ce39-741b-4270-84f6-6727f3b94e39,prickly.tv,available,80,5,7,,,
+2e541d02-a7e0-4bf6-b155-4ecc58e14acb,pride.tv,available,74,26,5,,,
 d637b2fe-c804-470e-ac59-60eec1311037,prime.tv,resell,76,76,5,"Spaceship, Inc.",19/03/2010 04:46,19/03/2026 04:46
+48cc5f5f-5868-42fa-9400-09bf2889d2d5,primer.tv,resell,64,13,6,"GoDaddy.com, LLC",18/08/2006 17:51,18/08/2026 17:51
 7ee433bb-452d-4df2-8660-5732bd701894,primitive.tv,resell,82,12,9,"GoDaddy.com, LLC",04/08/2006 00:16,04/08/2026 00:16
+48228384-eb40-4d25-b6e5-805014c7ab3c,princess.tv,resell,86,21,8,"Spaceship, Inc.",23/03/2010 14:23,23/03/2026 14:23
 36fe0d9c-b8bc-4443-8721-381e85b54e7e,principal.tv,available,90,18,9,,,
 2fda8da7-6344-4328-b597-f203ff672c46,principled.tv,available,71,5,10,,,
 b356728c-77a9-4a6d-a7f6-d7b34e67d19c,prior.tv,resell,68,13,5,1API GmbH,20/10/2022 08:01,20/10/2026 08:01
+e956c839-3ff3-4a66-ace4-64cc650d2fc1,prison.tv,resell,86,13,6,1API GmbH,06/09/2010 03:08,06/09/2026 03:08
 9065ef35-2637-4d9e-b6b6-34ddd0b2f432,privileged.tv,available,66,6,10,,,
 a971256f-9b38-4151-97df-f4c0839c34bc,proactive.tv,resell,71,20,9,"GoDaddy.com, LLC",11/09/2005 08:36,11/09/2026 08:36
 71590580-efa2-4779-8672-39475f1921a8,probable.tv,available,85,5,8,,,
@@ -2950,19 +3467,28 @@ beed57e2-bfda-413a-ad56-787b34cea3de,process.tv,available,94,29,7,,,
 ad9f4c55-081a-4552-a42d-877ba241d7d4,processed.tv,available,62,4,9,,,
 b7424987-d1ca-421d-b054-ac0a4a07684d,proclaimed.tv,available,62,1,10,,,
 5366bb54-d55d-4c44-8994-3d201606fb2c,prodigy.tv,resell,79,22,7,Dynadot Inc,19/07/2012 08:06,19/07/2026 08:06
+f433415c-0053-4e1c-8ed9-d5db8f0c4c9e,production.tv,resell,70,23,10,1API GmbH,18/03/2010 18:33,18/03/2026 18:33
 002ca434-cccc-4969-9230-ac362f4049bd,proficient.tv,available,88,7,10,,,
 9484ee77-995c-46e2-96fc-810400192471,profound.tv,available,111,17,8,,,
 81af1b04-9576-49cb-aba3-b23fff199162,progress.tv,resell,82,29,8,1API GmbH,17/10/2010 08:00,17/10/2026 08:00
 65f64da9-d1c0-46b8-ac1b-7823495a3750,promising.tv,available,93,6,9,,,
+72ef03c7-070a-4c78-bc75-d5d98d80a1d4,promoter.tv,available,72,9,8,,,
 2015e038-11e8-4c5c-bf86-bb9a4d7278f3,promotion.tv,available,72,15,9,,,
 f0abe20a-58da-4024-964c-ffcbb1710c48,prompt.tv,available,114,60,6,,,
 8ea455fa-ec0d-47b4-b0e3-be206d3312de,pronounced.tv,available,62,4,10,,,
+016bdc64-3759-4c02-a376-9c364948dd25,proportion.tv,available,94,5,10,,,
+8693e7a5-b9e2-4b15-9d76-0cd98170000e,propose.tv,available,100,7,7,,,
 c4420360-13a9-442d-8ed9-4a103f519650,protection.tv,available,71,15,10,,,
 d3770ef9-aaec-4636-9a38-cf9df60dd54d,protective.tv,available,89,7,10,,,
+4b5a869d-ac08-412a-8339-aeb1499dc8f7,protest.tv,available,92,16,7,,,
 f483b688-d239-426b-9995-78fe396fe956,prototypal.tv,available,56,1,10,,,
 30229b16-6818-4c63-9597-14774e7444f0,prototypic.tv,available,56,2,10,,,
 4824cb7a-5803-4b85-a20b-b4f098445b4a,proved.tv,available,73,4,6,,,
 3b69dd8a-c7f7-472d-a677-e7298d2c181a,providence.tv,resell,78,20,10,Dynadot Inc,27/05/2011 08:01,27/05/2026 08:01
+be95f785-f558-4820-8078-3bf99d7c5455,provider.tv,available,72,20,8,,,
+af554d27-0544-4559-9b58-0fe611f9a09a,province.tv,available,58,9,8,,,
+2f2e4b16-f75d-4095-8d45-e7154d74ab04,provisions.tv,available,70,8,10,,,
+568c0207-4254-42d7-a801-43a57e089f50,provoke.tv,available,68,9,7,,,
 02391722-0585-4aa6-a9a4-c406acbb409e,provoking.tv,available,74,2,9,,,
 6657b650-9c56-4319-8dad-27e2659b8fdc,prudent.tv,available,75,7,7,,,
 d7a82825-504a-4374-a798-433bcdfe0683,publicised.tv,available,67,1,10,,,
@@ -2971,22 +3497,32 @@ e91ff159-957a-43e8-babe-3c1bc0390e1f,publicized.tv,available,67,1,10,,,
 14124d2f-23b5-45b6-8d48-d4c90eecfec5,pungent.tv,available,62,1,7,,,
 016c4d65-1ee5-418e-9609-fe73f10b63f1,punishing.tv,available,68,1,9,,,
 bf5320ab-2f60-45a1-ae93-d1cea5b534ea,punter.tv,available,64,7,6,,,
+958473a2-5a35-4c78-ad86-d65fe502c8a4,pup.tv,available,78,20,3,,,
 6aa52e80-5f9c-4918-995d-3526d99e881e,purchase.tv,resell,68,18,8,1API GmbH,17/04/2010 23:21,17/04/2026 23:21
 8d34ebd2-dcb6-482f-9984-e73a453b2120,pure.tv,resell,126,40,4,"eNom, LLC",11/10/2000 20:08,11/10/2026 20:08
 4412f6f8-e9c5-47e0-ace2-3c108169fc1c,purgative.tv,available,54,1,9,,,
 1bef78b4-3552-41ed-9476-1db63e83c4ac,purple.tv,available,62,34,6,,,
 dae71ad2-3f3d-4174-b735-c872f7ffd203,purpose.tv,resell,108,29,7,Dynadot Inc,26/01/2011 09:00,26/01/2026 09:00
+7ee98ce4-3869-4db3-b479-e937d556bb24,pushing.tv,available,82,4,7,,,
 c55bd7ab-7f17-450c-b3ee-a677404e516b,pussy.tv,resell,50,26,5,"Name.com, Inc.",19/03/2010 04:00,19/03/2026 04:00
 d2419032-e4c2-44de-bcc4-98cdbe2b3324,pustulate.tv,available,56,1,9,,,
 564a95fe-74ce-47a6-9d22-ce9cc445d3e9,put.tv,resell,78,15,3,Dynadot Inc,10/06/2021 12:47,10/06/2026 12:47
+631f6ab3-3c1a-48de-a57c-c20dc14d1dc1,putaway.tv,available,68,2,8,,,
+9695e9cc-1929-470c-bf4e-1aa9c7ab9e4b,putoff.tv,available,66,1,7,,,
 7888d7c4-c5eb-48ca-a7fa-0f80169caf80,putup.tv,available,78,2,6,,,
 46539b34-55d2-46b9-940f-e603f5d5602e,puzzled.tv,available,64,7,7,,,
+df1abd78-6188-45f8-923c-c58dd399c067,pyramid.tv,available,76,27,7,,,
+d29efc51-5b4f-4e3c-ada3-151d0910e9ff,pyrenees.tv,resell,64,4,8,Dynadot Inc,24/05/2021 14:22,24/05/2026 14:22
 2dc2ce8c-715d-4871-8690-11e63ed09171,quadruplet.tv,available,54,2,10,,,
+dd49a221-0537-4c0a-803a-137d26cd846e,qualifier.tv,available,68,5,9,,,
 a218278f-7b06-431b-b250-d23612041288,quality.tv,resell,92,27,7,Dynadot Inc,18/08/2013 08:44,18/08/2026 08:44
+0df9a5cf-bf60-4b11-ab57-31ca4db0f231,quantity.tv,available,68,3,8,,,
+68550afd-749b-4871-b4f9-98079b7df450,quarters.tv,available,68,6,8,,,
 0387be91-de56-469f-bd76-ef295e964b89,quartet.tv,resell,62,7,7,Dynadot Inc,13/06/2021 10:10,13/06/2026 10:10
 73865e34-4116-4700-abd7-59ce89f37148,quatern.tv,available,54,2,7,,,
 939fdbe8-377d-4a46-992f-3245ea35995c,quaternary.tv,available,46,3,10,,,
 13c857c1-dec2-4074-bc31-4930d1af16a7,quaternion.tv,available,54,6,10,,,
+2ce73b9f-983b-419b-9c21-5d241c2b4806,queens.tv,resell,62,24,6,Dynadot Inc,19/03/2010 04:07,19/03/2026 04:07
 4185c182-0e4a-4841-bda2-7521c4be4131,question.tv,available,94,14,8,,,
 c0c73764-1009-4b92-81f3-f6abfc024fc2,quickly.tv,available,68,11,7,,,
 c0ca497f-cc50-4ed3-b3ef-cc8a88d65569,quickness.tv,available,72,2,9,,,
@@ -2996,8 +3532,10 @@ ca233c29-27e1-4bf8-afab-ea5e88a2bb7f,quite.tv,available,106,8,5,,,
 51d189c8-5f0f-4393-aaa5-b041bafed15c,quitea.tv,available,68,1,7,,,
 4bc5a053-93bd-419f-9085-f6b82c23422c,quitean.tv,available,64,1,8,,,
 14e74838-d758-4df5-bf2a-c1dbafcf9890,quivive.tv,available,62,3,8,,,
+91fb0274-b297-4149-a78a-244eb4ee8afe,quote.tv,resell,100,28,5,Dynadot Inc,19/03/2010 04:26,19/03/2026 04:26
 3cd41b1a-5034-4bea-ad5c-c31c2b4e1b95,radical.tv,resell,72,33,7,1API GmbH,07/08/2011 08:01,07/08/2026 08:01
 5db57215-c69f-4e06-a0d9-b36ee47088cd,rag.tv,resell,54,18,3,Dynadot Inc,21/10/2010 06:08,21/10/2026 06:08
+bafd39fe-0f25-4ad2-8c00-4ff859d688b8,rage.tv,available,84,25,4,,,
 20d42372-ec6d-4535-8dc3-a3e2e9f0dd43,raise.tv,resell,102,24,5,1API GmbH,04/06/2012 08:01,04/06/2026 08:01
 a4c0244f-5366-47b4-b8b2-8b4e9eb16020,raised.tv,available,76,6,6,,,
 aeae7a01-c1c4-474c-8edc-6982a48ae68f,rake.tv,available,60,11,4,,,
@@ -3008,6 +3546,7 @@ dee77dd2-9657-4faf-98c9-86004098d11b,rarefy.tv,available,56,4,6,,,
 84d907b5-321f-4d50-b02a-52cf20c7b0a0,rather.tv,available,66,8,6,,,
 4cbcfab3-3d9d-4c87-9bad-f85517dbb0ef,ratter.tv,available,37,2,6,,,
 ea8cee9b-beef-4c41-a3fd-def16bdc295a,raw.tv,resell,66,31,3,"eNom, LLC",12/10/2000 18:07,12/10/2025 18:07
+3cc3ecb9-006c-4287-99a2-305713606a22,reading.tv,resell,68,24,7,Dynadot Inc,29/03/2010 23:54,29/03/2026 23:54
 7cf3257a-93d1-493d-ba74-76f7421bbb0e,real.tv,resell,78,39,4,InternetX GmbH,01/05/2000 07:00,09/04/2026 03:59
 2fa1bda1-c55f-4216-9b96-cbf47c87b7e2,realised.tv,available,71,3,8,,,
 ec38c5f4-8013-4d97-a270-c1d62df8b556,realizable.tv,available,74,1,10,,,
@@ -3020,66 +3559,95 @@ af356a6c-3a53-4dec-9218-12ceb67bdcf6,rear.tv,available,118,4,4,,,
 98d7f37c-64fd-48fb-bc97-7d96b5e2c0e6,rearward.tv,available,68,1,8,,,
 c68ab564-5a63-4ae7-b903-6380aa98c923,rearwards.tv,available,50,1,9,,,
 bdbe61fd-7184-44f5-9f05-12016063f8f7,reasonably.tv,available,58,2,10,,,
+96db5c89-31ec-48c9-9d7c-711f7d981b0a,receipts.tv,available,68,10,8,,,
 5d9fe85c-e026-44b2-b8de-3b5e99d014ec,received.tv,available,66,6,8,,,
 bc569cf8-e3e6-493c-9e63-8f6492d80e56,recently.tv,available,62,5,8,,,
+7140ce20-9cd4-4910-bdd2-d113614d2a6d,reception.tv,available,76,8,9,,,
 44ea8af2-39ce-44a8-8fad-c17206e10d9a,recession.tv,resell,62,6,9,Dynadot Inc,11/05/2022 22:34,11/05/2026 22:34
+7a86abb3-033b-4578-b32a-0dc09ea0a7dc,recipient.tv,available,80,3,9,,,
 641ac556-27a9-47ec-af32-f1d88f88d638,recognised.tv,available,78,2,10,,,
 c9df777f-20f2-4de4-9b1b-b0541abaf731,recognized.tv,available,78,3,10,,,
 2ce632fb-a13e-40f6-ab83-d89b69478409,recommend.tv,available,96,12,9,,,
 204b9f50-b0d8-40f7-ac98-2923bde7e21a,recondite.tv,available,86,4,9,,,
+70d9b1f2-0072-4bbf-bcde-86def5f105b6,recording.tv,resell,72,12,9,Dynadot Inc,21/04/2020 08:27,21/04/2026 08:27
 0cb2e0d4-76b4-44a1-9b9b-5d22335b20e9,recovering.tv,available,70,5,10,,,
+e4210f8a-2080-484c-a296-79953c16f91f,recovery.tv,resell,70,28,8,Porkbun,25/06/2010 13:52,25/06/2026 13:52
 cd95dc82-4816-48b3-bd12-ce05b956409b,recreant.tv,available,56,1,8,,,
+53cfc545-a4f7-4afb-8d2f-a5f4d5e832b1,rectangle.tv,available,80,11,9,,,
 218d9e38-cbff-46e5-8991-6da41ff4885d,rectify.tv,available,78,11,7,,,
 719646ac-8a8f-4641-9899-82765a1c5776,recumbent.tv,available,70,2,9,,,
 b27d0576-542d-486f-b04b-b23b8850a9b2,red.tv,available,80,35,3,,,
 50677c85-95a7-461a-b4f5-5d777fa26164,reddish.tv,available,68,4,7,,,
+3b26e463-2104-4e71-ba1c-ce0af5b2554d,redo.tv,resell,90,16,4,1API GmbH,22/11/2011 09:02,22/11/2026 09:02
 cfca518b-d6ac-480a-9772-eb2a08d2ed15,redpanda.tv,available,78,17,9,,,
 d3acd889-bf9b-4ec4-b538-83f49183294b,referable.tv,available,44,5,9,,,
 165e4d01-de62-4000-a40b-ee7f1712f0c0,reference.tv,available,90,13,9,,,
 35d06780-41dd-4852-a34c-ed7e3c114a6e,refreshed.tv,available,73,5,9,,,
 f305329a-4392-43cb-90cf-3cf5d263c19f,regardless.tv,available,74,4,10,,,
+6f8415b1-e79a-4841-a2df-8b5c0dd83f2c,region.tv,available,70,16,6,,,
 d413244b-e85e-4484-8826-4bbf7514fc1c,registered.tv,available,66,12,10,,,
 7954fc70-af69-443c-9477-ea9d7389c914,regular.tv,resell,106,13,7,1API GmbH,06/01/2011 09:00,06/01/2027 09:00
+03a984a7-748b-4b21-8f4a-83098b36c88f,rein.tv,available,70,16,4,,,
 fa0be53b-5ea5-43f2-8542-2b0fed31aba8,reinforced.tv,available,69,4,10,,,
 19683b80-4e67-4b7b-9d17-83c9fd39ca34,rejected.tv,available,52,4,8,,,
+2294311b-6217-4e50-9e14-57b5bf7a3d89,rejection.tv,available,58,2,9,,,
 910af8b8-d03b-450b-ab8e-c9295008ded2,relapse.tv,available,85,5,7,,,
 9aed40b1-5437-4404-978c-e06b2f8aeab0,relate.tv,resell,54,15,6,Dynadot Inc,30/08/2008 10:48,30/08/2026 10:48
 33cd8015-159e-4c2e-8cbd-b82d24c0a116,related.tv,available,70,6,7,,,
 4d5791e2-1eb1-4db0-a377-29b2a43d63df,relatedto.tv,available,64,1,10,,,
 be056cc1-216d-4700-ad57-7c91f80d7a09,relation.tv,available,70,10,8,,,
+4c606c4c-beb1-4b61-a9d2-0aad352ac813,relations.tv,available,72,9,9,,,
 1671d7da-2cf8-4b06-bfe1-461fac9f3fcd,relatively.tv,available,62,2,10,,,
 9fc3c61c-fd05-430e-9fb9-932ef203a35e,release.tv,premium,98,20,7,,,
 d4705e41-c4a8-4f43-8d3b-e7df6072459c,reliable.tv,resell,94,18,8,Dynadot Inc,27/01/2021 09:01,27/01/2026 09:01
 1cc32008-c5c3-4a13-886c-627b71f5e6df,relief.tv,available,98,16,6,,,
 c5bb29ff-f6ee-49ad-9454-c326e18b8fc1,relieved.tv,available,66,3,8,,,
+afcb0740-fef6-4180-8ca0-4fb40bca15ac,religion.tv,resell,92,15,8,"GoDaddy.com, LLC",20/01/2012 09:01,20/01/2027 09:01
+5b309d40-f664-4591-88d8-25915a41e7ff,remember.tv,available,88,22,8,,,
 e3974789-195b-484b-9450-aa4357485415,reminder.tv,available,68,12,8,,,
+dde1ddf5-5c6a-46b8-8b23-54cb9867c852,removal.tv,available,68,7,7,,,
+0075f791-4a28-4911-b6ac-76c8a583573d,remover.tv,available,66,4,7,,,
+06964dcb-bf2d-4cce-9f2b-ee87d011fac9,rep.tv,resell,62,27,3,Dynadot Inc,19/09/2011 02:58,19/09/2026 02:58
 1cc3c40a-63ea-4577-badf-aec0aa63cfc9,repeat.tv,resell,96,13,6,1API GmbH,23/10/2009 15:11,23/10/2026 15:11
 2afec5a1-ee94-4d00-a075-d4e769faa954,repeated.tv,resell,64,2,8,1API GmbH,07/06/2017 09:06,07/06/2026 09:06
 0a220f13-62cb-4e12-9305-a273b94e6e3f,reply.tv,resell,94,21,5,"TurnCommerce, Inc. DBA NameBright.com",22/01/2020 09:01,22/01/2026 09:01
+e6f2058a-c829-4c13-9a74-39fbe3d6ab71,report.tv,resell,98,26,6,Dynadot Inc,24/03/2010 01:51,24/03/2026 01:51
+02a48ab8-4f0d-4245-8896-f69f73bddac0,reporting.tv,resell,66,13,9,1API GmbH,20/04/2010 03:51,20/04/2026 03:51
+6a329df2-dcf8-43a4-bdb0-6c9a7405ee1e,represent.tv,available,72,14,9,,,
 ad4bbe1e-bbf8-4be4-81d8-99321cddc957,reproving.tv,available,66,1,9,,,
 8977c216-a7fb-4ebc-9d8f-c25c169cc10b,repugnant.tv,available,52,2,9,,,
 69a6e41e-11f6-4efa-ac46-9a346632f312,repulsive.tv,available,52,2,9,,,
 9bef959e-85c2-4e0d-97f7-e0f8f56caf3a,request.tv,available,92,23,7,,,
 d47ba660-1192-4d42-94fb-832868676688,requested.tv,available,64,4,9,,,
+ce5b5237-1884-48c4-acc0-751a8e581873,require.tv,available,76,6,7,,,
 2ba81e69-91ab-42a0-b7cf-58a739c95df2,required.tv,available,68,7,8,,,
+05517ce4-22a4-4e0a-8e97-a8cabdd1381e,research.tv,premium,92,37,8,,,
 1e7f9366-f7b5-49fb-9040-e99c0e1c6a97,resolute.tv,resell,94,16,8,"GoDaddy.com, LLC",10/09/2020 04:21,10/09/2026 04:21
+03cb14d7-60e7-4077-91ab-8f6def133056,resolution.tv,available,74,20,10,,,
 ba979067-a409-4fa7-8d9c-3ee42726aace,resolvable.tv,available,70,2,10,,,
 8cf1ac6c-5617-438f-bcf6-10c4989e3c1b,resolved.tv,available,74,8,8,,,
 97a30d2b-1f79-4842-ae71-853068da1af2,resonating.tv,available,65,3,10,,,
+3922b973-b21f-432c-bd88-814af86f9a30,resort.tv,resell,98,19,6,Dynadot Inc,26/08/2010 08:00,26/08/2026 08:00
 eac54f7b-6883-4313-a1cb-5a860d677cc5,resounding.tv,available,88,4,10,,,
 aa316c47-f8f5-4757-97b1-407a76a0fbfb,respected.tv,available,81,4,9,,,
+60e36169-1182-4436-9aa0-660f1cf4244f,respects.tv,available,76,4,8,,,
 bdf3cc46-c524-43af-ae62-1f48bf2b2c05,response.tv,available,70,20,8,,,
 3805039d-edbc-4ba5-88d5-8d22b65e4c0b,responsive.tv,available,78,15,10,,,
 15958626-46f6-49f1-937c-fd570c6f0573,rest.tv,resell,90,22,4,Dynadot Inc,20/01/2021 16:26,20/01/2026 16:26
 cc80c6e0-8abf-4d15-a16e-3076ac9bf29d,rested.tv,available,73,5,6,,,
+40b89004-665c-4047-8f48-e1db14fdc1c8,restrain.tv,available,58,2,8,,,
+3854dae8-8274-45ba-9999-52d124b168f5,restrict.tv,available,74,3,8,,,
 914c2aa5-b353-4734-8f15-44618ba75bda,restricted.tv,available,62,9,10,,,
 3aede432-030c-4cf4-92e3-95b59a3955d0,resultant.tv,available,76,3,9,,,
 40496f20-2963-4c50-ab2e-26bce36f1066,resume.tv,resell,98,26,6,Dynadot Inc,04/12/2013 09:06,04/12/2026 09:06
 fac1dabc-af50-44c5-be53-91243521b4e5,retained.tv,available,64,2,8,,,
+973006a9-b757-4b81-a978-1ca09dd809cf,retardant.tv,available,76,1,9,,,
 fd5a589a-4542-4f24-9c6c-4cd7f1a47863,reticent.tv,available,61,3,8,,,
+016d05c0-295f-4b54-9352-94c63bfe1a2d,retirement.tv,resell,76,21,10,Dynadot Inc,05/06/2017 08:03,05/06/2026 08:03
 8892177e-2b4e-4df4-b67d-02af6e2eef49,retiring.tv,available,73,4,8,,,
 f47f0b2b-4905-4aea-9b91-f0e112b5b4c3,retracted.tv,available,57,2,9,,,
 a6ac4b11-8130-4f27-b08e-ee73022b0d0a,retro.tv,available,94,33,5,,,
+83486642-300c-456d-adf9-c2d147058931,return.tv,resell,102,24,6,1API GmbH,16/04/2010 08:00,16/04/2026 08:00
 33a95f07-e594-4572-b211-47442385f447,returning.tv,available,71,5,9,,,
 8b8f4089-df48-4a11-a5dd-3b6ff872debe,revelatory.tv,available,62,2,10,,,
 56e606e9-3fc7-45f8-b032-ae15543024fc,revered.tv,available,77,4,7,,,
@@ -3093,18 +3661,23 @@ b8645781-82cd-4c9b-aeea-c5ba883bd06e,rheumatic.tv,available,68,2,9,,,
 19de729b-2d89-4a91-8b47-c2a8314d796f,rheumy.tv,available,54,1,6,,,
 b9b185a2-092e-4cfa-8c18-41f799eaca73,rhythmic.tv,available,68,7,8,,,
 4084fa04-6e0b-4732-b3a7-cf5fcbe580a0,ribald.tv,available,64,1,6,,,
+7079ba68-fccf-4da3-8399-205fc52c7ce2,ribbon.tv,available,96,14,6,,,
 bf84355e-391f-40df-ba87-7d0aeea0fb8f,rich.tv,resell,72,28,4,"NameCheap, Inc.",23/03/2010 22:55,23/03/2026 22:55
 25f95405-28f2-4f6f-af0d-d0aecd19066b,ride.tv,resell,94,30,4,Dynadot Inc,18/01/2012 09:08,18/01/2026 09:08
+dca1cf5e-8783-42af-869d-e89c922678f4,riding.tv,available,70,8,6,,,
 41fbd4ad-21e8-44cf-9141-152fb6aa750f,rigid.tv,available,82,8,5,,,
 340b16b1-8000-4281-9ea9-50294694a867,rigorous.tv,available,65,3,8,,,
+341cf23a-9336-4955-aba7-19a92994ce0d,rile.tv,available,64,5,4,,,
 b1736812-44b3-4622-b84d-4f7e54c8c387,riled.tv,available,44,2,5,,,
 c4647dd9-c737-408b-a080-df155fc24895,ringed.tv,available,60,3,6,,,
 bf54e675-163a-4fed-ac28-f0d58b689d5e,ripening.tv,available,64,2,8,,,
 9cf51712-5723-4dcd-80d6-880a13c76cea,risen.tv,resell,67,13,5,"GoDaddy.com, LLC",03/02/2012 15:47,03/02/2026 15:47
 e08a8de6-e263-4ae5-ad90-6bbacf1351ed,risk.tv,resell,62,27,4,1API GmbH,18/03/2010 17:05,18/03/2026 17:05
+0e0dfaaa-8bb3-433a-a1b5-4ad9d515100f,river.tv,available,72,37,5,,,
 09710468-bc22-42ea-8900-3820a8e1a06d,riveravon.tv,available,70,1,10,,,
 17429c4e-2f6b-4562-8628-7c1858fee8ee,riveting.tv,available,90,6,8,,,
 16777649-24f4-4155-a258-527a27cb55a2,riyadh.tv,resell,68,17,6,Dynadot Inc,26/10/2003 14:11,26/10/2026 12:11
+03783366-8537-43cc-894b-5179331a5b97,roads.tv,available,80,12,5,,,
 f5922c29-810a-42ba-b057-b18bf518f2b5,roast.tv,resell,107,17,5,1API GmbH,11/05/2010 08:00,11/05/2026 08:00
 554ea4e7-9200-474d-81d2-18293de4d169,roasted.tv,available,69,7,7,,,
 1d47667f-5154-4614-9370-2a4f50e4b7ff,robed.tv,available,52,3,5,,,
@@ -3113,15 +3686,20 @@ d0777035-3a52-4db1-9fb9-659f7e6a5a41,rock.tv,resell,58,27,4,Dynadot Inc,10/10/20
 3366c695-c826-4e2b-9fc6-87c2f5c7cc1b,rocky.tv,resell,64,23,5,Dynadot12 LLC,06/02/2020 09:00,06/02/2026 09:00
 a1980c7b-9345-4dbd-8e4d-29caa3f840ac,rodshaped.tv,available,42,1,10,,,
 26289ae9-26bf-4ad2-829b-1181e9930b06,roiled.tv,available,44,2,6,,,
+ed5d0867-fe1f-429b-8b42-b3ce9bb2ac10,roller.tv,resell,70,16,6,"GoDaddy.com, LLC",08/06/2016 05:34,08/06/2026 05:34
 60bb0f85-76aa-4108-a0e4-f70e24977164,rolling.tv,available,63,14,7,,,
 6e979bb7-a5da-407b-97c2-d9bc0cf1f02d,romantic.tv,resell,74,10,8,Dynadot Inc,24/05/2010 16:23,24/05/2026 16:23
+253d864c-e247-4754-8be3-20b53f4b323b,roof.tv,resell,60,31,4,"GoDaddy.com, LLC",19/03/2010 06:56,19/03/2026 06:56
 9364fa16-e2c1-40a3-8eb8-64a961b83381,roomy.tv,available,89,6,5,,,
+785e2fee-56e3-4454-924d-ddb6cb173dba,roots.tv,resell,74,29,5,"Name.com, Inc.",04/04/2010 06:51,04/04/2026 06:51
 fdd36865-29a4-4e47-91d6-daddb9d73aa8,rose.tv,available,90,32,4,,,
 9e8315b3-77f7-4811-aa0c-ae75dc6e8208,rotated.tv,available,65,1,7,,,
+e6a14b68-0a73-4cd9-9ff2-d970294ec925,rotation.tv,available,67,8,8,,,
 9aef58b9-d848-4f50-85dd-0a57b963f995,rough.tv,resell,52,9,5,1API GmbH,25/01/2013 09:04,25/01/2026 09:04
 5fc6efdf-6329-4235-99c3-0b171a1157d4,roughly.tv,available,62,3,7,,,
 dec1e9db-3224-422b-9b47-58948b3d5a44,roughshod.tv,available,40,1,9,,,
 b1c06321-09ae-4c5a-a9f3-b1645cc7e613,routine.tv,available,90,13,7,,,
+65cf76cf-7850-4581-b87e-b1f5efaa8414,royalblue.tv,available,76,6,10,,,
 6b20b60f-17dd-497b-abaf-d18445039609,rubber.tv,available,105,14,6,,,
 387dedfb-bef6-48c0-9567-cc8394f89b56,rudderless.tv,available,50,2,10,,,
 716d2222-fe36-4bef-969e-3a225f1d0aca,rude.tv,resell,68,14,4,Epik LLC,18/03/2010 16:54,18/03/2026 16:54
@@ -3135,29 +3713,43 @@ b5b0d4f7-01d0-4b07-a94e-533d3f8a341f,rushing.tv,available,62,4,7,,,
 b32caf90-0105-4452-8efc-022f0c728472,sacked.tv,available,56,3,6,,,
 dbd8d51e-5dfd-49ba-a12d-8f1cfea522ea,sad.tv,available,72,21,3,,,
 8824611d-2076-458a-8c7e-71fedca7897b,saddle.tv,resell,96,8,6,Dynadot Inc,24/07/2022 05:20,24/07/2026 05:20
+c1f46494-f166-4fb9-a409-096229793817,sadness.tv,available,64,6,7,,,
 d0e71fce-eff2-4eb0-940b-9e482b45116e,sagittate.tv,available,43,1,9,,,
 6fdc9cf9-b893-4cd3-9301-be4b75973ab2,saint.tv,available,80,21,5,,,
 2d0edb04-80b8-46f9-952a-16e9b8706c0f,sainted.tv,available,70,5,7,,,
 cb9760ca-8bb9-454f-8ded-7f16c64641b6,saintlike.tv,available,66,2,9,,,
 2443167d-f845-480f-a4e8-3d603dd93c5b,saintly.tv,available,70,7,7,,,
+202a9bf4-8102-4cae-8978-0c4f528d7683,salary.tv,available,102,16,6,,,
 f29d729b-9a4d-432d-926a-f0268d3bd1e9,salientian.tv,available,61,1,10,,,
+9ac4aedd-30ce-4a96-ad39-94e878fe8c69,sam.tv,available,90,49,3,,,
 ef0cea9b-37ea-4401-b30b-5baa435261cd,same.tv,resell,76,18,4,"eNom, LLC",13/10/2005 00:18,13/10/2026 00:18
 0ec242a9-e857-414e-afdc-69440113f713,sanative.tv,available,80,2,8,,,
 b5b6693c-bd39-4849-8306-c0f825f0b283,sanctioned.tv,available,52,4,10,,,
 8efd90ea-9c39-476a-b4b4-0b05b57c3dd8,sandlike.tv,available,46,1,8,,,
+16f2a968-0d8d-449f-b523-aa2f5d27180d,sandwich.tv,resell,72,21,8,Dynadot Inc,26/08/2010 15:18,26/08/2026 15:18
 22efdbce-ba72-441e-a3e1-29afb5cce493,sandy.tv,available,76,16,5,,,
 242075fc-2bda-49e5-bdee-c3274990d816,sanmarino.tv,resell,72,3,10,Dynadot Inc,03/03/2010 20:07,03/03/2026 20:07
 3005f0bc-3a0e-4148-8408-92cd2bde5cb6,satan.tv,available,66,22,5,,,
 7431644c-5c21-46e5-ae86-c3c80bb98e06,satanic.tv,available,48,10,7,,,
 16de9bcc-ff74-4b8e-bb31-19d6db27b366,satisfied.tv,available,76,4,9,,,
+41f192d9-66fa-4b27-98a2-0772e4b1f679,saucepan.tv,available,90,4,8,,,
+1ba064b0-cd94-4b8a-8859-71a4f4e678c8,saucer.tv,available,96,5,6,,,
+72589bf3-5be9-40be-a438-48277fe3c62f,sauna.tv,available,94,28,5,,,
+7376ba4f-3f31-4c82-b311-7a5a4e1260df,sausage.tv,available,94,11,7,,,
 33a3ebaf-f28b-4c23-b31a-91ff06da089c,saved.tv,resell,76,13,5,Dynadot Inc,22/03/2011 08:00,22/03/2026 08:00
 a49cca69-e49e-49c4-8f3c-03b84373354a,saving.tv,available,98,14,6,,,
+fd935446-ed5a-4941-ab5d-f7c85901425e,savings.tv,resell,74,18,7,Dynadot Inc,19/03/2010 04:26,19/03/2026 04:26
+e04f0efe-7511-4da7-a8c7-b0ed5c308a92,say.tv,available,68,23,3,,,
+3be9c17d-7668-449c-8f90-c0ddb6f2c26a,scale.tv,resell,96,42,5,Dynadot Inc,26/06/2015 19:04,26/06/2026 19:04
 79f1261d-1555-40e2-809c-b70aad84266f,scan.tv,resell,90,36,4,Mesh Digital Limited,06/06/2012 08:02,06/06/2026 08:02
+ac36171e-87b9-4b46-a8f5-f1c71327302d,scandal.tv,available,64,7,7,,,
 27a905f9-6dcb-4f8a-a290-501ae4767407,scatty.tv,available,64,1,6,,,
 e4e5d0b6-188e-4cc2-95cc-2128f3cce711,scented.tv,available,73,4,7,,,
 2b75b504-6df5-4c7b-94e7-bec928a5ae7f,scheduled.tv,available,84,5,9,,,
+86cca980-ccd9-40a5-a692-2b17cb7f7946,scheme.tv,available,66,12,6,,,
 e27f3e31-4828-4c34-8b80-4b89e6f0156f,schmaltzy.tv,available,42,1,9,,,
 a751b08a-58e2-4c53-bac9-5673de45fddf,schmalzy.tv,available,42,1,8,,,
+3bfcea75-505d-4243-9bde-93f0e8e5260d,school.tv,resell,102,33,6,Dynadot Inc,01/07/2016 08:12,01/07/2027 08:12
 5f03c05e-57a5-4eb7-a0df-e47dc0809441,score.tv,resell,120,28,5,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 abc1c10f-9a19-4d62-83ac-5ebc8bc12934,scornful.tv,available,50,1,8,,,
 6ad24eba-13d7-4524-b2e4-111e888b4392,scowling.tv,available,44,1,8,,,
@@ -3167,13 +3759,19 @@ cad31669-a198-48ea-9b66-d452c9e274ec,scrubbed.tv,available,60,4,8,,,
 66479169-5d75-4a36-8f53-08eb66312f09,scummy.tv,available,50,2,6,,,
 5529b565-a99c-489c-80d9-470d5ce80dfc,scurrilous.tv,available,40,2,10,,,
 a7920223-1a85-4c66-87f1-512d8f247d10,scurvy.tv,available,68,3,6,,,
+2a1fe52e-c54c-4954-8004-8af58b4963fe,seafood.tv,resell,86,13,7,Dynadot Inc,09/07/2013 08:06,09/07/2027 08:06
+d6b65c18-d6b6-4147-8e77-93121cf84c4d,seagull.tv,resell,74,12,7,Dynadot Inc,23/02/2019 08:07,23/02/2026 08:07
 46472535-c1f0-4b1a-bc39-0a47b26ba989,sealed.tv,available,64,9,6,,,
 9c4103c0-8c44-49eb-98d9-c32b0c564598,searching.tv,available,84,9,9,,,
 17b85351-2eb2-475e-b534-3fbcb3c85ce3,seasonably.tv,available,44,1,10,,,
 4972d15a-ff6e-4261-be23-ebbf3b52a10c,seated.tv,available,74,5,6,,,
+0dd88d0c-bfe4-4bbe-9f34-4acd4e48d31d,seats.tv,available,74,11,5,,,
+2c94203a-372d-4156-9429-cc7fa73a741a,seattle.tv,resell,70,24,7,Dynadot Inc,02/01/2015 09:12,02/01/2027 09:12
 30a534c4-cb21-43d3-b8e3-b9097e649c31,secondary.tv,resell,78,12,9,Dynadot Inc,05/11/2010 10:52,05/11/2026 11:52
 af9f732f-6ecc-4bf7-b91d-633b4e4f117a,secondly.tv,available,54,3,8,,,
 a351dbe3-7373-4c5e-997d-7aa326e27b9f,secret.tv,available,112,33,6,,,
+32ad7cf5-5b4a-4b1f-b925-99e67f8410be,section.tv,available,94,10,7,,,
+7ce139a1-9bb9-4031-b6a2-e75faf8089fd,security.tv,resell,70,44,8,Dynadot Inc,05/06/2017 14:38,05/06/2026 14:38
 a4c73431-173a-4b39-8e62-e9b587c5ea62,sedative.tv,available,76,1,8,,,
 c6a05943-b19b-4a0d-8577-58afdf8a6332,sedulous.tv,available,50,3,8,,,
 1dd2278b-a28d-420f-a946-021593982e35,seedy.tv,resell,56,5,5,"GoDaddy.com, LLC",18/02/2007 03:16,18/02/2026 03:16
@@ -3183,28 +3781,40 @@ c6a05943-b19b-4a0d-8577-58afdf8a6332,sedulous.tv,available,50,3,8,,,
 5b1f72c7-204c-43cc-ab65-636252ab969d,selected.tv,available,68,12,8,,,
 93c6b0ff-0415-421f-af61-7c30e57690a5,self.tv,resell,64,43,4,Dynadot Inc,18/03/2010 20:15,18/03/2027 20:15
 d5561dec-1697-4985-8b4f-c8b90a94bc87,selfish.tv,available,56,10,7,,,
+d92bea04-c6e3-4b9b-aeb3-4615759a315c,selfworth.tv,available,78,4,10,,,
+b212115a-3552-4e0c-8802-913f701dec7e,sell.tv,resell,70,34,4,Dynadot Inc,18/03/2010 14:22,18/03/2026 14:22
 7cc1777f-f4e9-4992-8946-99fd56a6bd86,senescent.tv,available,52,3,9,,,
 4e1697f0-12d0-42b4-8440-07a99a292915,senior.tv,resell,70,23,6,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
 ea6d98fd-0acd-4a76-8955-1e6459180b98,sensation.tv,available,74,7,9,,,
+80393475-d06e-4877-b1f4-e97d0c13989b,sensing.tv,available,64,7,7,,,
 45d69362-c642-4fae-ad4b-1b5558eabdf2,sensitive.tv,available,84,8,9,,,
 fc153da2-13b9-4020-9754-859b14eee517,sensory.tv,available,88,11,7,,,
 4a30f0b9-d6cd-4561-a770-feb56777abf8,sensual.tv,resell,68,9,7,Dynadot Inc,05/04/2010 08:17,05/04/2026 08:17
+111c280b-6b1e-485e-928c-5eea28ecb7d1,sentence.tv,available,88,7,8,,,
 8ccdcaef-97bc-4c14-b00b-c80ccc100652,seoul.tv,resell,74,21,5,"GoDaddy.com, LLC",27/01/2008 09:00,27/01/2027 09:00
 403fb6ca-7738-4a97-9a03-326d43749e5e,separate.tv,available,98,5,8,,,
+d2920363-978a-453a-b807-f983b1341821,separation.tv,available,68,6,10,,,
+051348b6-df3d-4ed6-99ed-52b09a0b7a79,september.tv,available,72,13,9,,,
 c768c6c4-1d2d-4141-a1ff-9c5f0cc1c4f8,septenary.tv,available,68,2,9,,,
 862cca09-808a-4cb2-9de2-51137bed07fa,septet.tv,available,53,2,6,,,
 6c75fe61-0b10-4b57-a362-71f15a3afe89,sequent.tv,available,80,7,7,,,
 3863e0d4-cc70-4a6f-aef5-53b0321271c6,series.tv,resell,74,15,6,"eNom, LLC",16/05/2005 19:17,16/05/2027 19:17
 d382761d-3ab8-4d70-b082-a432620e0daa,serious.tv,available,80,21,7,,,
+fb4c9557-9642-4852-bed0-50a0028b2d20,serve.tv,available,102,24,5,,,
+9c31a170-b9a1-4fb1-baf8-59e822fbcfb0,server.tv,resell,64,39,6,Dynadot Inc,06/07/2008 08:00,06/07/2026 08:00
+5ea27a46-f440-4503-a017-0fbb0f37d2df,serveup.tv,available,74,4,8,,,
+18ce245d-0131-40ee-ad8f-51e33183645b,services.tv,available,72,24,8,,,
 6f16291b-b003-4926-a380-f4da4275c442,session.tv,resell,72,20,7,1API GmbH,11/05/2008 08:00,11/05/2026 08:00
 04598f3f-6972-4899-bad6-8ae34b8a153f,sestet.tv,available,53,1,6,,,
 ef443247-0051-43b9-be32-85c4f2ebb15e,setaceous.tv,available,42,1,9,,,
 36dfa921-18c7-427e-9a54-55a082a943a5,setaside.tv,available,54,2,9,,,
 afb30323-fc97-4ff2-9236-80f0287f04af,setose.tv,available,46,1,6,,,
+8c15db40-c4c0-468c-9ebf-b308f31bfe17,setting.tv,available,84,6,7,,,
 98f0b78a-33fe-4487-bac4-bb6bb5cdafc9,setup.tv,available,76,24,6,,,
 285fb83b-8cf6-4745-9e2b-5f71c42fed27,sevener.tv,available,68,1,7,,,
 fa0756f2-37bf-4198-8d6a-fca41e730b9c,seventieth.tv,available,72,1,10,,,
 05dee90e-d49d-497e-acad-b2ddd64b3158,seventy.tv,available,58,7,7,,,
+620cf87c-b017-4af9-8ad0-de608589308e,sevenup.tv,available,72,2,8,,,
 7d4e419e-a8e9-4396-9886-8c2fee6e9475,severe.tv,available,56,4,6,,,
 b3f410a0-07eb-4808-bf26-7620a717cc5a,severely.tv,available,51,1,8,,,
 7413cf0b-889f-4343-b7a0-06931320cf64,sextet.tv,available,66,2,6,,,
@@ -3213,22 +3823,35 @@ f8f40dc3-a05c-4138-80ee-d9c312382f27,sexual.tv,resell,82,12,6,Dynadot Inc,24/03/
 432dd536-d4bd-46fa-901c-c53b70db9325,shaft.tv,available,88,7,5,,,
 0b6e3df3-11d2-48f9-881c-0a3ccd4a7558,shaky.tv,available,61,6,5,,,
 6b7cfc65-8b20-4112-8e1c-299e7cffebc6,shallow.tv,available,54,5,7,,,
+02e09833-37e6-48fd-9ca2-bd8d64f2d403,shame.tv,available,110,10,5,,,
 a1bb9822-1c9a-4276-a45d-9df7b3092349,shape.tv,resell,102,27,5,Dynadot Inc,12/10/2000 18:08,12/10/2026 18:08
 b86d9886-b5f7-4926-a86e-bd75bd328f06,shapeless.tv,available,50,6,9,,,
 4176c55c-a3c6-4c1a-be67-ea67eeaa10a3,shared.tv,resell,70,38,6,1API GmbH,30/01/2006 09:19,30/01/2027 09:19
 865a66b3-6a4f-47be-b75a-8f8d0603117e,sharing.tv,resell,76,22,7,Dynadot Inc,04/10/2009 03:41,04/10/2026 03:41
 62d28677-b561-4be0-b8f8-f72dbc8bda3c,sharpeyed.tv,available,46,1,10,,,
 fa40df81-eedc-4851-a74c-e8cdd79d6875,sharply.tv,available,58,3,7,,,
+0f77f1dd-44b3-42d4-96d1-df965dc31294,shear.tv,available,58,8,5,,,
+10a1dfa9-f298-4d3a-bae3-905971142ab6,shears.tv,available,66,4,6,,,
 91c5b637-7ca2-4855-b78d-b0f6d99a2cd0,sheer.tv,resell,70,10,5,Dynadot Inc,20/02/2010 00:16,20/02/2026 00:16
+d37e927a-2b09-4674-8d52-7eafc4001afe,shelf.tv,available,74,16,5,,,
+5e07e32b-1784-42a0-bd0a-c853291c41a4,shelter.tv,available,94,23,7,,,
+777acca2-aa24-42b7-bdef-7b7b6fdfe717,sheraton.tv,available,52,12,8,,,
 69a7490b-476c-40fd-8889-93d3be9a8fde,shifting.tv,available,68,5,8,,,
+1ccfb3db-63a5-4230-8e28-92e79dcdaa62,shirt.tv,available,90,18,5,,,
 634005be-bcb0-4857-8e0f-848b0e91ca8d,shoe.tv,available,72,19,4,,,
 3f09b1f9-a2f8-4d50-9a4c-86d3cabe4331,shoeless.tv,available,50,3,8,,,
+1c464ef2-0b9a-4e55-9298-155ebae02819,shoes.tv,resell,80,19,5,"Name.com, Inc.",07/08/2007 19:10,07/08/2026 19:10
 4ab06702-5383-432a-856a-1b118a01e1f4,shooting.tv,available,66,10,8,,,
 f9c9cc7d-aa4b-41a3-9326-7f94cb39370c,shop.tv,resell,78,42,4,"eNom, LLC",16/05/2001 07:00,09/10/2026 07:00
 be02ec32-3d89-4477-bd13-c4b16e57947a,shopworn.tv,available,38,2,8,,,
 7d30e4b4-7a3e-4629-892e-bd54e5f6b907,short.tv,resell,76,27,5,Dynadot Inc,28/09/2014 06:39,28/09/2027 06:39
+5307bee3-5e77-4d93-af3b-e43a64f8d65d,shortfall.tv,available,66,2,9,,,
 4e772350-304a-4f8d-b9bf-2b726477aebd,shot.tv,resell,116,18,4,Dynadot Inc,18/03/2010 16:39,18/03/2026 16:39
+3af0d54e-cc5f-4c6f-a662-9190aa3b2542,shout.tv,resell,92,16,5,Dynadot Inc,13/08/2010 00:05,13/08/2026 00:05
 5e9f89d1-8c6b-441c-ac60-a49fdb36a4f3,shouted.tv,available,66,2,7,,,
+ae06a21d-3319-4cea-9b4f-d9fa4c921bce,shoutout.tv,resell,68,13,9,Dynadot Inc,17/09/2016 04:31,17/09/2026 04:31
+33e2746e-59b9-41a5-982a-2d454be977f6,shove.tv,available,82,5,5,,,
+9ad0b4b4-724c-41cc-96ce-340b311e0470,showcase.tv,available,96,25,8,,,
 dbc754d1-07eb-4171-a27b-abbe27b1de19,shrewd.tv,available,66,5,6,,,
 33f2d7b5-d297-4f76-b24a-afd977e8fadb,shrub.tv,available,62,7,5,,,
 ac8ac2ee-10bf-46ce-aa7e-b84ef259e4a5,siberian.tv,available,74,8,8,,,
@@ -3248,10 +3871,13 @@ e29f6b9d-8003-4ec6-898c-607033259555,similarly.tv,available,56,2,9,,,
 132e014c-c553-4904-a35a-11314dc56790,simplicity.tv,resell,80,21,10,"Spaceship, Inc.",17/11/2013 09:01,17/11/2026 09:01
 85b04bf1-633b-418a-afde-536bdf1cbfbc,sincere.tv,resell,72,18,7,"GoDaddy.com, LLC",07/02/2004 19:24,07/02/2026 19:24
 449eccb4-b0ef-4108-aa62-774a3b1da787,sincerely.tv,available,66,9,9,,,
+6913a2a2-dd2c-42c4-92c5-d3e0d31e1ef6,sing.tv,resell,78,20,4,1API GmbH,18/03/2010 18:27,18/03/2026 18:27
 f14945d2-0f76-4710-83f7-c3ee6982d78b,singapore.tv,resell,76,5,9,Dynadot Inc,25/12/2013 09:04,25/12/2027 09:04
 5deec5b7-9bac-4702-9035-60cdd11781ca,single.tv,resell,74,16,6,"Name.com, Inc.",25/03/2010 01:26,25/03/2026 01:26
 93624fbf-2c04-4ccb-9c64-d78d3a3ecdd9,sink.tv,available,56,11,4,,,
 a9bb1df0-c83c-42f2-9d1d-4b6573c2dccb,sise.tv,available,54,5,4,,,
+2bf59c97-fbbe-4786-a805-64f19e9488c9,sit.tv,available,74,21,3,,,
+c802ff26-d78e-4045-92a6-7c0e018f7ec2,sitdown.tv,available,66,5,8,,,
 7f331624-75fa-4d73-826b-1ba7785fb5cf,sitting.tv,available,84,4,7,,,
 7b94b1cd-59df-40c0-baca-97f3f844f5c3,situated.tv,available,58,2,8,,,
 1e76e56c-5701-43af-8fb0-2cd77458a8e7,sixer.tv,resell,58,5,5,"GoDaddy.com, LLC",12/05/2006 22:22,12/05/2027 22:22
@@ -3269,6 +3895,7 @@ bde2803e-22f2-4322-834d-0fe48fab0f45,size.tv,available,96,17,4,,,
 a525575e-87b4-4e4a-9f57-345fb0d82b8d,skewwhiff.tv,available,44,1,10,,,
 5af5c8bd-7098-45a7-8c6c-ecb5aff7459b,skilful.tv,available,74,3,7,,,
 c07b332d-656c-4a56-a2c7-449778eab342,skilled.tv,resell,74,11,7,Epik LLC,16/05/2010 22:59,16/05/2026 22:59
+6a360491-b15b-4844-b10c-db50103fe3b5,slacking.tv,available,58,2,8,,,
 1a00fa38-4010-45fa-86be-4bee1174616f,slanting.tv,available,62,2,8,,,
 c5ce542a-81f2-4deb-a98a-a6b8a82f3ae0,slapup.tv,available,58,1,7,,,
 fb849513-cdc4-4731-a6f2-b74c0250a78b,sleeping.tv,available,86,9,8,,,
@@ -3290,6 +3917,11 @@ f0cbad24-17a4-4524-9463-1b63690f9256,slowness.tv,available,64,2,8,,,
 da984c76-955d-48ea-99f1-a0f5ad59f9e1,smiling.tv,available,98,11,7,,,
 298db468-b81e-493a-914e-0b2765b1be1a,smooth.tv,resell,122,21,6,Dynadot Inc,16/09/2011 02:32,16/09/2026 02:32
 4b8f5f8d-a3cb-4c1c-a316-3d690a793646,smuggled.tv,available,56,1,8,,,
+4a87117f-d3c3-43c3-b90e-418b6e6e4695,sneeze.tv,available,86,5,6,,,
+fd598e0a-1ffc-481c-a29d-4b4ad42d4650,sneezing.tv,available,60,3,8,,,
+792116a4-afb6-484b-80c9-67244c6af6c1,snicker.tv,available,86,4,7,,,
+7f4aa7a9-42a0-4252-afeb-5847049bdb61,snore.tv,resell,82,6,5,"Wild West Domains, Inc.",21/07/2015 05:21,21/07/2026 05:21
+cbe0d1b9-bad0-4f89-91ef-14432020bf33,soap.tv,available,88,21,4,,,
 22cdf869-9130-4978-bb4f-177e624362c6,soccer.tv,resell,100,28,6,"eNom, LLC",21/02/2001 08:00,21/02/2027 08:00
 cba9bb1f-917f-4c8e-b11e-86b351967c59,sodawater.tv,available,70,3,10,,,
 f8190d10-d8f4-4171-8c30-7999e97680be,soft.tv,resell,124,28,4,Dynadot Inc,26/02/2006 13:55,26/02/2026 13:55
@@ -3298,6 +3930,7 @@ f8190d10-d8f4-4171-8c30-7999e97680be,soft.tv,resell,124,28,4,Dynadot Inc,26/02/2
 963c014b-1b93-408a-b2d0-f879e54e1209,solely.tv,available,62,3,6,,,
 df4f085e-71db-472e-9c5e-a3dc9122692c,solicit.tv,available,91,4,7,,,
 b3751e27-5570-4c9c-846e-3493d0a56cce,solong.tv,available,64,4,7,,,
+6e254c39-ede8-468d-9c92-8d401ed334e9,solution.tv,available,86,27,8,,,
 786a4720-00ea-48fd-8e1f-69e1d38cab97,solvable.tv,available,71,5,8,,,
 6f4ab650-726b-4317-ba1d-2bf8f3d9e1af,somebody.tv,available,88,11,8,,,
 31a956b4-edcd-4191-bd29-4b4e936f2839,somehow.tv,available,62,5,7,,,
@@ -3319,10 +3952,17 @@ ee1751ea-7b67-40ac-a036-3549f4e8caca,soupy.tv,available,48,5,5,,,
 1504e1c8-0c95-4d0f-8d55-aacd7eedf5c9,southern.tv,resell,78,17,8,Dynadot Inc,23/03/2017 13:33,23/03/2026 13:33
 ad8ad8ba-a180-4269-b725-b391ee1d14ed,spacious.tv,available,67,7,8,,,
 4baa6992-a044-4f7f-8712-21dd4cc50559,spanish.tv,resell,68,13,7,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
+2d797d7d-fdb6-4c5d-b079-ee0065e3f273,speak.tv,resell,98,27,5,"GoDaddy.com, LLC",18/01/2021 01:01,18/01/2026 01:01
+29998f60-883f-421d-b0ce-d9c0967d6f82,speaker.tv,resell,84,18,7,Dynadot Inc,19/03/2010 04:47,19/03/2027 04:47
 eafc408c-64d0-4cfe-a543-8e4d5cefc262,special.tv,resell,124,21,7,"GoDaddy.com, LLC",19/05/2012 15:36,19/05/2031 15:36
 266b780c-d998-4559-89de-2ed0c5a5f318,specially.tv,available,58,2,9,,,
 3ee22ac7-8f95-4a10-bd83-150008e8293a,specific.tv,available,82,8,8,,,
+9840e8a3-2c44-4129-8175-3444f751e6c2,speculate.tv,available,70,4,9,,,
+1aa6083c-71b8-4d80-809c-af05dc228509,sperm.tv,available,90,9,5,,,
+e0759f08-9265-44e7-91f8-d1031ddc34c1,spermcell.tv,available,62,1,10,,,
+a76a3237-cdfa-4c5f-8317-99c1efdcb9ec,spf.tv,available,98,16,3,,,
 1f1a9eed-ccf1-4405-9094-8196f9dfc55a,spherical.tv,available,60,10,9,,,
+d3d77b06-9060-4811-a95a-5222a5f2892b,spiceup.tv,available,72,7,8,,,
 dfaed8b3-b82b-4eb6-814f-8482a807cc91,spicy.tv,resell,81,23,5,"GoDaddy.com, LLC",21/04/2010 07:14,21/04/2026 07:14
 c2fc58ef-8ded-4003-a8c4-094f55464e0e,spiderlike.tv,available,56,1,10,,,
 82791b76-144a-45ae-bee8-0ec5f16a8f07,spiderly.tv,available,56,2,8,,,
@@ -3336,10 +3976,13 @@ e4fb0952-ae27-406d-b167-bd1df48ffd9d,split.tv,resell,46,25,5,Dynadot Inc,19/03/2
 710495fc-a099-4d9f-9437-0ae8acafdccb,sport.tv,resell,70,28,5,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
 f9cdcca4-c754-472e-89a1-f84c326f2c73,spry.tv,available,64,13,4,,,
 04009934-bec7-49e9-8a4a-97549a9afd3d,spurious.tv,available,52,3,8,,,
+804c6681-f35b-43a3-8dca-e7c8e6399e51,squall.tv,available,80,6,6,,,
 e6732420-61d8-4b23-926e-e9fef85cf096,squint.tv,available,72,6,6,,,
 78fe5ca6-286d-416c-a34d-aaa2914dbf2f,squinty.tv,available,48,2,7,,,
+01adbe8a-4745-4e8f-ab6c-169c1bbf2aae,stability.tv,available,74,14,9,,,
 a54f90e1-8c97-47f9-b5a5-ad8a123d667a,stable.tv,resell,104,31,6,"Name.com, Inc.",10/04/2017 09:06,10/04/2026 09:06
 a1760958-dd85-47df-9b98-ca7647b46b23,stain.tv,available,82,7,5,,,
+5ff06b26-af1f-40ec-9b0e-d46fdc2ef70f,stairs.tv,resell,64,10,6,"Global Domains International, Inc. DBA DomainCostClub.com",27/08/2014 20:14,27/08/2026 20:14
 1c09ca28-654f-4a9c-bddd-68675d47e58c,stallion.tv,resell,76,12,8,"Spaceship, Inc.",22/04/2025 04:42,22/04/2026 04:42
 fbfc236a-da60-4514-ae48-e988a21d1491,staminate.tv,available,56,1,9,,,
 814992bf-9af6-409a-975f-32ad11f0ec80,stamp.tv,resell,64,19,5,Epik LLC,23/09/2010 23:51,23/09/2026 23:51
@@ -3349,14 +3992,20 @@ fbfc236a-da60-4514-ae48-e988a21d1491,staminate.tv,available,56,1,9,,,
 2ad330c5-6cda-44d2-a8cc-b8bb43f8a17e,staring.tv,available,64,4,7,,,
 de0dfb6d-5f13-4574-b733-0404861b3c84,starred.tv,available,48,5,7,,,
 ac3dcd17-4ee6-4eb4-9151-539b8930bac5,starting.tv,available,64,9,8,,,
+6d00d5e6-9c3e-4e2c-acfd-7025da336239,startup.tv,resell,82,46,7,"NameCheap, Inc.",19/03/2010 04:03,19/03/2026 04:03
 ac289f1e-a3ad-44dd-9776-e732748d1cbd,state.tv,resell,90,18,5,"GoDaddy.com, LLC",30/05/2010 00:58,30/05/2026 00:58
 c714c5b2-1578-4ab4-aa96-11bb2b202769,stately.tv,available,72,6,7,,,
 03954aa7-d1ae-4a94-abb0-1232af670578,statement.tv,available,98,17,9,,,
+63d5af02-10de-4c68-948d-86bc6f0cfcfd,stations.tv,available,62,6,8,,,
+cf1d50c7-d43b-429e-afef-fe4b429a2278,status.tv,available,76,38,6,,,
 c05c270c-f164-468f-a5b1-5e2329f7f85a,stay.tv,resell,62,27,4,Dynadot Inc,20/10/2003 09:22,20/10/2027 09:22
 55267920-9915-4f75-a34a-23dffa07191a,steamed.tv,available,49,3,7,,,
+60422ab0-39cd-45ba-9dd6-1fbb45490086,steer.tv,available,64,11,5,,,
 5bc058bc-48e8-4216-bcef-eefa7318a46c,stellar.tv,available,78,39,7,,,
 97c9527e-5cad-4c3b-8812-cfc6c7f099af,stemless.tv,available,46,1,8,,,
+d1999ea9-2eb3-4b49-a4a0-3f257ad668a8,steps.tv,available,70,19,5,,,
 4da60f00-d5ae-43fb-8e7f-070be1158d08,sterile.tv,available,68,5,7,,,
+3c893cf8-5f57-45a2-976c-be356e498ea2,stewart.tv,available,64,20,7,,,
 c55a7147-93eb-4870-9edd-8008150c7eaf,stick.tv,available,80,16,5,,,
 d83fa322-cf35-4f15-ba0b-937232bde7ce,stigmatic.tv,available,64,1,9,,,
 88a8e0c0-47da-40f4-9985-ce41edb40e0d,stillborn.tv,available,70,2,9,,,
@@ -3370,11 +4019,13 @@ bcb13047-7b25-4f9e-8ab2-b97e474a6f9f,strained.tv,available,61,2,8,,,
 00800dd9-699e-4ca3-98d0-49d319cd2db4,strapping.tv,available,62,2,9,,,
 e3ef9a97-fc45-47b8-b622-45e5f54c8e9d,strategic.tv,resell,70,24,9,"GoDaddy.com, LLC",17/04/2018 22:47,17/04/2026 22:47
 4134a243-773c-4940-9ce3-3b31beeb7c3c,stratified.tv,available,45,4,10,,,
+70729c74-aa9d-46e1-99d0-8dd37b96ac51,strawberry.tv,resell,70,25,10,Epik LLC,13/09/2010 17:41,13/09/2026 17:41
 e2da92bd-f6b6-44c9-894f-d6a7c7b671d1,stretch.tv,resell,100,21,7,1API GmbH,22/01/2022 09:29,22/01/2027 09:29
 24d0389f-b408-407d-84e4-0ee78220d265,stricken.tv,available,54,3,8,,,
 14254bbc-387e-4f71-a12c-4ae048eb3d4f,stripling.tv,available,46,3,9,,,
 e5b9f3d4-6612-479d-8396-9c737279b524,strongly.tv,available,64,3,8,,,
 3fe39801-d840-40ac-ae9f-554f5de5143d,structure.tv,available,94,18,9,,,
+0b98080d-f61a-4e9e-922f-02c5b26ae4e4,struggle.tv,available,82,7,8,,,
 2eedd72d-082b-4b49-8cd3-643e44307e94,stubborn.tv,available,76,6,8,,,
 645218d9-c007-4bc2-90bd-fd9072089225,student.tv,resell,78,32,7,Dynadot Inc,05/11/2011 08:02,05/11/2026 09:02
 08f02a31-882f-4b1e-8ecc-47adceff4dfd,stuffy.tv,available,74,5,6,,,
@@ -3401,24 +4052,42 @@ c2bc7b73-6293-464e-98a4-46f5e10f6bab,suitable.tv,resell,68,8,8,1API GmbH,30/10/2
 e9c7edea-dc06-4a5d-a078-92b2b4eeac7a,superbly.tv,available,66,4,8,,,
 823a2acb-c387-43fc-bd7c-a04e22782fa3,superman.tv,resell,94,14,8,West263 International Limited,15/05/2013 10:23,15/05/2026 10:23
 d0dbf5fe-3e2b-482d-ba70-ac8add9c5b37,superstar.tv,resell,80,17,9,Dynadot Inc,11/07/2012 08:08,11/07/2026 08:08
+b82d6872-c249-4fc5-903a-00a8b420c5fb,supervise.tv,available,74,5,9,,,
+cea55fe4-5e61-4e6d-9726-bd58651623ff,supervisor.tv,available,68,11,10,,,
+ccfeab5c-16dd-4cca-b09c-46dab62b40b6,supplier.tv,available,72,15,8,,,
 76c199b0-ec06-4fb9-b4dd-7a7b01c6a63f,supported.tv,available,70,6,9,,,
 65ccc509-89df-4937-8965-17872fff076c,supporting.tv,available,88,6,10,,,
 15e77c47-41ca-405c-812d-dd9fe17b2a3c,supportive.tv,available,70,6,10,,,
 4fd3d97f-fbc9-4f25-b872-98f2e594bde9,supposed.tv,available,72,2,8,,,
 4c246f1d-9136-424f-8dc3-ff0704a5f86e,supposedly.tv,available,56,1,10,,,
 1463bcdf-717d-4b00-a6fc-7a3aeb52c854,surprised.tv,available,70,4,9,,,
+51347926-dcb8-42d4-96be-3fa2bf762a94,survey.tv,resell,90,35,6,Dynadot Inc,16/04/2010 18:41,16/04/2026 18:41
 9d5398b9-5fc7-443c-a132-368d8488bab6,suspect.tv,available,98,5,7,,,
 f056e56b-568a-46da-942d-304ba1699cfe,suspension.tv,available,66,8,10,,,
+b12e947a-6b95-4293-83d7-d1a4ff2a1ebc,swallow.tv,available,66,11,7,,,
 e3f16b21-2506-4b10-9c35-11ab3a995af1,swap.tv,resell,98,34,4,1API GmbH,12/08/2008 08:00,12/08/2028 08:00
+8c4d4d82-ede3-418f-af28-3f283c4df6f1,swastika.tv,available,54,4,8,,,
+c14adeb7-ca68-43b7-aa7c-abff7add5fa3,sweat.tv,resell,58,16,5,Dynadot Inc,15/06/2020 01:41,15/06/2026 01:41
 6d4c9fee-fa5e-4b20-8786-34fcc6d481e6,sweptback.tv,available,44,1,9,,,
 2c033b19-9b45-49b2-b2c5-8d34ebaec61f,swiftly.tv,available,68,9,7,,,
 ab90fdc5-b6cc-4910-98bb-286c87c4117c,swollen.tv,available,65,2,7,,,
 1969dbb8-c559-4e44-9b55-8dfd2976efaa,sworn.tv,available,70,4,5,,,
+b38121bf-f5f2-4192-90b5-f8f622732973,sympathy.tv,available,71,7,8,,,
+2953d4c6-def9-41d0-aa78-355fdaefa5c5,taco.tv,resell,76,32,4,Dynadot Inc,06/06/2013 08:05,06/06/2026 08:05
 2f5b529b-d86c-45ec-ae93-2f8e8281a8c2,tailend.tv,available,38,3,8,,,
 4c3f6bb0-ee6c-4593-9ee0-6e154c6d418c,tailless.tv,available,51,2,8,,,
 f287c0aa-6476-44b4-bcac-b0cec4f680bc,taipei.tv,resell,70,12,6,Dynadot Inc,02/03/2015 09:09,02/03/2026 09:09
+0632b66d-9620-4ef0-a35e-91b6c28fee8a,taiwan.tv,resell,66,17,6,"GoDaddy.com, LLC",19/03/2010 04:02,19/03/2027 04:02
 7a1e417a-5fc9-4419-a993-7e111d42239b,taken.tv,available,76,7,5,,,
+3b973368-9388-418a-9294-564f0589d6fd,talkabout.tv,resell,78,9,10,InternetX GmbH,20/06/2008 08:00,20/06/2026 08:00
+3d2e0cc9-ea25-4fe4-b8a1-7c72b65f19ab,talks.tv,resell,76,18,5,Dynadot Inc,16/08/2005 17:58,16/08/2026 17:58
 8281db23-65c3-4889-9d21-56f61d05d252,tall.tv,resell,106,11,4,GoDaddy Online Services Cayman Islands Ltd.,14/09/2005 03:50,14/09/2026 03:50
+4874d883-3459-473a-a7be-949cfc4ac697,tape.tv,resell,90,19,4,Porkbun,07/01/2020 13:57,07/01/2027 13:57
+b2f78226-02b4-4369-9296-2a8aaaef7365,tasting.tv,available,78,7,7,,,
+33d10da4-465f-4db0-9367-06fea935400e,tax.tv,resell,92,36,3,Dynadot Inc,18/03/2010 14:36,24/03/2026 03:59
+9c4caa60-b96e-419e-ae84-7f2cd1531be5,taxation.tv,available,66,7,8,,,
+3a44ce1e-6bc7-4493-8b24-bc52c600358e,taxreturn.tv,available,64,8,10,,,
+d3a3357d-8fca-4fc9-b514-740beb6438ea,teacher.tv,resell,76,22,7,1API GmbH,26/03/2014 08:04,26/03/2026 08:04
 767df8d8-1b4f-4072-918a-ed078819e6de,teal.tv,available,76,25,4,,,
 a1560466-768c-4ae3-902f-af2b77eff194,teasing.tv,available,72,1,7,,,
 12637c3a-6941-4b94-8246-1c55320c8ab7,technology.tv,resell,88,26,10,Dynadot Inc,08/06/2007 08:01,08/06/2026 08:01
@@ -3432,6 +4101,7 @@ afa5899d-7f59-4d83-9654-884f288f54b4,tenner.tv,available,66,4,6,,,
 163de1de-57e6-4d95-8e75-6dee1e335879,tenth.tv,available,116,7,5,,,
 575213eb-cdbc-4697-a909-656a7e0f4b19,tercet.tv,available,59,3,6,,,
 275ca3e3-d796-4a37-af19-1a500830bcaa,terminated.tv,available,64,3,10,,,
+207afdaf-65d8-4fd4-ac7b-407c80ede263,terms.tv,available,78,16,5,,,
 d3849116-850e-4496-9afd-b1d7a1d840e4,ternary.tv,available,72,7,7,,,
 362c71e9-529b-4521-a937-d76e58301883,ternion.tv,available,54,4,7,,,
 47b52c05-c82c-47a9-9775-2fc14e6bc52f,terrible.tv,available,72,19,8,,,
@@ -3439,11 +4109,13 @@ d3849116-850e-4496-9afd-b1d7a1d840e4,ternary.tv,available,72,7,7,,,
 af05e8b2-8f07-43a4-9003-bf9555e1527d,terrific.tv,available,74,10,8,,,
 9e757bf6-dfae-4157-8e5e-be64dca697cc,terrified.tv,available,50,2,9,,,
 77707dfa-5803-4284-adfe-8b269db2eae3,terrifying.tv,available,54,2,10,,,
+6f769dd3-1ccd-47e6-93b3-fba7c4cc1ab7,territory.tv,resell,70,17,9,"GoDaddy.com, LLC",23/01/2001 04:45,23/01/2027 04:45
 9d1698f0-a73e-444f-8617-252ecca7d67d,terror.tv,available,64,12,6,,,
 f819e367-415d-4ecc-92b2-c8507e876fbb,tertiary.tv,available,60,4,8,,,
 7015c9a7-fe7d-4316-b457-a5ccd6fe2867,terzetto.tv,available,56,4,8,,,
 0100b257-3318-4a9d-a5e5-3e6ddd60d859,tested.tv,resell,70,9,6,Dynadot Inc,30/05/2012 22:41,30/05/2026 22:41
 da60a80b-76a4-4e66-a68c-7f2c13ec66f8,tetrad.tv,available,58,5,6,,,
+4414d985-5a58-44af-b13a-282865554209,texas.tv,resell,68,36,5,Dynadot Inc,19/03/2010 04:01,19/03/2027 04:01
 07683eea-d87b-42b0-90d0-a8f02bdd3f08,textile.tv,available,86,16,7,,,
 b1c83d86-816f-4c5c-b3e7-3ee16478dbbb,thankful.tv,available,72,7,8,,,
 834ab597-875b-4c27-bb22-9760f53a449a,theabsurd.tv,available,46,2,10,,,
@@ -3454,12 +4126,15 @@ b1c83d86-816f-4c5c-b3e7-3ee16478dbbb,thankful.tv,available,72,7,8,,,
 43f0eb90-6ea2-4fa0-bc60-e80635077dcd,thermal.tv,available,60,18,7,,,
 26559efe-3fce-4802-83d2-2c6554398fea,thick.tv,resell,120,9,5,"Network Solutions, LLC",24/06/2011 21:44,24/06/2026 21:44
 3875ac26-afaa-41da-8df6-b36920fc629f,thing.tv,available,84,23,5,,,
+fc8a1c67-e168-49af-b104-1e572793aa37,thinkof.tv,available,68,7,8,,,
 71419132-3de4-4eae-9a54-73b515bd9515,thirsty.tv,available,88,11,7,,,
 11a563b2-c48b-44a6-8129-f5850f2a9c78,thirteen.tv,available,84,9,8,,,
 7f840040-eeb9-42c7-a5c3-9802921e627b,thirteenth.tv,available,76,3,10,,,
 cf63e5fb-af57-4ec7-a917-f35ec28abeb9,thirtieth.tv,available,68,1,9,,,
 2fe11680-ee77-401b-929b-ee5c073397bb,thirtyone.tv,available,56,4,10,,,
+db4b2061-53ed-400f-b5de-bbee92fe50ea,thong.tv,available,64,8,5,,,
 62abdb04-f368-4a15-9648-0d3e34aff003,thorny.tv,available,54,4,6,,,
+9d32ab60-379f-4ff7-818c-1a694544e2cf,thorpe.tv,available,69,10,6,,,
 1a08189a-552b-42e1-a5f4-8a590e79f9b6,thou.tv,available,60,6,4,,,
 275fb7ca-bd1c-455f-aa80-30c1d97ed85e,thought.tv,available,78,24,7,,,
 1e9f300d-d21e-47cf-9f18-8c04226436b8,thousand.tv,available,84,7,8,,,
@@ -3472,10 +4147,13 @@ fe8d934a-ac55-4dd2-8c23-d6a22eb4f034,through.tv,available,92,8,7,,,
 5c6dc7e5-0c1c-4e24-a629-005118bb99f7,throw.tv,available,102,9,5,,,
 52375def-7024-432f-8a74-eaeae855baac,thrown.tv,available,64,3,6,,,
 fe946d68-af1f-42e9-be1a-1d332a9d4c92,throwoff.tv,available,64,1,9,,,
+2ae4c8b4-5b25-480e-a1b7-df7dcf01ddfd,throwout.tv,available,64,1,9,,,
 863ebc73-0fa9-4991-b268-5270dac93e3e,thumping.tv,available,78,1,8,,,
 e3c7c642-23e3-4346-8cfe-5e8c9f8605d6,ticket.tv,resell,92,25,6,Dynadot Inc,11/06/2011 08:01,11/06/2026 08:01
+f241f07d-d922-4d52-b1f0-dcca7ec4c9f8,tide.tv,resell,92,23,4,Dynadot Inc,07/05/2005 12:18,07/05/2026 12:18
 d2c3b8b6-901d-416e-9382-8367273e04dd,tiein.tv,available,54,3,6,,,
 eda2bf5a-d9f5-4d5d-a41b-afb7b1c231c2,tierce.tv,available,52,3,6,,,
+2542ec99-bc54-4d40-8304-2cbc7a2b1ce5,tile.tv,resell,92,22,4,Dynadot Inc,21/02/2021 23:38,21/02/2026 23:38
 204c6edc-1fb6-4482-bbaf-0fe8def3f054,tillable.tv,available,52,4,8,,,
 764ebd63-eca9-442e-992a-756004cc698a,tilted.tv,available,56,12,6,,,
 87bceb3a-bb73-4ed3-902c-24ee78d8f8e5,timeworn.tv,available,38,2,8,,,
@@ -3488,6 +4166,7 @@ b911df1c-d91c-4941-a9af-d98194142e34,todate.tv,available,60,2,7,,,
 14330d58-08f3-4c70-a82b-3864f217def4,toilet.tv,available,86,12,6,,,
 f9cb485a-dca3-4478-a3d1-605411de8372,toilsome.tv,available,50,1,8,,,
 defcef5b-bab7-479a-a183-7da66410ef9a,tolerable.tv,available,68,2,9,,,
+b8560f48-70f1-45df-a0b1-cdf0182079f4,tongue.tv,available,66,6,6,,,
 f53985a5-e03d-411e-9672-f010df77e4da,tonic.tv,resell,114,20,5,Dynadot Inc,02/12/2010 09:00,02/12/2026 09:00
 926328a2-f6d0-452a-bef6-21bbfd727930,tons.tv,available,74,7,4,,,
 ab762c16-69fd-486a-8b30-351677a28bf1,toorder.tv,available,56,1,8,,,
@@ -3499,16 +4178,23 @@ d134a313-1ed4-4f92-b3e1-ba1031a3be07,tormented.tv,available,42,4,9,,,
 68f80e88-4626-423a-ab69-af670298b3d8,tortured.tv,available,42,3,8,,,
 c8b0e821-4589-4009-bfb3-f78fe4337571,torturing.tv,available,52,1,9,,,
 cf929984-2c31-4e8a-b463-e633eee7dc9b,torturous.tv,available,48,1,9,,,
+a3530c72-db9c-4c78-a2c7-88173fe26d83,tossaway.tv,available,64,1,9,,,
+f3ddc464-795e-4b56-a554-e14006175a15,tossout.tv,available,64,1,8,,,
 bafb0e85-3446-453f-a4b2-3fab3ce23f55,totaled.tv,available,74,2,7,,,
 c81940fe-0d1b-40e8-8f41-2fba543385fd,touching.tv,available,88,5,8,,,
 2b5a50f1-dada-481e-9dc1-ae6046e9f979,tough.tv,resell,122,11,5,Dynadot Inc,25/10/2005 06:26,25/10/2027 06:26
 b7fddfcd-db52-4936-b5d5-e0ecb12c4464,towheaded.tv,available,54,1,9,,,
+323208e3-65ad-4e71-99cb-96ceaf32103a,town.tv,resell,56,23,4,"Spaceship, Inc.",06/11/2015 09:09,06/11/2026 09:09
+96200294-ace5-47e2-8ab0-26a0be151736,toy.tv,resell,76,26,3,Dynadot Inc,23/03/2010 20:27,23/03/2026 20:27
+a2122da9-ec9a-44a2-ad07-e88d665eb9fe,toying.tv,available,68,2,6,,,
+fcf872e7-e8a3-4db6-98e4-d553a36ee1c6,tracy.tv,resell,68,18,5,Dynadot Inc,20/04/2010 19:38,20/04/2026 19:38
 ddc28c30-5e1a-4326-b6d7-3bb02b12e9c5,train.tv,resell,72,24,5,Dynadot Inc,19/03/2010 21:28,19/03/2026 21:28
 7dc35dba-daad-46a8-9710-7f2f41944659,trained.tv,available,74,5,7,,,
 988edcb1-d2a6-48c0-a1d8-5174c6e05e3a,transient.tv,available,78,8,9,,,
 5514a6d1-9870-4d01-9159-050a199cdfff,trapped.tv,available,46,5,7,,,
 e9817138-19fa-4fd6-815b-2b4d8f2f2ea0,traveled.tv,available,68,3,8,,,
 f485b392-e5fe-47ae-80d0-a988dd15db6e,travelled.tv,available,68,2,9,,,
+56dfebf5-0b10-4df6-a90b-7243510a0b2a,tree.tv,resell,90,38,4,Porkbun,25/08/2019 14:15,25/08/2026 14:15
 7c4f8fc7-66cf-4d5d-b7d8-71503678ab52,treed.tv,available,51,5,5,,,
 5f2c384c-d29f-49ca-98f5-d228ef1368c0,treelike.tv,available,58,1,8,,,
 38f97dab-9e24-4560-9d85-e9cf5c34f487,triad.tv,available,56,16,5,,,
@@ -3517,17 +4203,22 @@ f485b392-e5fe-47ae-80d0-a988dd15db6e,travelled.tv,available,68,2,9,,,
 3cffb152-1b90-4b29-964d-2631340f789a,tried.tv,available,76,5,5,,,
 8b2dc40e-5c11-4e82-8137-a7bb76157f7c,trine.tv,available,50,11,5,,,
 7ece5a6c-8538-4687-975b-feb38a632168,trio.tv,available,80,19,4,,,
+6b039846-7740-48ef-83a7-1cf03ecfb5aa,trip.tv,resell,110,33,4,"eNom, LLC",11/10/2000 20:05,11/10/2026 20:05
 3751ca02-4ab5-416b-b91c-da7b9519fd28,triple.tv,available,104,19,6,,,
 451eca24-6fa4-4ec0-9a96-6d32d4ac9875,triplet.tv,available,50,8,7,,,
 d84889df-880d-4a5a-86ce-a75ce6392cef,trite.tv,available,66,4,5,,,
 324eedea-0244-47ae-b993-1883ca146b5c,trivial.tv,resell,78,9,7,"Spaceship, Inc.",05/08/2019 17:59,05/08/2026 17:59
 6e0bc5a3-12cf-41c5-87c0-264067868a3a,truant.tv,available,98,6,6,,,
+eacd81be-fdff-44e5-b268-91eef404cee0,truffle.tv,resell,81,19,7,Realtime Register B.V.,03/05/2022 21:43,03/05/2026 21:43
 3c8ca949-1dc7-4a2e-ac62-a59fdf403c51,truth.tv,resell,112,35,5,Dynadot Inc,02/04/2010 13:07,02/04/2026 13:07
+3aa82394-c5ac-4f2e-b8f5-950e9a6a896f,tug.tv,available,88,9,3,,,
+cb804b5d-e854-4990-83e4-adbd3d8b3673,turmeric.tv,available,72,7,8,,,
 35fdc4d4-c69e-416d-96f0-4863bc1a02af,turn.tv,resell,112,17,4,Porkbun,20/03/2010 16:33,20/03/2026 16:33
 519d6568-6bec-405d-b337-ed6a1ab6d3e7,turncoat.tv,available,66,2,8,,,
 367f4803-3176-4890-9f77-68fa92269b62,turned.tv,available,66,4,6,,,
 5c38c698-c207-4045-a3ec-4c1f29aad5ba,tush.tv,resell,44,5,4,Dynadot Inc,05/05/2013 17:56,05/05/2026 17:56
 966e66e0-02d6-45e3-b805-7ee780d633ba,tvset.tv,resell,76,2,6,"Global Domains International, Inc. DBA DomainCostClub.com",12/04/2007 23:35,12/04/2026 23:35
+30870b10-6619-4969-9079-e0f8e24df76f,tweet.tv,resell,110,14,5,"GoDaddy.com, LLC",09/03/2009 03:17,09/03/2026 04:17
 4e33008d-b1a5-4bb2-82ff-0acbd7bbf75d,twelfth.tv,available,58,2,7,,,
 f4fa2c95-4ec7-43f6-a8d2-bfa3e1ae14c9,twelve.tv,available,88,17,6,,,
 15f9ca46-a8c8-4d21-a8b6-47ae8e801f41,twentieth.tv,available,92,2,9,,,
@@ -3536,6 +4227,7 @@ ee29a3c0-1336-4bbf-8d86-eba5907bae02,twenty.tv,resell,80,10,6,"GoDaddy.com, LLC"
 2dd08138-8de7-41cd-a450-486722600fc1,twentysix.tv,available,78,7,10,,,
 687359f3-b001-4eba-8d01-0f187f50aef3,twin.tv,available,80,25,4,,,
 baf59592-a4bd-4506-ab9a-a37e9fdc8b3d,twinkly.tv,available,54,5,7,,,
+b5e36193-995e-472c-9e2b-5ba7cd6f1aa6,twitter.tv,available,108,24,7,,,
 81299ab5-018c-4d36-a365-f994d6c0732a,twodozen.tv,available,62,1,9,,,
 f7c0a6a0-7f61-4966-b492-f26013a22b02,twohanded.tv,available,64,2,10,,,
 698c711c-def4-49fb-92e7-b48642e04ff1,twoscore.tv,available,54,2,8,,,
@@ -3591,12 +4283,14 @@ ce0d9ef4-c7a6-43d4-97cc-0bcc8dafd2ba,uremic.tv,available,56,1,6,,,
 53d47c9c-8537-4e3c-b53b-dc90d7f65abc,usual.tv,available,84,11,5,,,
 85d50600-1f38-4b20-b6fc-ec55ef610054,usually.tv,available,70,4,7,,,
 2ec1723f-b204-451e-b4f6-f98f794affef,utility.tv,available,82,19,7,,,
+6ebdc525-72f1-4f64-bb34-c8b62e73a71e,vacation.tv,resell,70,22,8,InternetX GmbH,04/06/2008 08:00,09/04/2026 03:59
 ce8e258e-7cc2-4b51-bb1c-9b7a6dbdf337,vacuous.tv,available,38,3,7,,,
 e2adc047-1d8c-4215-a895-bd32df997066,vague.tv,available,100,9,5,,,
 4892be8d-e014-4ef7-b0aa-b54fa1403b0a,valid.tv,available,72,17,5,,,
 5a1d4233-4de2-48b5-aa7e-4c1c21a6e473,valuable.tv,available,88,11,8,,,
 9681af40-586d-403d-ba2b-8ec2cf84ac85,value.tv,resell,107,29,5,Mesh Digital Limited,06/05/2004 16:24,06/05/2026 16:24
 909b42e1-c8e1-4c78-9b4e-c0fe9abcba39,valued.tv,available,74,9,6,,,
+bd75c591-fadc-4d89-ab04-dd8abca09b84,vandalism.tv,available,54,3,9,,,
 73ff5ff4-d927-460e-ba0d-534aae9f5535,vanity.tv,resell,50,16,6,Dynadot Inc,27/03/2010 19:47,27/03/2026 19:47
 3d4b55fb-436b-4b93-83f8-5563eda3d78d,varied.tv,available,66,5,6,,,
 b2a74d32-62e9-49d1-8444-af2f6633680b,variety.tv,resell,72,10,7,"eNom, LLC",11/10/2000 20:25,11/10/2026 20:25
@@ -3612,14 +4306,17 @@ e7a51e5b-8530-4665-9ee7-e86ece8b58fc,verymuch.tv,available,70,2,9,,,
 c2825755-71b8-4c11-8b35-afe03eb9cecb,verywell.tv,available,68,7,9,,,
 63b089f0-2733-43df-ace2-bff872f757dc,vexation.tv,available,42,3,8,,,
 9c1499d9-e91a-4fa1-a6a0-c497aacbdb2f,vexatious.tv,available,38,3,9,,,
+0e09a43e-965c-4e26-b17f-0e5527b5ede6,victim.tv,resell,64,8,6,Dynadot Inc,21/11/2014 22:35,21/11/2026 22:35
 4132ea58-e5f1-4d98-9db3-167e13da7e11,victoria.tv,resell,78,28,8,1API GmbH,15/08/2001 20:19,15/08/2026 20:19
 48189020-05fd-4ef9-93a2-43858518fa44,victorian.tv,available,81,7,9,,,
+fc0f8f0b-9ed8-45ec-893a-df2e170c9e42,view.tv,resell,94,39,4,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 eef8bdc0-4027-40b7-ab92-478286b5a2ad,viii.tv,available,54,6,4,,,
 bb4c9743-64fa-4bbb-9d7e-8d734bd81a83,vincible.tv,available,44,2,8,,,
 8f8b5ba9-e17d-4fb2-b7ba-e16a1224be69,vindicated.tv,available,68,3,10,,,
 47e6f482-2bae-4d0d-b5fc-fb105b1ad404,vinegarish.tv,available,46,1,10,,,
 707785a3-5073-49b0-bff2-5b9bcb6da5cf,vinegary.tv,available,50,1,8,,,
 cf2b78c1-4cd3-4466-b9be-251974e08937,violated.tv,available,52,2,8,,,
+eb4a7e89-c06d-4743-b693-2028ac0e0481,violation.tv,available,58,6,9,,,
 3998d8e6-a71f-4022-bc0a-e29a518d0daf,virtually.tv,resell,64,9,9,GoDaddy Online Services Cayman Islands Ltd.,24/02/2016 00:49,24/02/2026 00:49
 262c0aa3-8984-4979-9d32-0d5af9215ae4,virtuoso.tv,available,94,15,8,,,
 119f7b3f-feaa-4be9-a888-3d1f5454f8a7,virulent.tv,available,44,3,8,,,
@@ -3629,8 +4326,11 @@ ab41929d-5a5b-44d9-a244-80cd6524063f,vocal.tv,resell,90,15,5,1API GmbH,20/03/200
 fc7abb12-4b13-4c58-9614-95a11a79c063,voiceless.tv,available,38,6,9,,,
 7c0fa386-798e-41d9-bb34-d59e148193b6,volatile.tv,available,76,8,8,,,
 b87523f4-2fd8-4dd6-bcbe-a8098c26ade1,vote.tv,resell,74,34,4,Dynadot Inc,18/03/2010 13:59,18/03/2026 13:59
+ed94c605-2bb0-49e8-9306-b1a3ecfc6391,voter.tv,available,68,11,5,,,
 ab7dd350-4b54-4c28-b756-d119dee8ec05,voting.tv,available,88,13,6,,,
+a2ce38e9-ccd2-47dc-ba20-57504463c4ae,wages.tv,available,72,6,5,,,
 0e2fdbe9-1f20-4db8-9636-0ba096834dc9,wagon.tv,available,64,8,5,,,
+93719400-0801-4c73-a8d0-5807179e5a26,waiter.tv,available,76,9,6,,,
 b3aa6697-81e9-47ba-96ed-9e565964d892,waken.tv,available,74,7,5,,,
 f1e2d613-c338-4eb8-8fcb-42d86fc64db6,wakening.tv,available,75,1,8,,,
 2edcb681-d713-41d5-9367-2a7429732a99,wakeup.tv,resell,72,23,7,"GoDaddy.com, LLC",06/06/2012 08:02,06/06/2026 08:02
@@ -3640,18 +4340,24 @@ f1e2d613-c338-4eb8-8fcb-42d86fc64db6,wakening.tv,available,75,1,8,,,
 6678b33f-eb8e-4f55-954d-b7776d2c74d5,walloping.tv,available,70,1,9,,,
 873ef0d2-2b5a-406e-ba62-0c8fce2e5107,wannabe.tv,available,52,10,7,,,
 401e9c12-d8dc-466e-a67b-d890b8c9582c,wannabee.tv,available,48,3,8,,,
+afdc4a8c-1bfc-4ded-a385-5f37d940a78b,want.tv,resell,76,22,4,"GoDaddy.com, LLC",18/03/2010 19:00,18/03/2026 19:00
 9fe6d3b8-7d1f-45ba-9848-636ecc867347,wanting.tv,available,84,6,7,,,
+306e5e55-e826-4635-9afa-3af5e6cf12f3,warranty.tv,resell,90,15,8,Dynadot Inc,18/03/2010 14:13,18/03/2026 14:13
 9b1f5331-4f0b-474e-b63d-8f2dea152448,wash.tv,resell,62,18,4,Dynadot Inc,18/03/2010 20:15,18/03/2026 20:15
+e2dd80ef-1da7-4723-9e98-d67cd4d2e562,washing.tv,available,88,8,7,,,
 0ee8a558-7d77-497c-a6f8-4cdaf0552ad2,washington.tv,resell,81,17,10,Dynadot Inc,19/03/2010 04:02,19/03/2027 04:02
 5af52e03-0c82-4f35-bc81-2972b3ff76f0,wasteland.tv,available,44,9,9,,,
 555853fb-94e9-46d4-8b1e-c23159255b6e,watchful.tv,available,64,6,8,,,
 8b6d9e93-57c8-4c76-928a-20baeb70c14d,waterless.tv,available,44,7,9,,,
+84de50a0-ce96-4959-9a3e-bbe7fcf9df2d,watermelon.tv,available,70,21,10,,,
 afe63d16-5bde-4f87-bc4d-b637c90427ac,waters.tv,available,66,13,6,,,
 e3ada4f0-f621-4d73-884b-ffbd270ecdfc,way.tv,resell,70,26,3,"Chengdu West Dimension Digital Technology Co., Ltd.",09/02/2015 13:39,09/02/2027 13:39
 63d98a39-0cdd-4872-bcdc-3e4c8f3d8b84,weakened.tv,available,52,1,8,,,
 4c0e349c-fb97-480f-94ce-74c032f32879,wealthy.tv,resell,78,18,7,Dynadot Inc,24/11/2019 22:48,24/11/2026 22:48
 f3223d72-52df-4f98-881b-6235ada308f6,wear.tv,resell,70,16,4,Dynadot Inc,19/03/2010 13:11,19/03/2026 13:11
 bf1cf67a-3f36-4f9c-8902-c34892565220,weary.tv,available,64,5,5,,,
+b9eb391d-a381-401b-8895-97d601cfd18c,weave.tv,available,94,25,5,,,
+378c7548-1aeb-4327-89e6-2bb5335f4c8c,wedding.tv,resell,74,30,7,"GoDaddy.com, LLC",12/03/2010 02:55,12/03/2026 01:55
 910d98e3-946d-48eb-8f04-1433ed685cb9,wedge.tv,resell,62,14,5,Dynadot Inc,01/10/2013 21:55,01/10/2026 21:55
 d1db82e1-38f2-4bbd-9970-c96d976fc5c7,week.tv,available,98,12,4,,,
 64cb90ce-e95f-4931-8d3a-725e02784da6,weight.tv,available,64,11,6,,,
@@ -3662,6 +4368,8 @@ bd301a63-93d2-4b27-ad60-437df517703e,welltimed.tv,available,50,3,10,,,
 68efc74b-eb25-42e9-89d3-7ef145c1ae3c,wellworn.tv,available,42,3,9,,,
 684ad6bf-6e7f-4db8-a0b6-c232ff28fdcc,west.tv,resell,62,24,4,Dynadot Inc,10/11/2005 19:42,10/11/2026 19:42
 454e2b4e-fcfc-406d-9369-37387b142cb1,wet.tv,resell,84,19,3,Dynadot Inc,30/12/2015 19:18,30/12/2026 19:18
+da73dfe5-0e23-4c6d-8e20-7286ebaca843,whale.tv,resell,62,27,5,1API GmbH,27/11/2015 09:11,27/11/2026 09:11
+e0edd966-9390-433f-9f44-0e61b5aaaff8,wharf.tv,available,73,8,5,,,
 29dc0835-245c-4ef1-b6b0-b53c32075db4,whatever.tv,resell,116,23,8,"GoDaddy.com, LLC",13/08/2020 04:23,13/08/2026 04:23
 12e25a32-64d0-4107-9826-89fc22d4e6e9,whatsoever.tv,available,60,3,10,,,
 bbe8c11d-8cf8-41bb-a6d7-f3b9289e131e,wheezing.tv,available,44,2,8,,,
@@ -3679,9 +4387,13 @@ ddf043d4-99e9-4dc3-bbb0-deb32567446e,whoreson.tv,available,52,1,8,,,
 f394523b-78ac-4496-b1d4-92db0c83c813,widely.tv,available,62,5,6,,,
 9a585c21-e3a6-4f8a-9dca-49f1d4f7b569,wideopen.tv,available,64,6,9,,,
 1894c419-4359-4abd-ab60-987e29ecc142,widowed.tv,available,60,2,7,,,
+b2ec975b-b09f-49db-be4f-c1706ab45add,wife.tv,available,112,18,4,,,
 a06fca78-2ecd-4681-b303-03b47fa3db03,wind.tv,resell,76,21,4,"Name.com, Inc.",18/03/2010 20:10,18/03/2026 20:10
+b90c5f51-3200-421c-958e-2390edccc504,windsor.tv,resell,66,20,7,Dynadot Inc,30/11/2005 16:22,30/11/2026 16:22
 a7be57ec-094c-4f37-9176-b034e9341eaa,wink.tv,resell,104,21,4,"Name.com, Inc.",26/04/2010 15:55,26/04/2026 15:55
+1e5fae1e-963d-46c0-a6db-2cb299106795,wipeup.tv,available,70,1,7,,,
 cdf5b90a-b228-4b5b-98b9-598f35c5913e,wire.tv,resell,58,25,4,"GoDaddy.com, LLC",18/03/2010 21:14,18/03/2026 21:14
+3b3fdee7-f950-4df0-bdb6-be814349f955,wisdom.tv,resell,72,34,6,Dynadot Inc,25/03/2010 04:34,25/03/2027 04:34
 fe05cf0a-1d01-43bb-85aa-44325cc11732,wish.tv,resell,78,27,4,1API GmbH,18/03/2010 18:46,18/03/2026 18:46
 d12d12c4-d732-4707-82eb-5c816fb469f5,wishful.tv,available,48,5,7,,,
 63322a21-8d02-4458-860e-1f9f97c2bf20,withering.tv,available,37,2,9,,,
@@ -3693,11 +4405,14 @@ d12d12c4-d732-4707-82eb-5c816fb469f5,wishful.tv,available,48,5,7,,,
 e26e1614-21eb-4d39-a21b-b8d787f1d954,woody.tv,available,56,18,5,,,
 74d27646-2b60-4430-a3fe-21ce743454bb,wool.tv,available,68,12,4,,,
 3817b765-c086-4b0f-851c-9c25b2590a98,wordblind.tv,available,32,2,10,,,
+a44ec1a3-f22b-4ebe-96bc-4e3efc6645fe,wording.tv,available,70,5,7,,,
 922e355c-c417-40fc-96ed-396cf00825e5,work.tv,resell,72,34,4,Dynadot Inc,18/03/2010 13:57,18/03/2026 13:57
 51e87b1a-44f5-4b75-b0ba-1b38b6b10439,worker.tv,available,76,18,6,,,
 6bcfd8b3-4320-4292-a521-d642b36d3f1e,workings.tv,available,72,2,8,,,
+9c3be316-b728-486c-86ac-be6ea1a31783,workout.tv,resell,80,17,7,"eNom, LLC",01/06/2000 07:00,01/06/2026 07:00
 a3f5c4de-2586-49e7-9ad5-2566841bb46f,worn.tv,available,66,7,4,,,
 0a5fa6b4-5eeb-447e-baa3-2363e5d4bac3,worried.tv,available,72,4,7,,,
+a3e7a221-1bce-42da-bbe3-43e2da63f248,worry.tv,available,84,6,5,,,
 f1267256-daea-4a1d-aacd-b8eb5e84f06d,worsened.tv,available,54,1,8,,,
 c956e1a5-b17d-48a0-a31b-6827e8f103af,worsening.tv,available,58,1,9,,,
 826c859a-6041-4d77-9552-746fb82bfd86,worshipful.tv,available,80,1,10,,,
@@ -3706,7 +4421,9 @@ d9c2e21d-8480-44c1-8d25-2e573ecfa3a1,worth.tv,available,76,19,5,,,
 6894b5c8-5745-4dd6-947c-b758600a2af7,worthwhile.tv,available,74,9,10,,,
 492ca95f-9573-4201-9699-e648319c3fa6,wound.tv,available,88,13,5,,,
 02627e3b-d0f7-4a01-8bae-4690ba80a40a,wounded.tv,available,62,3,7,,,
+5db6b407-fe7f-4075-9e6e-397213d0b0c2,wow.tv,resell,80,41,3,"GoDaddy.com, LLC",28/06/2016 08:18,28/06/2027 08:18
 3a279f76-b126-4db6-94f9-6a0c8e5620d2,wrecked.tv,available,60,4,7,,,
+e815e19b-f93a-40c7-bd1a-266e22313554,wrestling.tv,resell,70,16,9,"eNom, LLC",21/02/2001 08:00,21/02/2026 08:00
 6d528849-21de-4f83-9f41-863d316363dd,wrist.tv,available,92,9,5,,,
 230a60b5-0d38-4b54-90c3-2bed9efae375,writing.tv,resell,74,21,7,Dynadot Inc,14/09/2005 18:12,14/09/2026 18:12
 92354627-75d3-4f6b-8be4-d44c4eb8dbf8,wrongful.tv,resell,56,1,8,"GoDaddy.com, LLC",05/05/2017 21:36,05/05/2026 21:36
@@ -3755,11 +4472,14 @@ b459f85b-6359-4b99-96ec-913cbdf65fe9,yearbook.tv,available,70,9,8,,,
 141d4dc6-c139-478e-82cb-59a55af30f51,yearend.tv,available,74,4,8,,,
 e6b48ae6-0831-43f4-81f1-033ace9bec30,yearly.tv,available,104,5,6,,,
 9e00d68c-a27c-4e02-b0bc-8057ce7c3f9f,yearround.tv,available,78,2,10,,,
+97c21893-5b83-4c44-a902-403a7d91d4ad,years.tv,available,88,10,5,,,
 32c235a0-8f4c-42ee-be44-58651b8a13fc,yelled.tv,available,66,2,6,,,
 db3119c2-e9d6-40a8-ab5b-4cde280b264b,yellow.tv,available,116,29,6,,,
 e851252a-b904-44f2-8e5a-d9e03a8cf440,yet.tv,available,112,14,3,,,
+44e2e554-edb6-4830-8a8d-97603e4185f7,york.tv,resell,52,23,4,Dynadot Inc,03/11/2011 08:03,03/11/2026 08:03
 a11efddb-d7b6-4e9c-b0ae-c0ff0bd2ac55,young.tv,available,84,25,5,,,
 b98cb77a-6df0-4583-a7dd-984088be2fff,younger.tv,available,70,9,7,,,
+2831f357-3834-485d-ae20-cf794ac867c2,youth.tv,available,82,20,5,,,
 38a831bd-7d76-49ae-a767-dd2983cc2d35,zend.tv,available,48,8,4,,,
 f4424f71-073e-4584-bd71-fc9f8224ca71,zestful.tv,available,64,5,7,,,
 16367fe4-fc5d-4250-b2ab-132ec5da2c2e,zesty.tv,available,64,20,5,,,
