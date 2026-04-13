@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .tv one-word domains from Unique D
 
 **Public extract:** 6,872 rows · **Live catalog:** 6,871 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tv`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| coordinate.tv | available | $40.98    | —             | 108            | 18     | 10     | namecheap       |
+| coordinate.tv | available | $40.98    | —             | 108            | 19     | 10     | namecheap       |
 | idea.tv       | resell    | —         | —             | 88             | 99     | 4      | 1API GmbH       |
 | secret.tv     | premium   | —         | —             | 112            | 100    | 6      | —               |
 | masterly.tv   | available | $40.98    | —             | 79             | 18     | 8      | namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
