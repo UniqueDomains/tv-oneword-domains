@@ -1,10 +1,10 @@
-# Available .TV One-Word Domains (6,871)
+# Available .TV One-Word Domains (6,872)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C872%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C871%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C873%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C872%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .tv one-word domains from Unique D
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 6,872 rows · **Live catalog:** 6,871 domains
+**Public extract:** 6,873 rows · **Live catalog:** 6,872 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tv`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TV one-word domain ca
 
 ### Files
 
-- `tv.csv` — public CSV extract (6,872 rows)
-- `tv.json` — public JSON extract (6,872 rows)
+- `tv.csv` — public CSV extract (6,873 rows)
+- `tv.json` — public JSON extract (6,873 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,16 +70,16 @@ print(df.head())
 | masterly.tv   | available | $40.98    | —             | 79             | 18     | 8      | namecheap       |
 | boss.tv       | resell    | —         | —             | 76             | 99     | 4      | NameCheap, Inc. |
 | yellow.tv     | premium   | —         | —             | 116            | 99     | 6      | —               |
-| rectify.tv    | available | $40.98    | —             | 78             | 17     | 7      | namecheap       |
+| rectify.tv    | available | $40.98    | —             | 78             | 18     | 7      | namecheap       |
 | help.tv       | resell    | —         | —             | 68             | 99     | 4      | Dynadot Inc     |
 | limited.tv    | premium   | —         | —             | 82             | 99     | 7      | —               |
-| designed.tv   | available | $40.98    | —             | 64             | 14     | 8      | namecheap       |
+| sixteen.tv    | available | $40.98    | —             | 88             | 13     | 7      | namecheap       |
 | rocky.tv      | resell    | —         | —             | 64             | 99     | 5      | Dynadot12 LLC   |
 | red.tv        | premium   | —         | —             | 80             | 99     | 3      | —               |
-| sixteen.tv    | available | $40.98    | —             | 88             | 13     | 7      | namecheap       |
+| compliant.tv  | available | $40.98    | —             | 69             | 13     | 9      | namecheap       |
 | canada.tv     | resell    | —         | —             | 83             | 98     | 6      | 1API GmbH       |
 | bored.tv      | premium   | —         | —             | 68             | 99     | 5      | —               |
-| compliant.tv  | available | $40.98    | —             | 69             | 13     | 9      | namecheap       |
+| designed.tv   | available | $40.98    | —             | 64             | 13     | 8      | namecheap       |
 | singapore.tv  | resell    | —         | —             | 76             | 98     | 9      | Dynadot Inc     |
 | bass.tv       | premium   | —         | —             | 64             | 99     | 4      | —               |
 | absent.tv     | available | $40.98    | —             | 102            | 12     | 6      | namecheap       |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,872-row public sample | 6,871 live domains                               |
+| 6,873-row public sample | 6,872 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
