@@ -1,22 +1,22 @@
-# Available .TV One-Word Domains (6,872)
+# Available .TV One-Word Domains (8,717)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C873%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C872%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C717%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .tv one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .tv one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,717 domains** on the canonical page below.
 
-**Public extract:** 6,873 rows · **Live catalog:** 6,872 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,717 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tv`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TV one-word domain ca
 
 ### Files
 
-- `tv.csv` — public CSV extract (6,873 rows)
-- `tv.json` — public JSON extract (6,873 rows)
+- `tv.csv` — public CSV extract (1,000 rows)
+- `tv.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| coordinate.tv | available | $40.98    | —             | 108            | 19     | 10     | namecheap       |
-| idea.tv       | resell    | —         | —             | 88             | 99     | 4      | 1API GmbH       |
-| secret.tv     | premium   | —         | —             | 112            | 100    | 6      | —               |
-| masterly.tv   | available | $40.98    | —             | 79             | 18     | 8      | namecheap       |
-| boss.tv       | resell    | —         | —             | 76             | 99     | 4      | NameCheap, Inc. |
-| yellow.tv     | premium   | —         | —             | 116            | 99     | 6      | —               |
-| rectify.tv    | available | $40.98    | —             | 78             | 18     | 7      | namecheap       |
-| help.tv       | resell    | —         | —             | 68             | 99     | 4      | Dynadot Inc     |
-| limited.tv    | premium   | —         | —             | 82             | 99     | 7      | —               |
-| sixteen.tv    | available | $40.98    | —             | 88             | 13     | 7      | namecheap       |
-| rocky.tv      | resell    | —         | —             | 64             | 99     | 5      | Dynadot12 LLC   |
-| red.tv        | premium   | —         | —             | 80             | 99     | 3      | —               |
-| compliant.tv  | available | $40.98    | —             | 69             | 13     | 9      | namecheap       |
-| canada.tv     | resell    | —         | —             | 83             | 98     | 6      | 1API GmbH       |
-| bored.tv      | premium   | —         | —             | 68             | 99     | 5      | —               |
-| designed.tv   | available | $40.98    | —             | 64             | 13     | 8      | namecheap       |
-| singapore.tv  | resell    | —         | —             | 76             | 98     | 9      | Dynadot Inc     |
-| bass.tv       | premium   | —         | —             | 64             | 99     | 4      | —               |
-| absent.tv     | available | $40.98    | —             | 102            | 12     | 6      | namecheap       |
-| integral.tv   | resell    | —         | —             | 69             | 98     | 8      | Dynadot Inc     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| templates.tv     | available | $40.98    | —             | 54             | 17     | 9      | namecheap        |
+| online.tv        | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc      |
+| Jody.tv          | premium   | —         | —             | 74             | 10     | 4      | —                |
+| Containers.tv    | available | $26.99    | $26.99        | 54             | 17     | 10     | namesilo         |
+| farmers.tv       | resell    | —         | —             | 54             | 59     | 7      | 1API GmbH        |
+| Christmastree.tv | premium   | —         | —             | 74             | 9      | 14     | —                |
+| returns.tv       | available | $40.98    | —             | 72             | 16     | 7      | namecheap        |
+| stark.tv         | resell    | —         | —             | 72             | 45     | 5      | Porkbun          |
+| intune.tv        | available | $40.98    | —             | 72             | 16     | 7      | namecheap        |
+| teams.tv         | resell    | —         | —             | 62             | 32     | 5      | 1API GmbH        |
+| moveup.tv        | available | $40.98    | —             | 79             | 14     | 7      | namecheap        |
+| mask.tv          | resell    | —         | —             | 72             | 29     | 4      | GoDaddy.com, LLC |
+| proofs.tv        | available | $40.98    | —             | 55             | 13     | 6      | namecheap        |
+| earn.tv          | resell    | —         | —             | 66             | 28     | 4      | GoDaddy.com, LLC |
+| niggers.tv       | available | $40.98    | —             | 37             | 13     | 7      | namecheap        |
+| forms.tv         | resell    | —         | —             | 54             | 28     | 5      | GoDaddy.com, LLC |
+| dowell.tv        | available | $40.98    | —             | 76             | 12     | 7      | namecheap        |
+| gods.tv          | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc      |
+| terracotta.tv    | available | $40.98    | —             | 72             | 12     | 11     | namecheap        |
+| toys.tv          | resell    | —         | —             | 60             | 24     | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,873-row public sample | 6,872 live domains                               |
+| 1,000-row public sample | 8,717 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
