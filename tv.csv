@@ -464,7 +464,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 389621a2-80f9-4128-9d9d-c869fda3f855,farms.tv,resell,,,54,16,5,1API GmbH,30/04/2002 21:38,30/04/2027 21:38
 38a174b2-c2ea-4111-ab6d-9f917111ee76,keychains.tv,available,26.99,26.99,56,6,9,namesilo,,
 38c4e861-4c4c-486d-8044-bda32e916220,supposeto.tv,available,40.98,,52,1,10,namecheap,,
-392e9c8a-02ea-4c7b-9e42-b8add6c1585f,suck.tv,resell,,,66,15,4,Dynadot Inc,07/06/2014 08:04,07/06/2026 08:04
 393641c6-d360-49b4-afdf-01b5192da1b8,havetheadvantage.tv,available,40.98,,46,0,18,namecheap,,
 393a06f8-e854-4b6e-94c2-f0492e2257dc,ponds.tv,available,26.99,26.99,52,7,5,namesilo,,
 397006dd-fab7-4c10-b36b-fdee44ccdd71,exclamations.tv,available,40.98,,50,2,12,namecheap,,
@@ -999,3 +998,4 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 77cd1af6-1d92-4ab3-828f-c055195c874b,objected.tv,available,26.99,26.99,48,2,8,namesilo,,
 77d0cc26-ca3a-4d0f-95cd-5f13d143c12b,hillclimbing.tv,available,40.98,,68,2,13,namecheap,,
 77f87ee9-b11e-46b7-a483-6839e6251c69,ported.tv,available,40.98,,68,3,6,namecheap,,
+77fe8818-dfc6-4486-a466-7439978af240,provided.tv,available,40.98,,48,3,8,namecheap,,
