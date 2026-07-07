@@ -1,10 +1,10 @@
-# Available .TV One-Word Domains (9,065)
+# Available .TV One-Word Domains (9,067)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C065%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C067%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .tv one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,065 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,067 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,065 domains · **Median ask:** $37.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,067 domains · **Median ask:** $31.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tv`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tv`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TV one-word domain ca
 
 ### Files
 
-- `tv.csv` — public CSV extract (1,000 rows)
-- `tv.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tv.csv`, public CSV extract (1,000 rows)
+- `tv.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| templates.tv     | available | $40.98    | —             | 54             | 17     | 9      | namecheap        |
-| las.tv           | resell    | —         | —             | 48             | 97     | 3      | Dynadot Inc      |
-| Jody.tv          | premium   | —         | —             | 74             | 10     | 4      | —                |
-| Containers.tv    | available | $26.99    | $26.99        | 54             | 17     | 10     | namesilo         |
-| online.tv        | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc      |
-| Christmastree.tv | premium   | —         | —             | 74             | 9      | 14     | —                |
-| returns.tv       | available | $40.98    | —             | 72             | 16     | 7      | namecheap        |
-| farmers.tv       | resell    | —         | —             | 54             | 59     | 7      | 1API GmbH        |
-| hanginthere.tv   | premium   | —         | —             | 54             | 2      | 13     | —                |
-| intune.tv        | available | $40.98    | —             | 72             | 16     | 7      | namecheap        |
-| stark.tv         | resell    | —         | —             | 72             | 44     | 5      | Porkbun          |
-| moveup.tv        | available | $40.98    | —             | 79             | 14     | 7      | namecheap        |
-| mask.tv          | resell    | —         | —             | 72             | 29     | 4      | GoDaddy.com, LLC |
-| proofs.tv        | available | $40.98    | —             | 55             | 13     | 6      | namecheap        |
-| earn.tv          | resell    | —         | —             | 66             | 28     | 4      | GoDaddy.com, LLC |
-| niggers.tv       | available | $40.98    | —             | 37             | 13     | 7      | namecheap        |
-| forms.tv         | resell    | —         | —             | 54             | 28     | 5      | GoDaddy.com, LLC |
-| terracotta.tv    | available | $40.98    | —             | 72             | 12     | 11     | namecheap        |
-| gods.tv          | resell    | —         | —             | 72             | 27     | 4      | Dynadot Inc      |
-| crows.tv         | available | $26.99    | $26.99        | 68             | 12     | 5      | namesilo         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aftuh.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
+| bad.tv       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| affluence.tv | premium   | $26.99    | $26.99        | high           | low    | 9      | namesilo         |
+| balmy.tv     | available | $40.98    | —             | high           | low    | 5      | namecheap        |
+| big.tv       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| oddly.tv     | available | $40.98    | —             | medium         | low    | 5      | namecheap        |
+| buy.tv       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| ohoh.tv      | available | $26.99    | $26.99        | high           | low    | 5      | namesilo         |
+| DIY.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| Rhoda.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
+| fog.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| shaky.tv     | available | $40.98    | —             | medium         | low    | 5      | namecheap        |
+| mao.tv       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| tanks.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
+| mom.tv       | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
+| terms.tv     | available | $26.99    | $26.99        | high           | low    | 5      | namesilo         |
+| NWO.tv       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
+| towed.tv     | available | $40.98    | —             | low            | low    | 5      | namecheap        |
+| pan.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| widen.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,065 live domains                         |
+| 1,000-row public sample | 9,067 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .tv domains. The set includes broad English words such as audio.tv, weave.tv, award.tv, exemplary.tv, and fantastic.tv. For founders, the main appeal is memorability: a single dictionary word can feel clear, brandable, and easy to recall. For investors, the focus is tighter: compare the ask against word quality, commercial relevance, and likely resale interest within the .tv extension. When comparing these domains, check whether the word naturally fits video, streaming, media, audio, entertainment, or creator brands, since that fit often matters more in .tv than in broader extensions.
+One-word .TV domain names carry a built-in association with video, streaming, and media brands, making them a natural fit for content platforms and modern digital ventures. This set spans everyday English words—from action terms like windowshop.tv and steerclear.tv to lifestyle names like dogwalking.tv and career.tv—each offering a short, memorable base for a brand. With a median ask near $31, most names in this list sit well within reach for early-stage projects, though renewal cost and demand should always factor into any decision.
 
-- One-word .tv names with broad media and brand use
-- Median ask across this selection is 37.96
-- Prioritize words that fit video, audio, or content brands
-- Check trademark exposure before valuing exact-match terms
+- 9,067 one-word .TV domains in this selection
+- Median ask near $31 — budget-friendly entry point
+- Includes brandable names like career.tv and windowshop.tv
+- Updated daily to reflect current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
