@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tv one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,114 domains · **Median ask:** $29.09 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/tv`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| television.tv | resell    | —         | —             | high           | low    | 10     | eNom, LLC            |
-| bad.tv        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
-| special.tv    | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC     |
-| count.tv      | available | —         | —             | high           | low    | 5      | —                    |
-| skill.tv      | resell    | —         | —             | high           | medium | 5      | Mesh Digital Limited |
-| cxlv.tv       | available | $26.99    | $26.99        | low            | low    | 4      | namesilo             |
-| affluence.tv  | premium   | $26.99    | $26.99        | high           | low    | 9      | namesilo             |
-| lvii.tv       | available | $26.99    | $26.99        | low            | low    | 4      | namesilo             |
-| big.tv        | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
-| aftuh.tv      | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo             |
-| buy.tv        | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc          |
-| agone.tv      | available | $29.98    | $40.98        | low            | low    | 5      | namecheap            |
-| DIY.tv        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
-| anile.tv      | available | $26.99    | $26.99        | low            | low    | 5      | namesilo             |
-| fog.tv        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc          |
-| aroid.tv      | available | $26.99    | $26.99        | low            | low    | 5      | namesilo             |
-| mao.tv        | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc          |
-| ashen.tv      | available | $26.99    | $26.99        | low            | low    | 5      | namesilo             |
-| mom.tv        | resell    | —         | —             | high           | low    | 3      | Epik LLC             |
-| atrip.tv      | available | $26.99    | $26.99        | low            | low    | 5      | namesilo             |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| cxlv.tv      | available | $26.99    | $26.99        | low            | low    | 4      | namesilo         |
+| bad.tv       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| affluence.tv | premium   | $26.99    | $26.99        | high           | low    | 9      | namesilo         |
+| lvii.tv      | available | $26.99    | $26.99        | low            | low    | 4      | namesilo         |
+| big.tv       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| aftuh.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
+| buy.tv       | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc      |
+| agone.tv     | available | $29.98    | $40.98        | low            | low    | 5      | namecheap        |
+| DIY.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| anile.tv     | available | $26.99    | $26.99        | low            | low    | 5      | namesilo         |
+| fog.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| aroid.tv     | available | $26.99    | $26.99        | low            | low    | 5      | namesilo         |
+| mao.tv       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| ashen.tv     | available | $26.99    | $26.99        | low            | low    | 5      | namesilo         |
+| mom.tv       | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
+| atrip.tv     | available | $26.99    | $26.99        | low            | low    | 5      | namesilo         |
+| NWO.tv       | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
+| axile.tv     | available | $26.99    | $26.99        | low            | low    | 5      | namesilo         |
+| pan.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| balmy.tv     | available | $40.98    | —             | high           | low    | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
