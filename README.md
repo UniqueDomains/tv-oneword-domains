@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tv one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,712 domains · **Median ask:** $28.12 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/tv`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cxlv.tv      | available | $26.99    | $26.99        | high           | low    | 4      | namesilo         |
-| diy.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| affluence.tv | premium   | $26.99    | $26.99        | high           | low    | 9      | namesilo         |
-| lxiv.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo         |
-| fog.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| tues.tv      | available | $26.99    | $26.99        | high           | low    | 4      | namesilo         |
-| les.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| xlii.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo         |
-| lp.tv        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| xliv.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo         |
-| mao.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| agone.tv     | available | $29.98    | $40.98        | medium         | low    | 5      | namecheap        |
-| mom.tv       | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
-| alate.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
-| nwo.tv       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| algal.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
-| pan.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| anile.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
-| pin.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| aroid.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| cxlv.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo    |
+| ann.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| affluence.tv | premium   | $26.99    | $26.99        | high           | low    | 9      | namesilo    |
+| lxiv.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo    |
+| boy.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| tues.tv      | available | $26.99    | $26.99        | high           | low    | 4      | namesilo    |
+| con.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| xlii.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo    |
+| diy.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| xliv.tv      | available | $26.99    | $26.99        | medium         | low    | 4      | namesilo    |
+| fog.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| acids.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
+| gee.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| agone.tv     | available | $29.98    | $40.98        | medium         | low    | 5      | namecheap   |
+| les.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| alate.tv     | available | $26.99    | $26.99        | high           | low    | 5      | namesilo    |
+| lp.tv        | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| algal.tv     | available | $26.99    | $26.99        | high           | low    | 5      | namesilo    |
+| mao.tv       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| among.tv     | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
