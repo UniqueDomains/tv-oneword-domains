@@ -93,6 +93,7 @@ e79f7047-182e-4952-ae7b-6a45a5ccf6fa,aaron.tv,available,,,high,low,5,,,,
 3734f95c-92cc-4438-8d61-001affd1abe1,friendly.tv,resell,,,high,low,8,Dynadot Inc,28/02/2017 12:02,28/02/2027 12:02,26/09/2026 06:15
 0da4341b-80aa-40cd-825c-1b81dc99b3d3,overgrown.tv,available,26.99,26.99,medium,low,9,namesilo,,,04/09/2026 20:42
 e2fba25d-abbf-499b-b603-66cf1a12179a,armoire.tv,available,26.99,26.99,medium,low,7,namesilo,,,20/09/2026 07:20
+8f857e57-3ca4-4e57-bca4-b99557743e76,bombing.tv,available,26.99,26.99,medium,low,7,namesilo,,,27/09/2026 11:45
 320460ea-7267-4b98-8aae-a5a0b9b289a2,harmonised.tv,available,26.99,26.99,high,low,10,namesilo,,,12/08/2026 22:52
 2a2cbb20-49b2-473d-8206-765609362634,dendritic.tv,available,26.99,26.99,medium,low,9,namesilo,,,14/08/2026 01:48
 f92682c9-bba3-4c97-83dd-3c18cdfceea6,funnily.tv,available,26.99,26.99,medium,low,7,namesilo,,,14/09/2026 20:40
@@ -187,6 +188,7 @@ ddf5e344-2668-4a94-b83c-8b4ee82d9f4d,pancreas.tv,available,26.99,26.99,high,low,
 9391e739-0559-4890-8c13-63612d70ff00,during.tv,available,26.99,26.99,medium,low,6,namesilo,,,
 38c3550a-9cf5-4946-8462-9f3ed2cdc694,uninviting.tv,available,26.99,26.99,medium,low,10,namesilo,,,12/09/2026 13:39
 bcb2efcc-9c3a-48dd-9615-58b36349204a,acceptably.tv,available,26.99,26.99,high,medium,10,namesilo,,,10/09/2026 12:55
+eec0870f-3790-48dc-acca-173fb4e35a75,sorts.tv,available,26.99,26.99,medium,low,5,namesilo,,,27/09/2026 10:13
 65d4e12d-9c47-46af-8a10-f0b5a7170b62,obscene.tv,available,,,high,low,7,,,,
 8b08492c-8401-4ce1-9f3e-185ceb1d395e,batholith.tv,available,26.99,26.99,medium,low,9,namesilo,,,22/09/2026 13:43
 e86d5d7f-7e1b-4c12-8c9e-18850e635703,angled.tv,available,,,medium,low,6,,,,
@@ -217,7 +219,6 @@ aad2a8e3-d188-4131-9833-a1d8dc87df32,madly.tv,available,26.99,26.99,medium,low,5
 5166ba69-65d3-4450-8328-293c4396bcc5,accident.tv,resell,,,high,low,8,Dynadot Inc,05/04/2010 12:04,05/04/2027 12:04,26/09/2026 01:20
 c6638587-05c7-45ff-b720-de8f0bbd81b7,steadying.tv,available,29.98,40.98,medium,low,9,namecheap,,,10/09/2026 19:39
 54fd7e3c-1016-48fc-8b87-5346d9098484,polytonal.tv,available,26.99,26.99,medium,low,9,namesilo,,,08/09/2026 23:33
-f0abe20a-58da-4024-964c-ffcbb1710c48,prompt.tv,available,,,high,medium,6,,,,
 fd233fa9-bb21-4588-b06e-472ffb212df0,segmented.tv,available,26.99,26.99,medium,low,9,namesilo,,,24/08/2026 21:43
 fdf95e38-fd1a-4835-8d3e-b65edf332695,immorality.tv,available,26.99,26.99,medium,low,10,namesilo,,,17/08/2026 15:04
 ca7efb5b-5a5e-4f8e-bb78-5d90a7948688,agnosia.tv,available,26.99,26.99,medium,low,7,namesilo,,,17/09/2026 18:46
@@ -295,7 +296,6 @@ eafb9142-c313-420c-a4c1-b95890e79e8e,briss.tv,available,26.99,26.99,medium,low,5
 4f794aac-2ac8-403c-a0cc-cd894128aa63,aotus.tv,available,26.99,26.99,medium,low,5,namesilo,,,19/09/2026 16:05
 8a9928d0-f72d-4cac-9516-1df4aec115a2,speechless.tv,available,26.99,26.99,medium,low,10,namesilo,,,19/09/2026 16:52
 a3f0d081-f02a-493a-813a-72e2785ded72,aristotle.tv,resell,,,high,low,9,"Global Domains International, Inc. DBA DomainCostClub.com",05/05/2008 02:28,05/05/2027 02:28,26/09/2026 04:00
-f305329a-4392-43cb-90cf-3cf5d263c19f,regardless.tv,available,,,high,low,10,,,,
 8d82b6c3-ba6f-49c0-bdce-75d6b7585f79,untroubled.tv,available,26.99,26.99,high,low,10,namesilo,,,10/09/2026 01:30
 d6b73372-4d01-4dcc-bd11-f7508dc13324,apophasis.tv,available,29.98,40.98,medium,low,9,namecheap,,,19/09/2026 19:01
 e737dd12-0459-4d52-8fab-75328a33dae0,mouths.tv,available,26.99,26.99,medium,low,6,namesilo,,,18/09/2026 08:01
@@ -362,6 +362,7 @@ ea7f4e4f-f185-4813-bd71-bb9d778acbea,offer.tv,resell,,,high,low,5,"Spaceship, In
 6fb1ea90-c640-42b3-8e80-5e4782d12380,downy.tv,available,26.99,26.99,high,low,5,namesilo,,,14/08/2026 17:40
 eefa4f42-89f4-4d70-9515-d8d8d15aa444,excites.tv,available,26.99,26.99,medium,low,7,namesilo,,,20/09/2026 13:19
 a0b1b722-f671-4fc2-bf97-07358c337538,absorbing.tv,available,26.99,26.99,high,low,9,namesilo,,,21/09/2026 15:02
+bfdcf584-e76b-41d6-82da-9159d236c53b,embarrassing.tv,available,26.99,26.99,high,low,12,namesilo,,,27/09/2026 06:37
 2d46fa7e-b490-48c4-b710-623722598cdd,pickaback.tv,available,26.99,26.99,medium,low,9,namesilo,,,15/09/2026 19:48
 27a9b6a2-67a7-4251-bd98-2e7a50f25e4f,severed.tv,available,41.99,46.99,medium,low,7,name.com,,,13/08/2026 12:32
 9b38ccbe-954a-4237-b61b-76e159658ef4,retch.tv,available,26.99,26.99,high,medium,5,namesilo,,,10/09/2026 07:37
@@ -476,6 +477,7 @@ f6adedab-d8f5-4b37-9035-516377f80aff,floored.tv,available,26.99,26.99,medium,low
 41aaef45-adeb-4e5b-b79e-c0f93711873a,macaronic.tv,available,26.99,26.99,medium,low,9,namesilo,,,24/08/2026 12:44
 e6b43df2-7c46-426c-ad13-3d54f0945284,personable.tv,available,29.98,40.98,high,low,10,namecheap,,,08/09/2026 17:59
 4b03f741-f1d3-4ae8-9247-be8a1b13df9f,masted.tv,available,26.99,26.99,medium,low,6,namesilo,,,24/08/2026 16:45
+fd0d5692-f0ca-4e4c-87d8-2a7e16b90167,cart.tv,resell,,,high,low,4,,,,27/09/2026 12:16
 345efc74-756a-40c9-a26d-c8fcb41488c5,inherited.tv,available,26.99,26.99,high,low,9,namesilo,,,18/08/2026 21:33
 68ccc05f-5860-423e-9ec0-e9e39890a559,mutative.tv,available,26.99,26.99,medium,low,8,namesilo,,,03/09/2026 11:48
 dc574afc-2c3e-40b3-8074-912cf979c0eb,eyesight.tv,available,,,high,low,9,,,,
@@ -501,7 +503,7 @@ c33c3a80-7189-4d61-a6a8-e7812064e23d,gomad.tv,available,26.99,26.99,medium,low,6
 389621a2-80f9-4128-9d9d-c869fda3f855,farms.tv,resell,,,medium,low,5,1API GmbH,30/04/2002 21:38,30/04/2027 21:38,26/09/2026 06:01
 2bef34c7-59c3-41f6-b633-857dd0226d38,copesetic.tv,available,26.99,26.99,high,low,9,namesilo,,,13/08/2026 00:22
 8be1874c-3a28-45fe-b4c6-60d4f41bbc63,immoderate.tv,available,29.98,40.98,medium,low,10,namecheap,,,21/08/2026 21:07
-e91ff159-957a-43e8-babe-3c1bc0390e1f,publicized.tv,available,26.99,26.99,high,low,10,namesilo,,,
+e91ff159-957a-43e8-babe-3c1bc0390e1f,publicized.tv,available,26.99,26.99,high,low,10,namesilo,,,27/09/2026 08:05
 829c7c54-65e0-4a92-b4ae-cbcac18d99ef,orca.tv,available,,,high,medium,4,,,,
 d9373c21-5bfe-48fb-850a-7636bb61668a,ungraded.tv,available,26.99,26.99,medium,low,8,namesilo,,,14/08/2026 09:06
 5b31d6fc-ae8f-42c5-962a-4846df8d2b8c,glassless.tv,available,26.99,26.99,medium,low,9,namesilo,,,20/08/2026 14:11
@@ -675,6 +677,7 @@ a7fae506-f088-4815-bc84-a46cde4dccd1,bennington.tv,available,26.99,26.99,high,lo
 7723fb97-ac6c-41bc-880d-55db7375399d,abvolt.tv,available,29.98,40.98,medium,low,6,namecheap,,,16/09/2026 19:39
 c416c2fd-f306-4be2-8d0b-70c41ad473d8,chanukkah.tv,available,40.98,,medium,low,9,namecheap,,,
 a8a1c98c-f35c-4c4b-bf08-c323d2e9e790,application.tv,resell,,,high,low,11,,,,27/09/2026 02:05
+be006cd7-2270-4898-ae2b-13f153b30f2c,becomes.tv,available,26.99,26.99,medium,low,7,namesilo,,,27/09/2026 10:31
 642c5f31-4c0e-4ecc-953c-6ba537844a09,oleaceous.tv,available,26.99,26.99,medium,low,9,namesilo,,,04/09/2026 02:06
 3d75421e-3e5d-4674-a32f-7c815eed6df0,unguided.tv,available,26.99,26.99,medium,low,8,namesilo,,,12/09/2026 11:41
 5c5cb2f0-bfd3-45de-8a13-4764a6495f75,octavo.tv,available,26.99,26.99,medium,low,6,namesilo,,,16/09/2026 12:43
@@ -731,7 +734,8 @@ a0040f77-b31c-4481-9e1d-e3fa5559ac32,alarmingly.tv,available,26.99,26.99,low,low
 ae7cb88c-a0a3-4a83-9b11-c586dfa940d4,incursive.tv,available,26.99,26.99,medium,low,9,namesilo,,,22/08/2026 02:09
 cf112bef-26dd-4d6c-8804-e357ebd15373,murmuring.tv,available,26.99,26.99,high,low,9,namesilo,,,03/09/2026 11:06
 b0c9de03-a47c-4723-b515-8be44fedea56,antiquated.tv,available,26.99,26.99,medium,low,10,namesilo,,,
-1e7f9366-f7b5-49fb-9040-e99c0e1c6a97,resolute.tv,resell,,,high,low,8,"GoDaddy.com, LLC",10/09/2020 04:21,10/09/2027 04:21,26/09/2026 08:37
+1e7f9366-f7b5-49fb-9040-e99c0e1c6a97,resolute.tv,resell,,,high,low,8,"GoDaddy.com, LLC",10/09/2020 04:21,10/09/2027 04:21,27/09/2026 12:14
+f045381e-770b-43b2-ac9c-d1011c3ffe65,wreck.tv,resell,,,high,low,5,,,,27/09/2026 05:55
 afa5899d-7f59-4d83-9654-884f288f54b4,tenner.tv,available,41.99,46.99,medium,low,6,name.com,,,21/09/2026 10:53
 cadcbcdd-8102-4cd0-92b9-e5285e106691,defending.tv,available,26.99,26.99,high,low,9,namesilo,,,13/08/2026 23:13
 2a3b0b37-69f1-45cf-bc16-8d4540adad82,monotonous.tv,available,26.99,26.99,medium,low,10,namesilo,,,25/08/2026 05:30
@@ -742,6 +746,7 @@ e1b1e80a-bc2f-4ddd-9220-3b1589338cd9,fitful.tv,available,26.99,26.99,medium,low,
 45f9e16c-66cc-4ffd-9c8d-ff0075fbfb8f,completing.tv,available,26.99,26.99,high,low,10,namesilo,,,23/09/2026 17:20
 c6f6bffe-ca87-46c8-8a7d-13d1179b51a7,antilog.tv,available,26.99,26.99,medium,low,7,namesilo,,,19/09/2026 14:38
 7136603e-747e-471f-8c66-35b6f02619da,histrion.tv,available,26.99,26.99,medium,low,8,namesilo,,,11/09/2026 13:07
+bbbfddd3-a758-4c70-9334-25cc978623f0,cheers.tv,resell,,,high,low,6,,,,27/09/2026 06:11
 4374844d-1c3e-49cf-9691-ce0192aa91ae,courtly.tv,available,26.99,26.99,high,low,7,namesilo,,,13/08/2026 03:50
 023e1dfa-8e0e-4d7f-a744-348ccff5666a,archean.tv,available,26.99,26.99,medium,low,7,namesilo,,,06/08/2026 15:05
 e220743b-eaee-44a6-87f3-10f81a4694ca,coveted.tv,available,26.99,26.99,high,low,7,namesilo,,,24/09/2026 00:56
@@ -763,7 +768,7 @@ bbf6a70d-7781-4e4d-8d33-b339a4174796,cranial.tv,available,26.99,26.99,medium,low
 836393b0-4527-42bd-b9ee-94256223085c,jeweled.tv,available,29.98,40.98,high,low,7,namecheap,,,18/08/2026 21:10
 7aec3861-f909-4547-84f6-dd820cc15bf7,camwood.tv,available,26.99,26.99,medium,low,7,namesilo,,,17/09/2026 15:22
 c419df62-addb-44c8-8e1b-55409ba7a200,swazi.tv,available,26.99,26.99,high,low,5,namesilo,,,11/09/2026 05:27
-2fda8da7-6344-4328-b597-f203ff672c46,principled.tv,available,26.99,26.99,high,low,10,namesilo,,,
+2fda8da7-6344-4328-b597-f203ff672c46,principled.tv,available,26.99,26.99,high,low,10,namesilo,,,27/09/2026 05:57
 6315ec52-1b2e-47b2-85a6-ce54b41a5524,birder.tv,available,41.99,46.99,high,low,6,name.com,,,23/09/2026 20:38
 acf87dbf-b59a-4c6f-854d-a56e202a3e7a,inhabitant.tv,available,26.99,26.99,high,low,10,namesilo,,,24/09/2026 21:51
 c14adeb7-ca68-43b7-aa7c-abff7add5fa3,sweat.tv,resell,,,high,low,5,Dynadot Inc,15/06/2020 01:41,15/06/2027 01:41,26/09/2026 09:27
@@ -831,6 +836,7 @@ a523f15f-4fb8-496d-8392-f4c440b5395d,avidness.tv,available,29.98,40.98,medium,lo
 8be9cba1-19eb-447d-bde5-e470f8659ab9,subnormal.tv,resell,,,medium,low,9,InternetX GmbH,02/06/2005 19:14,02/06/2027 19:14,26/09/2026 09:22
 a377b8e2-4579-4f0d-b493-13e238b59a91,unsilenced.tv,available,29.98,40.98,medium,low,10,namecheap,,,12/09/2026 19:56
 1fb5bb4a-2747-417d-854e-d9f2f90c473b,important.tv,resell,,,high,low,9,"GoDaddy.com, LLC",16/11/2022 22:44,16/11/2026 22:44,26/09/2026 06:49
+7e68d327-2a3e-4434-a3a2-cf8bf49652d2,confirm.tv,resell,,,high,low,7,,,,27/09/2026 05:57
 c079e48c-6b75-4cbd-9e46-bc009971c735,ham.tv,resell,,,high,low,3,Dynadot Inc,18/12/2016 15:23,18/12/2026 15:23,26/09/2026 06:33
 09c2a954-f8f9-4ab5-8f47-44e2452323de,algol.tv,available,26.99,26.99,medium,low,5,namesilo,,,18/09/2026 07:05
 df4f59d8-724a-446c-ab58-957d7978acb6,distribute.tv,resell,,,high,low,10,"Name.com, Inc.",23/04/2010 08:00,23/04/2027 08:00,26/09/2026 05:36
@@ -993,9 +999,3 @@ afe6faa2-f0b3-4d69-b70b-a9e45f757e18,acetum.tv,available,26.99,26.99,medium,low,
 a7c3fa9e-ecc2-4019-b676-75693e00ed60,justification.tv,available,26.99,26.99,medium,low,13,namesilo,,,
 e043899d-2730-46e1-a58e-cba2ca63a63e,laborious.tv,available,26.99,26.99,medium,low,9,namesilo,,,06/08/2026 17:00
 af79bb9f-17a2-4520-91a2-a927e8fb67b9,diversion.tv,resell,,,high,low,9,GoDaddy Online Services Cayman Islands Ltd.,19/09/2006 00:19,19/09/2028 00:19,26/09/2026 05:37
-8282241d-edb2-468d-a75c-942cd215e1f3,deflated.tv,available,26.99,26.99,medium,low,8,namesilo,,,12/08/2026 02:17
-c2ae7465-c721-4022-9a06-96260dba7eb4,progressive.tv,resell,,,high,low,11,Dynadot Inc,25/08/2018 09:37,25/08/2027 09:37,26/09/2026 08:21
-b02f24cc-146f-4540-ac87-a8a8641c5956,academism.tv,available,29.98,40.98,medium,low,9,namecheap,,,16/09/2026 20:23
-82ed2436-c55f-4d16-af0d-2bd9053a3a6f,autocue.tv,available,26.99,26.99,high,low,7,namesilo,,,21/09/2026 06:14
-807745a5-3872-42d4-a4e9-1e9462f92ac4,uncouth.tv,available,29.98,40.98,high,medium,7,namecheap,,,09/09/2026 18:58
-0a9e4d88-8417-481b-a022-deb0bde5aa3a,rebuff.tv,available,26.99,26.99,medium,low,6,namesilo,,,10/09/2026 10:49
