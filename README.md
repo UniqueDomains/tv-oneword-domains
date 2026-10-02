@@ -1,10 +1,10 @@
-# Available .TV One-Word Domains (17,477)
+# Available .TV One-Word Domains (18,264)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C477%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C264%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tv one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **17,477 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,264 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 17,477 domains · **Median ask:** $27.50 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 18,264 domains · **Median ask:** $27.41 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/tv`
 **Best for:** founders, investors, studios
 
@@ -65,22 +65,22 @@ print(df.head())
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | hara.tv  | available | $24.98    | $24.98        | medium         | low    | 4      | spaceship   |
-| cpr.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| afa.tv   | resell    | —         | —             | high           | low    | 3      | —           |
 | amply.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| des.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| cpr.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
 | angas.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| gun.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| des.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
 | anjou.tv | available | $26.99    | $26.99        | high           | low    | 5      | namesilo    |
-| hat.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| gun.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
 | annan.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| ipa.tv   | resell    | —         | —             | high           | low    | 3      | —           |
+| hat.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
 | aotus.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| nfl.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
+| jie.tv   | resell    | —         | —             | high           | low    | 3      | —           |
 | appro.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| pba.tv   | resell    | —         | —             | high           | low    | 3      | —           |
+| nfl.tv   | resell    | —         | —             | high           | low    | 3      | Dynadot Inc |
 | areca.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
-| reo.tv   | resell    | —         | —             | medium         | low    | 3      | —           |
-| baric.tv | available | $26.99    | $26.99        | low            | low    | 5      | namesilo    |
+| pba.tv   | resell    | —         | —             | high           | low    | 3      | —           |
+| arran.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
 | shi.tv   | resell    | —         | —             | medium         | low    | 3      | —           |
 | basle.tv | available | $26.99    | $26.99        | medium         | low    | 5      | namesilo    |
 | sst.tv   | resell    | —         | —             | high           | low    | 3      | —           |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 17,477 live domains                        |
+| 1,000-row public sample | 18,264 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TV One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TV One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
