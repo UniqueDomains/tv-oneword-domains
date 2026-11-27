@@ -4,9 +4,9 @@
 
 1,000 real .tv one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [56,538 names on .tv](https://unique.domains/tld/tv); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [56,636 names on .tv](https://unique.domains/tld/tv); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-45,572 one-word .tv names are free to register today. Cheapest first year $24.98 at Spaceship, renewal $24.98 there. 38 .tv sales in the last 12 months, median $2,875.
+45,661 one-word .tv names are free to register today. Cheapest first year $24.98 at Spaceship, renewal $24.98 there. 42 .tv sales in the last 12 months, median $2,875.
 
 Live page: [unique.domains/tld/tv](https://unique.domains/tld/tv?utm_source=github&utm_medium=referral&utm_campaign=repo_tv_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 22,278 names in the live list today.
+- The files hold 1,000 rows of the 22,420 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
